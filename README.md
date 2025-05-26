@@ -5,4 +5,7 @@ Please follow the instructions [DATASETS.md](https://github.com/KaiyangZhou/CoOp
 
 ## Run Scripts
 
-
+For a quick start, try:
+```
+bash scripts/run.sh
+```
