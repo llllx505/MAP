@@ -1,0 +1,606 @@
+{
+    "still rings": [
+        "gymnast performing on still rings apparatus.",
+        "holding onto the rings, executing static and dynamic movements.",
+        "focus on strength, balance, and control.",
+        "gymnastics equipment and athlete's posture visible."
+    ],
+    "mixing": [
+        "person mixing ingredients or substances.",
+        "stirring or blending motion with a utensil.",
+        "mixing bowl or container with ingredients visible.",
+        "cooking or food preparation setting."
+    ],
+    "uneven bars": [
+        "gymnast performing on uneven bars.",
+        "swinging and transitioning between the bars.",
+        "combining dynamic and graceful movements.",
+        "gymnastics apparatus and athlete's posture visible."
+    ],
+    "tennis swing": [
+        "tennis player executing a forehand or backhand swing.",
+        "racket in motion, striking the ball.",
+        "concentration on timing and technique.",
+        "tennis court, net, and ball visible."
+    ],
+    "punch": [
+        "person throwing a punch with their fist.",
+        "dynamic and forceful arm movement.",
+        "commonly seen in martial arts or boxing.",
+        "athletic posture and motion visible."
+    ],
+    "billiards": [
+        "person playing billiards or pool.",
+        "striking the cue ball with a cue stick.",
+        "skillful aiming and pocketing balls into pockets.",
+        "billiard table, balls, and cues visible."
+    ],
+    "pizza tossing": [
+        "chef tossing pizza dough in the air.",
+        "skillful flipping and stretching of the dough.",
+        "creating a circular pizza base.",
+        "cooking or pizza-making environment."
+    ],
+    "rowing": [
+        "person or team in a boat on water.",
+        "use of oars to propel the boat forward.",
+        "dynamic motion of rowing strokes.",
+        "water ripples or splashes around the boat."
+    ],
+    "playing sitar": [
+        "musician seated with a sitar, a stringed instrument.",
+        "distinctive shape of the sitar's body and neck.",
+        "fingers plucking the strings.",
+        "traditional clothing or setting may be present."
+    ],
+    "playing guitar": [
+        "musician holding a guitar.",
+        "fingers on the fretboard and strumming or plucking strings.",
+        "variety of guitar types, each with its own distinctive shape."
+    ],
+    "long jump": [
+        "athlete in a jumping stance, preparing to leap.",
+        "explosive motion forward with arms and legs extended.",
+        "sandpit or landing area visible in the background.",
+        "distinct take-off and landing positions."
+    ],
+    "baby crawling": [
+        "infant on all fours, moving across the floor.",
+        "repetitive crawling motion.",
+        "developing motor skills, with an adorable and playful aspect.",
+        "home or indoor environment typically shown."
+    ],
+    "volleyball spiking": [
+        "volleyball player in mid-air, jumping near the net.",
+        "arm raised high to hit the ball downward into the opponent's court.",
+        "concentrated facial expression and body positioning for power.",
+        "net and volleyball court visible in the background."
+    ],
+    "cliff diving": [
+        "diver positioned on a high cliff or platform.",
+        "diver in a ready-to-jump posture with arms extended.",
+        "dramatic height difference and natural surroundings.",
+        "water below, often with splashes visible on impact."
+    ],
+    "rafting": [
+        "group of people in an inflatable raft on a river.",
+        "paddling with synchronized motions.",
+        "rapids, water splashes, and the raft itself are key elements.",
+        "adventure gear and life vests may be visible."
+    ],
+    "band marching": [
+        "group of musicians marching in formation.",
+        "playing musical instruments while walking.",
+        "uniforms, instruments, and coordinated steps.",
+        "often seen in parades or performances."
+    ],
+    "handstand walking": [
+        "person walking on their hands with their body inverted.",
+        "hands supporting the body's weight, legs elevated.",
+        "balancing and coordinated movement.",
+        "gym or open space setting."
+    ],
+    "playing tabla": [
+        "musician seated with a tabla, a pair of drums.",
+        "skillful and rhythmic hand movements on the drum heads.",
+        "concentration on creating complex beats and patterns.",
+        "traditional attire or setting might be present."
+    ],
+    "wall pushups": [
+        "person performing pushups against a wall.",
+        "vertical position, with hands placed on the wall and feet slightly away.",
+        "arms and shoulders engaged, similar to traditional pushups.",
+        "often used as a modification for pushup exercises."
+    ],
+    "haircut": [
+        "barber or stylist cutting someone's hair.",
+        "scissors or clippers in hand, engaged in precise cutting motions.",
+        "mirror, hair styling tools, and salon environment may be visible."
+    ],
+    "sumo wrestling": [
+        "sumo wrestlers in traditional attire (mawashi) engaged in a match.",
+        "intense physical contact and grappling.",
+        "large, well-defined wrestlers with distinctive body posture and expressions.",
+        "circular ring (dohyo) and referee might be present."
+    ],
+    "trampoline jumping": [
+        "person or athlete on a trampoline.",
+        "bouncing and jumping movements with increased height.",
+        "distinctive trampoline structure and fabric visible.",
+        "playful and energetic atmosphere."
+    ],
+    "clean and jerk": [
+        "weightlifter performing the two-part olympic lift.",
+        "lifting a barbell from the ground to shoulder height (clean) and then overhead (jerk).",
+        "dynamic and explosive motions with a heavy barbell.",
+        "distinctive grip and body movements."
+    ],
+    "ice dancing": [
+        "skaters performing intricate dance routines on ice.",
+        "smooth and graceful movements, often synchronized with a partner.",
+        "emphasis on elegance, choreography, and synchronization.",
+        "ice skates and rink environment visible."
+    ],
+    "skate boarding": [
+        "person riding a skateboard on various surfaces.",
+        "performing tricks, jumps, and flips.",
+        "distinctive skateboard shape and wheels visible.",
+        "urban or skate park environment."
+    ],
+    "diving": [
+        "diver positioned on a diving board or platform.",
+        "elegantly executed leaps and twists in mid-air.",
+        "water surface below, often with splashes on entry.",
+        "concentration on form and precision."
+    ],
+    "knitting": [
+        "person engaged in creating fabric by intertwining yarn with needles.",
+        "methodical and repetitive hand motions.",
+        "yarn ball, knitting needles, and partially finished work visible.",
+        "relaxed and focused atmosphere."
+    ],
+    "boxing speed bag": [
+        "boxer in a training session.",
+        "rapidly hitting a small hanging bag (speed bag) with fists.",
+        "quick and rhythmic punching motions.",
+        "focus on hand-eye coordination and timing."
+    ],
+    "rock climbing indoor": [
+        "climber navigating artificial indoor climbing walls.",
+        "gripping and ascending using holds and routes of various difficulty levels.",
+        "climbing harness, ropes, and safety gear might be visible.",
+        "dynamic poses and body positioning."
+    ],
+    "skiing": [
+        "skier on snow-covered slopes.",
+        "gliding downhill using skis, poles, and snow attire.",
+        "various skiing styles, such as alpine or cross-country.",
+        "snowy mountain landscape in the background."
+    ],
+    "front crawl": [
+        "swimmer moving forward in a prone position.",
+        "alternating arm strokes and kicking legs.",
+        "breathing to the side while maintaining streamlined body position.",
+        "pool or open water setting."
+    ],
+    "horse race": [
+        "jockeys and thoroughbred horses racing on a track.",
+        "jockeys in distinctive racing attire.",
+        "horses in full gallop, with intense competition.",
+        "spectators, race track, and finish line may be visible."
+    ],
+    "bowling": [
+        "person in a bowling alley, holding a bowling ball.",
+        "approaching the lane and releasing the ball.",
+        "focused posture and motion of the arm.",
+        "pins set up at the end of the lane."
+    ],
+    "head massage": [
+        "person giving or receiving a head massage.",
+        "hands moving gently and rhythmically over the scalp.",
+        "relaxing and calming environment.",
+        "expressions of comfort and relaxation."
+    ],
+    "table tennis shot": [
+        "table tennis player engaged in a match.",
+        "swift back-and-forth racket movements.",
+        "ball in motion, often blurred due to speed.",
+        "table tennis table and net visible."
+    ],
+    "hammering": [
+        "person using a hammer to strike an object.",
+        "repetitive motion of raising and bringing down the hammer.",
+        "concentrated focus on the point of impact.",
+        "workbench or surface, and tools may be present."
+    ],
+    "apply eye makeup": [
+        "person using makeup brushes and products around the eyes.",
+        "delicate and precise motions to enhance eye appearance.",
+        "mirror, makeup palette, and brushes visible.",
+        "personal care and grooming setting."
+    ],
+    "brushing teeth": [
+        "person in front of a sink or mirror.",
+        "holding a toothbrush and applying toothpaste.",
+        "circular and back-and-forth brushing motions.",
+        "water, toothpaste foam, and personal care setting."
+    ],
+    "jumping jack": [
+        "person performing a calisthenic exercise.",
+        "simultaneously jumping while spreading arms and legs wide.",
+        "dynamic and energetic movements.",
+        "fitness environment, often in a group setting."
+    ],
+    "playing violin": [
+        "musician holding a violin and bow.",
+        "fingers pressing on the strings and bow moving across them.",
+        "concentrated facial expressions and posture.",
+        "classical music setting, possibly with sheet music."
+    ],
+    "basketball": [
+        "players on a basketball court.",
+        "dribbling, passing, and shooting the ball into a hoop.",
+        "distinctive orange ball and hoop structure.",
+        "team sport with competitive and fast-paced action."
+    ],
+    "baseball pitch": [
+        "baseball player on the pitcher's mound.",
+        "wind-up and throwing motion to pitch the ball.",
+        "focused and determined posture.",
+        "baseball diamond, players, and equipment visible."
+    ],
+    "mopping floor": [
+        "person holding a mop and bucket.",
+        "pushing or pulling the mop to clean the floor surface.",
+        "repetitive sweeping motions.",
+        "cleaning supplies and a floor in the background."
+    ],
+    "field hockey penalty": [
+        "field hockey player preparing to take a penalty shot.",
+        "ball on a penalty spot, player aiming to score.",
+        "distinctive field hockey stick and protective gear.",
+        "goalkeeper and goalposts visible in the background."
+    ],
+    "frisbee catch": [
+        "person catching a flying frisbee disc.",
+        "hand-eye coordination to intercept the disc mid-air.",
+        "concentrated facial expression and body posture.",
+        "outdoor setting, often in a park or recreational area."
+    ],
+    "walking with dog": [
+        "person walking with a dog on a leash.",
+        "human and canine companionship.",
+        "leash, dog breed, and walking environment visible.",
+        "casual and relaxed atmosphere."
+    ],
+    "breast stroke": [
+        "swimmer in a pool.",
+        "performing the breaststroke technique.",
+        "symmetric arm and leg movements, accompanied by a glide.",
+        "face in the water during the stroke."
+    ],
+    "throw discus": [
+        "athlete in a throwing circle.",
+        "discus held in hand, preparing to throw.",
+        "twisting motion of the body to generate momentum.",
+        "discus in flight with a distinct trajectory."
+    ],
+    "salsa spin": [
+        "dancers engaged in salsa dancing.",
+        "performer spinning around with a partner or solo.",
+        "energetic and rhythmic movements.",
+        "vibrant dance attire and music."
+    ],
+    "skijet": [
+        "person riding a jet ski on water.",
+        "maneuvering through waves and performing tricks.",
+        "jet ski's distinctive design and water spray visible.",
+        "recreational water sport setting."
+    ],
+    "shaving beard": [
+        "person shaving facial hair.",
+        "use of a razor or electric shaver.",
+        "facial expressions and focused grooming actions.",
+        "mirror, shaving cream, and bathroom environment."
+    ],
+    "hula hoop": [
+        "person spinning a hula hoop around their waist.",
+        "circular hip movements to keep the hoop in motion.",
+        "playful and rhythmic activity.",
+        "outdoor or open space setting."
+    ],
+    "cricket shot": [
+        "cricketer in a match setting.",
+        "bat held in hand, preparing to hit the ball.",
+        "distinctive cricket gear and uniform.",
+        "ball in motion or fielders visible in the background."
+    ],
+    "golf swing": [
+        "golfer on a golf course.",
+        "executing a golf swing to hit the ball.",
+        "dynamic motion involving a backswing and follow-through.",
+        "golf club and ball trajectory important."
+    ],
+    "fencing": [
+        "fencer engaged in a duel.",
+        "holding a fencing weapon (foil, \u00e9p\u00e9e, or sabre).",
+        "quick and precise attacking and defensive movements.",
+        "protective gear and fencing stance."
+    ],
+    "kayaking": [
+        "person in a kayak on water.",
+        "paddling with a double-bladed paddle.",
+        "navigating through rapids or calm water.",
+        "kayak design and water splashes visible."
+    ],
+    "soccer juggling": [
+        "soccer player keeping the ball in the air using their feet.",
+        "continuous and controlled touches to maintain the ball's height.",
+        "balance and coordination while juggling.",
+        "soccer ball and athletic attire."
+    ],
+    "parallel bars": [
+        "gymnast performing on parallel bars.",
+        "dynamic swings, holds, and maneuvers.",
+        "symmetric hand placement on the bars.",
+        "gymnastics setting with mats and apparatus."
+    ],
+    "apply lipstick": [
+        "person applying lipstick to their lips.",
+        "use of lipstick tube or applicator.",
+        "delicate and precise motions around the lips.",
+        "makeup tools and mirror may be present."
+    ],
+    "blowing candles": [
+        "person blowing out candles on a cake.",
+        "exhalation to extinguish the flames.",
+        "celebratory and joyous atmosphere.",
+        "birthday cake and candles visible."
+    ],
+    "lunges": [
+        "person performing a lunge exercise.",
+        "forward or reverse stepping motion, bending knees.",
+        "focus on leg muscles and lower body strength.",
+        "fitness setting, often with gym attire."
+    ],
+    "swing": [
+        "person on a swing.",
+        "swinging back and forth on the seat.",
+        "playful and leisurely activity.",
+        "swing set or natural surroundings."
+    ],
+    "boxing punching bag": [
+        "boxer training with a punching bag.",
+        "striking the bag with fists and elbows.",
+        "intense and repetitive punching motions.",
+        "athletic attire and boxing gloves."
+    ],
+    "shotput": [
+        "athlete participating in shot put event.",
+        "holding a heavy spherical shot and throwing it.",
+        "powerful twisting motion of the body.",
+        "track and field environment with throwing circle."
+    ],
+    "typing": [
+        "person sitting at a keyboard, typing on a computer or device.",
+        "fingers moving across the keyboard to input text.",
+        "concentration on the screen or keyboard.",
+        "computer setup and work environment."
+    ],
+    "jump rope": [
+        "person jumping over a skipping rope.",
+        "continuous jumping with coordination of rope movement.",
+        "energetic and rhythmic motion.",
+        "jump rope and open space visible."
+    ],
+    "body weight squats": [
+        "person performing squat exercises without added weights.",
+        "lowering the body by bending knees and hips.",
+        "focus on leg muscles and form.",
+        "fitness setting, often part of a workout routine."
+    ],
+    "javelin throw": [
+        "athlete participating in javelin throwing event.",
+        "holding a javelin and preparing to throw.",
+        "dynamic motion involving run-up and release.",
+        "throwing area or track and field setting."
+    ],
+    "nunchucks": [
+        "person skilled in using nunchaku (nunchucks).",
+        "swinging and manipulating the nunchaku with both hands.",
+        "martial arts practice and demonstration.",
+        "distinctive nunchaku design."
+    ],
+    "handstand pushups": [
+        "person performing pushup exercises in a handstand position.",
+        "upside-down posture with hands on the ground.",
+        "dynamic and challenging upper body movement.",
+        "gym or fitness setting."
+    ],
+    "playing dhol": [
+        "person playing a traditional indian drum (dhol).",
+        "striking the drum with sticks to produce rhythmic beats.",
+        "energetic and lively performance.",
+        "cultural attire and setting."
+    ],
+    "soccer penalty": [
+        "soccer player taking a penalty kick.",
+        "ball placed on a penalty spot, ready to be kicked.",
+        "player aiming to score a goal against the goalkeeper.",
+        "soccer field and goalposts visible."
+    ],
+    "biking": [
+        "person riding a bicycle.",
+        "pedaling and propelling the bike forward.",
+        "outdoor setting, often on roads or trails.",
+        "distinctive bicycle design and helmet."
+    ],
+    "floor gymnastics": [
+        "gymnast performing routines on the floor exercise mat.",
+        "acrobatic and tumbling movements.",
+        "expressive dance-like motions.",
+        "gymnastics equipment and mat visible."
+    ],
+    "pull ups": [
+        "person performing pull-up exercises.",
+        "gripping a horizontal bar and lifting the body upwards.",
+        "engaging the upper body muscles.",
+        "fitness setting, often using a pull-up bar."
+    ],
+    "writing on board": [
+        "person using a writing instrument to write on a board.",
+        "marking or drawing content on a chalkboard or whiteboard.",
+        "concentration on the writing task.",
+        "educational or presentation setting."
+    ],
+    "yo yo": [
+        "person playing with a yo-yo.",
+        "executing tricks involving the spinning toy.",
+        "up-and-down motion of the yo-yo's string.",
+        "playful and skillful activity."
+    ],
+    "surfing": [
+        "person riding a surfboard on ocean waves.",
+        "balancing and navigating through the water.",
+        "dynamic and exhilarating motion.",
+        "ocean environment, often with waves visible."
+    ],
+    "playing daf": [
+        "person playing a traditional persian drum (daf).",
+        "striking the drum's surface with hands or fingers.",
+        "rhythmic and melodic beats.",
+        "cultural attire and setting."
+    ],
+    "juggling balls": [
+        "person juggling multiple balls in the air.",
+        "continuous throwing and catching of balls.",
+        "coordinated hand-eye movements.",
+        "playful and entertaining skill."
+    ],
+    "playing flute": [
+        "musician playing a flute.",
+        "fingers covering holes to create different notes.",
+        "soft and melodious music performance.",
+        "musical instrument and musician's posture visible."
+    ],
+    "blow dry hair": [
+        "person using a blow dryer to dry their hair.",
+        "airflow directed toward the hair to dry and style it.",
+        "movement of the hair due to the airflow.",
+        "bathroom or salon setting with mirror and hair products."
+    ],
+    "bench press": [
+        "person lifting weights while lying on a bench.",
+        "barbell or dumbbells lifted upward and lowered.",
+        "engaging chest and arm muscles.",
+        "gym setting with workout equipment."
+    ],
+    "archery": [
+        "archer aiming and shooting a bow and arrow.",
+        "focused and steady posture during aiming.",
+        "dynamic release of the arrow.",
+        "archery range or natural environment visible."
+    ],
+    "military parade": [
+        "soldiers marching in formation.",
+        "display of military discipline and precision.",
+        "uniforms, flags, and banners.",
+        "parade ground or ceremonial setting."
+    ],
+    "cutting in kitchen": [
+        "person using a knife to cut food in a kitchen.",
+        "chopping, slicing, or dicing ingredients.",
+        "cutting board, knife, and food items visible.",
+        "cooking and culinary environment."
+    ],
+    "pole vault": [
+        "athlete performing the pole vault event.",
+        "running with a pole, planting it into the ground, and propelling themselves over a bar.",
+        "dynamic jumping motion involving height and skill.",
+        "track and field setting with landing pit."
+    ],
+    "playing cello": [
+        "cellist playing a cello, a large stringed instrument.",
+        "bow moving across the strings to produce music.",
+        "concentration on playing technique and notes.",
+        "musical instrument and musician's posture visible."
+    ],
+    "balance beam": [
+        "gymnast performing on a balance beam.",
+        "executing flips, spins, and poses on a narrow beam.",
+        "focus on balance, precision, and flexibility.",
+        "gymnastics equipment and mat visible."
+    ],
+    "tai chi": [
+        "person practicing tai chi, a martial art.",
+        "slow and flowing movements, often in a sequence.",
+        "focus on balance, relaxation, and mindfulness.",
+        "outdoor or serene setting."
+    ],
+    "sky diving": [
+        "person free-falling through the sky during a parachute jump.",
+        "parachute visible and canopy might be deployed.",
+        "extreme sport activity with breathtaking aerial views.",
+        "safety gear and parachuting equipment present."
+    ],
+    "high jump": [
+        "athlete performing a high jump.",
+        "sprinting and leaping over a bar set at a height.",
+        "arched back and clearance of the bar.",
+        "track and field event with landing pit."
+    ],
+    "horse riding": [
+        "person riding a horse, often in an equestrian setting.",
+        "control and coordination of the horse's movements.",
+        "rider's posture and horse's gaits.",
+        "equestrian attire and equipment visible."
+    ],
+    "pommel horse": [
+        "gymnast performing routines on the pommel horse.",
+        "swinging and circling movements on the apparatus.",
+        "focus on balance and strength.",
+        "gymnastics equipment and mat visible."
+    ],
+    "drumming": [
+        "person playing drums, often part of a musical band.",
+        "striking drumheads and cymbals with drumsticks.",
+        "energetic and rhythmic motion.",
+        "musical instruments and musician's posture visible."
+    ],
+    "cricket bowling": [
+        "cricketer in a match, preparing to bowl.",
+        "holding the cricket ball and getting ready to deliver it.",
+        "bowling action with the focus on accuracy and speed.",
+        "cricket pitch, wickets, and fielders visible."
+    ],
+    "rope climbing": [
+        "person ascending a rope using hand and leg coordination.",
+        "dynamic motion involving grip strength.",
+        "climbing up a vertical rope or obstacle.",
+        "fitness setting or adventure sport environment."
+    ],
+    "basketball dunk": [
+        "basketball player leaping to dunk the ball through the hoop.",
+        "powerful upward jump with the ball in hand.",
+        "ball goes through the hoop for a score.",
+        "basketball court, hoop, and spectators visible."
+    ],
+    "push ups": [
+        "person performing push-up exercises.",
+        "hands on the ground, body raised and lowered.",
+        "engaging the upper body and core muscles.",
+        "fitness setting, often using a mat."
+    ],
+    "hammer throw": [
+        "athlete participating in the hammer throw event.",
+        "swinging and spinning motion to throw a heavy hammer.",
+        "release of the hammer for distance.",
+        "track and field setting with throwing circle."
+    ],
+    "playing piano": [
+        "musician playing the piano.",
+        "fingers pressing piano keys to create music.",
+        "concentration on playing technique and notes.",
+        "musical instrument and pianist's posture visible."
+    ]
+}

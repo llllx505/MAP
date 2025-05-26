@@ -1,0 +1,749 @@
+[
+    {
+        "name": "Still Rings",
+        "none1": "Gymnast suspended on rings.",
+        "none2": "Arms extended, holding the rings.",
+        "none3": "Body position might involve hanging straight or in various dynamic poses."
+    },
+    {
+        "name": "Mixing",
+        "none4": "Person using a utensil (spoon, whisk, etc.) to mix ingredients in a bowl.",
+        "none5": "Motion of the utensil and ingredients being blended.",
+        "none6": "Mixing bowl and ingredients present in the frame."
+    },
+    {
+        "name": "Uneven Bars",
+        "none7": "Gymnast performing on horizontal bars set at different heights.",
+        "none8": "Dynamic poses involving swings, twists, and flips.",
+        "none9": "Horizontal bars visible in the image."
+    },
+    {
+        "name": "Tennis Swing",
+        "none10": "Tennis player holding a racquet.",
+        "none11": "Swinging motion of the racquet to hit the ball.",
+        "none12": "Tennis court, net, and ball may also be visible."
+    },
+    {
+        "name": "Punch",
+        "none13": "Person with a clenched fist in a striking position.",
+        "none14": "Motion of the arm and fist moving forward in an attacking motion.",
+        "none15": "Facial expressions and body posture indicating power and impact."
+    },
+    {
+        "name": "Billiards",
+        "none16": "Billiard table with balls placed on it.",
+        "none17": "Cue stick held by a player ready to strike a ball.",
+        "none18": "Focus on the arrangement of balls and the player's posture."
+    },
+    {
+        "name": "Pizza Tossing",
+        "none19": "Pizza chef tossing pizza dough in the air.",
+        "none20": "Circular motion of the dough being stretched and spun.",
+        "none21": "Kitchen setting with ingredients, oven, and pizza peel might also be present."
+    },
+    {
+        "name": "Rowing",
+        "none22": "Person or team in a boat on water.",
+        "none23": "Use of oars to propel the boat forward.",
+        "none24": "Dynamic motion of rowing strokes.",
+        "none25": "Water ripples or splashes around the boat."
+    },
+    {
+        "name": "Playing Sitar",
+        "none26": "Musician seated with a sitar, a stringed instrument.",
+        "none27": "Distinctive shape of the sitar's body and neck.",
+        "none28": "Fingers plucking the strings.",
+        "none29": "Traditional clothing or setting may be present."
+    },
+    {
+        "name": "Playing Guitar",
+        "none30": "Musician holding a guitar.",
+        "none31": "Fingers on the fretboard and strumming or plucking strings.",
+        "none32": "Variety of guitar types, each with its own distinctive shape."
+    },
+    {
+        "name": "Long Jump",
+        "none33": "Athlete in a jumping stance, preparing to leap.",
+        "none34": "Explosive motion forward with arms and legs extended.",
+        "none35": "Sandpit or landing area visible in the background.",
+        "none36": "Distinct take-off and landing positions."
+    },
+    {
+        "name": "Baby Crawling",
+        "none37": "Infant on all fours, moving across the floor.",
+        "none38": "Repetitive crawling motion.",
+        "none39": "Developing motor skills, with an adorable and playful aspect.",
+        "none40": "Home or indoor environment typically shown."
+    },
+    {
+        "name": "Volleyball Spiking",
+        "none41": "Volleyball player in mid-air, jumping near the net.",
+        "none42": "Arm raised high to hit the ball downward into the opponent's court.",
+        "none43": "Concentrated facial expression and body positioning for power.",
+        "none44": "Net and volleyball court visible in the background."
+    },
+    {
+        "name": "Cliff Diving",
+        "none45": "Diver positioned on a high cliff or platform.",
+        "none46": "Diver in a ready-to-jump posture with arms extended.",
+        "none47": "Dramatic height difference and natural surroundings.",
+        "none48": "Water below, often with splashes visible on impact."
+    },
+    {
+        "name": "Rafting",
+        "none49": "Group of people in an inflatable raft on a river.",
+        "none50": "Paddling with synchronized motions.",
+        "none51": "Rapids, water splashes, and the raft itself are key elements.",
+        "none52": "Adventure gear and life vests may be visible."
+    },
+    {
+        "name": "Band Marching",
+        "none53": "Group of musicians marching in formation.",
+        "none54": "Playing musical instruments while walking.",
+        "none55": "Uniforms, instruments, and coordinated steps.",
+        "none56": "Often seen in parades or performances."
+    },
+    {
+        "name": "Handstand Walking",
+        "none57": "Person walking on their hands with their body inverted.",
+        "none58": "Hands supporting the body's weight, legs elevated.",
+        "none59": "Balancing and coordinated movement.",
+        "none60": "Gym or open space setting."
+    },
+    {
+        "name": "Playing Tabla",
+        "none61": "Musician seated with a tabla, a pair of drums.",
+        "none62": "Skillful and rhythmic hand movements on the drum heads.",
+        "none63": "Concentration on creating complex beats and patterns.",
+        "none64": "Traditional attire or setting might be present."
+    },
+    {
+        "name": "Wall Pushups",
+        "none65": "Person performing pushups against a wall.",
+        "none66": "Vertical position, with hands placed on the wall and feet slightly away.",
+        "none67": "Arms and shoulders engaged, similar to traditional pushups.",
+        "none68": "Often used as a modification for pushup exercises."
+    },
+    {
+        "name": "Haircut",
+        "none69": "Barber or stylist cutting someone's hair.",
+        "none70": "Scissors or clippers in hand, engaged in precise cutting motions.",
+        "none71": "Mirror, hair styling tools, and salon environment may be visible."
+    },
+    {
+        "name": "Sumo Wrestling",
+        "none72": "Sumo wrestlers in traditional attire (mawashi) engaged in a match.",
+        "none73": "Intense physical contact and grappling.",
+        "none74": "Large, well-defined wrestlers with distinctive body posture and expressions.",
+        "none75": "Circular ring (dohyo) and referee might be present."
+    },
+    {
+        "name": "Trampoline Jumping",
+        "none76": "Person or athlete on a trampoline.",
+        "none77": "Bouncing and jumping movements with increased height.",
+        "none78": "Distinctive trampoline structure and fabric visible.",
+        "none79": "Playful and energetic atmosphere."
+    },
+    {
+        "name": "Clean and Jerk",
+        "none80": "Weightlifter performing the two-part Olympic lift.",
+        "none81": "Lifting a barbell from the ground to shoulder height (clean) and then overhead (jerk).",
+        "none82": "Dynamic and explosive motions with a heavy barbell.",
+        "none83": "Distinctive grip and body movements."
+    },
+    {
+        "name": "Ice Dancing",
+        "none84": "Skaters performing intricate dance routines on ice.",
+        "none85": "Smooth and graceful movements, often synchronized with a partner.",
+        "none86": "Emphasis on elegance, choreography, and synchronization.",
+        "none87": "Ice skates and rink environment visible."
+    },
+    {
+        "name": "Skate boarding",
+        "none88": "Person riding a skateboard on various surfaces.",
+        "none89": "Performing tricks, jumps, and flips.",
+        "none90": "Distinctive skateboard shape and wheels visible.",
+        "none91": "Urban or skate park environment."
+    },
+    {
+        "name": "Diving",
+        "none92": "Diver positioned on a diving board or platform.",
+        "none93": "Elegantly executed leaps and twists in mid-air.",
+        "none94": "Water surface below, often with splashes on entry.",
+        "none95": "Concentration on form and precision."
+    },
+    {
+        "name": "Knitting",
+        "none96": "Person engaged in creating fabric by intertwining yarn with needles.",
+        "none97": "Methodical and repetitive hand motions.",
+        "none98": "Yarn ball, knitting needles, and partially finished work visible.",
+        "none99": "Relaxed and focused atmosphere."
+    },
+    {
+        "name": "Boxing Speed Bag",
+        "none100": "Boxer in a training session.",
+        "none101": "Rapidly hitting a small hanging bag (speed bag) with fists.",
+        "none102": "Quick and rhythmic punching motions.",
+        "none103": "Focus on hand-eye coordination and timing."
+    },
+    {
+        "name": "Rock Climbing Indoor",
+        "none104": "Climber navigating artificial indoor climbing walls.",
+        "none105": "Gripping and ascending using holds and routes of various difficulty levels.",
+        "none106": "Climbing harness, ropes, and safety gear might be visible.",
+        "none107": "Dynamic poses and body positioning."
+    },
+    {
+        "name": "Skiing",
+        "none108": "Skier on snow-covered slopes.",
+        "none109": "Gliding downhill using skis, poles, and snow attire.",
+        "none110": "Various skiing styles, such as alpine or cross-country.",
+        "none111": "Snowy mountain landscape in the background."
+    },
+    {
+        "name": "Front Crawl",
+        "none112": "Swimmer moving forward in a prone position.",
+        "none113": "Alternating arm strokes and kicking legs.",
+        "none114": "Breathing to the side while maintaining streamlined body position.",
+        "none115": "Pool or open water setting."
+    },
+    {
+        "name": "Horse Race",
+        "none116": "Jockeys and thoroughbred horses racing on a track.",
+        "none117": "Jockeys in distinctive racing attire.",
+        "none118": "Horses in full gallop, with intense competition.",
+        "none119": "Spectators, race track, and finish line may be visible."
+    },
+    {
+        "name": "Bowling",
+        "none120": "Person in a bowling alley, holding a bowling ball.",
+        "none121": "Approaching the lane and releasing the ball.",
+        "none122": "Focused posture and motion of the arm.",
+        "none123": "Pins set up at the end of the lane."
+    },
+    {
+        "name": "Head Massage",
+        "none124": "Person giving or receiving a head massage.",
+        "none125": "Hands moving gently and rhythmically over the scalp.",
+        "none126": "Relaxing and calming environment.",
+        "none127": "Expressions of comfort and relaxation."
+    },
+    {
+        "name": "Table Tennis Shot",
+        "none128": "Table tennis player engaged in a match.",
+        "none129": "Swift back-and-forth racket movements.",
+        "none130": "Ball in motion, often blurred due to speed.",
+        "none131": "Table tennis table and net visible."
+    },
+    {
+        "name": "Hammering",
+        "none132": "Person using a hammer to strike an object.",
+        "none133": "Repetitive motion of raising and bringing down the hammer.",
+        "none134": "Concentrated focus on the point of impact.",
+        "none135": "Workbench or surface, and tools may be present."
+    },
+    {
+        "name": "Apply Eye Makeup",
+        "none136": "Person using makeup brushes and products around the eyes.",
+        "none137": "Delicate and precise motions to enhance eye appearance.",
+        "none138": "Mirror, makeup palette, and brushes visible.",
+        "none139": "Personal care and grooming setting."
+    },
+    {
+        "name": "Brushing Teeth",
+        "none140": "Person in front of a sink or mirror.",
+        "none141": "Holding a toothbrush and applying toothpaste.",
+        "none142": "Circular and back-and-forth brushing motions.",
+        "none143": "Water, toothpaste foam, and personal care setting."
+    },
+    {
+        "name": "Jumping Jack",
+        "none144": "Person performing a calisthenic exercise.",
+        "none145": "Simultaneously jumping while spreading arms and legs wide.",
+        "none146": "Dynamic and energetic movements.",
+        "none147": "Fitness environment, often in a group setting."
+    },
+    {
+        "name": "Playing Violin",
+        "none148": "Musician holding a violin and bow.",
+        "none149": "Fingers pressing on the strings and bow moving across them.",
+        "none150": "Concentrated facial expressions and posture.",
+        "none151": "Classical music setting, possibly with sheet music."
+    },
+    {
+        "name": "Basketball",
+        "none152": "Players on a basketball court.",
+        "none153": "Dribbling, passing, and shooting the ball into a hoop.",
+        "none154": "Distinctive orange ball and hoop structure.",
+        "none155": "Team sport with competitive and fast-paced action."
+    },
+    {
+        "name": "Baseball Pitch",
+        "none156": "Baseball player on the pitcher's mound.",
+        "none157": "Wind-up and throwing motion to pitch the ball.",
+        "none158": "Focused and determined posture.",
+        "none159": "Baseball diamond, players, and equipment visible."
+    },
+    {
+        "name": "Mopping Floor",
+        "none160": "Person holding a mop and bucket.",
+        "none161": "Pushing or pulling the mop to clean the floor surface.",
+        "none162": "Repetitive sweeping motions.",
+        "none163": "Cleaning supplies and a floor in the background."
+    },
+    {
+        "name": "Field Hockey Penalty",
+        "none164": "Field hockey player preparing to take a penalty shot.",
+        "none165": "Ball on a penalty spot, player aiming to score.",
+        "none166": "Distinctive field hockey stick and protective gear.",
+        "none167": "Goalkeeper and goalposts visible in the background."
+    },
+    {
+        "name": "Frisbee Catch",
+        "none168": "Person catching a flying frisbee disc.",
+        "none169": "Hand-eye coordination to intercept the disc mid-air.",
+        "none170": "Concentrated facial expression and body posture.",
+        "none171": "Outdoor setting, often in a park or recreational area."
+    },
+    {
+        "name": "Walking With Dog",
+        "none172": "Person walking with a dog on a leash.",
+        "none173": "Human and canine companionship.",
+        "none174": "Leash, dog breed, and walking environment visible.",
+        "none175": "Casual and relaxed atmosphere."
+    },
+    {
+        "name": "Breast Stroke",
+        "none176": "Swimmer in a pool.",
+        "none177": "Performing the breaststroke technique.",
+        "none178": "Symmetric arm and leg movements, accompanied by a glide.",
+        "none179": "Face in the water during the stroke."
+    },
+    {
+        "name": "Throw Discus",
+        "none180": "Athlete in a throwing circle.",
+        "none181": "Discus held in hand, preparing to throw.",
+        "none182": "Twisting motion of the body to generate momentum.",
+        "none183": "Discus in flight with a distinct trajectory."
+    },
+    {
+        "name": "Salsa Spin",
+        "none184": "Dancers engaged in salsa dancing.",
+        "none185": "Performer spinning around with a partner or solo.",
+        "none186": "Energetic and rhythmic movements.",
+        "none187": "Vibrant dance attire and music."
+    },
+    {
+        "name": "Skijet",
+        "none188": "Person riding a jet ski on water.",
+        "none189": "Maneuvering through waves and performing tricks.",
+        "none190": "Jet ski's distinctive design and water spray visible.",
+        "none191": "Recreational water sport setting."
+    },
+    {
+        "name": "Shaving Beard",
+        "none192": "Person shaving facial hair.",
+        "none193": "Use of a razor or electric shaver.",
+        "none194": "Facial expressions and focused grooming actions.",
+        "none195": "Mirror, shaving cream, and bathroom environment."
+    },
+    {
+        "name": "Hula Hoop",
+        "none196": "Person spinning a hula hoop around their waist.",
+        "none197": "Circular hip movements to keep the hoop in motion.",
+        "none198": "Playful and rhythmic activity.",
+        "none199": "Outdoor or open space setting."
+    },
+    {
+        "name": "Cricket Shot",
+        "none200": "Cricketer in a match setting.",
+        "none201": "Bat held in hand, preparing to hit the ball.",
+        "none202": "Distinctive cricket gear and uniform.",
+        "none203": "Ball in motion or fielders visible in the background."
+    },
+    {
+        "name": "Golf Swing",
+        "none204": "Golfer on a golf course.",
+        "none205": "Executing a golf swing to hit the ball.",
+        "none206": "Dynamic motion involving a backswing and follow-through.",
+        "none207": "Golf club and ball trajectory important."
+    },
+    {
+        "name": "Fencing",
+        "none208": "Fencer engaged in a duel.",
+        "none209": "Holding a fencing weapon (foil, \u00e9p\u00e9e, or sabre).",
+        "none210": "Quick and precise attacking and defensive movements.",
+        "none211": "Protective gear and fencing stance."
+    },
+    {
+        "name": "Kayaking",
+        "none212": "Person in a kayak on water.",
+        "none213": "Paddling with a double-bladed paddle.",
+        "none214": "Navigating through rapids or calm water.",
+        "none215": "Kayak design and water splashes visible."
+    },
+    {
+        "name": "Soccer Juggling",
+        "none216": "Soccer player keeping the ball in the air using their feet.",
+        "none217": "Continuous and controlled touches to maintain the ball's height.",
+        "none218": "Balance and coordination while juggling.",
+        "none219": "Soccer ball and athletic attire."
+    },
+    {
+        "name": "Parallel Bars",
+        "none220": "Gymnast performing on parallel bars.",
+        "none221": "Dynamic swings, holds, and maneuvers.",
+        "none222": "Symmetric hand placement on the bars.",
+        "none223": "Gymnastics setting with mats and apparatus."
+    },
+    {
+        "name": "Apply Lipstick",
+        "none224": "Person applying lipstick to their lips.",
+        "none225": "Use of lipstick tube or applicator.",
+        "none226": "Delicate and precise motions around the lips.",
+        "none227": "Makeup tools and mirror may be present."
+    },
+    {
+        "name": "Blowing Candles",
+        "none228": "Person blowing out candles on a cake.",
+        "none229": "Exhalation to extinguish the flames.",
+        "none230": "Celebratory and joyous atmosphere.",
+        "none231": "Birthday cake and candles visible."
+    },
+    {
+        "name": "Lunges",
+        "none232": "Person performing a lunge exercise.",
+        "none233": "Forward or reverse stepping motion, bending knees.",
+        "none234": "Focus on leg muscles and lower body strength.",
+        "none235": "Fitness setting, often with gym attire."
+    },
+    {
+        "name": "Swing",
+        "none236": "Person on a swing.",
+        "none237": "Swinging back and forth on the seat.",
+        "none238": "Playful and leisurely activity.",
+        "none239": "Swing set or natural surroundings."
+    },
+    {
+        "name": "Boxing Punching Bag",
+        "none240": "Boxer training with a punching bag.",
+        "none241": "Striking the bag with fists and elbows.",
+        "none242": "Intense and repetitive punching motions.",
+        "none243": "Athletic attire and boxing gloves."
+    },
+    {
+        "name": "Shotput",
+        "none244": "Athlete participating in shot put event.",
+        "none245": "Holding a heavy spherical shot and throwing it.",
+        "none246": "Powerful twisting motion of the body.",
+        "none247": "Track and field environment with throwing circle."
+    },
+    {
+        "name": "Typing",
+        "none248": "Person sitting at a keyboard, typing on a computer or device.",
+        "none249": "Fingers moving across the keyboard to input text.",
+        "none250": "Concentration on the screen or keyboard.",
+        "none251": "Computer setup and work environment."
+    },
+    {
+        "name": "Jump Rope",
+        "none252": "Person jumping over a skipping rope.",
+        "none253": "Continuous jumping with coordination of rope movement.",
+        "none254": "Energetic and rhythmic motion.",
+        "none255": "Jump rope and open space visible."
+    },
+    {
+        "name": "Body Weight Squats",
+        "none256": "Person performing squat exercises without added weights.",
+        "none257": "Lowering the body by bending knees and hips.",
+        "none258": "Focus on leg muscles and form.",
+        "none259": "Fitness setting, often part of a workout routine."
+    },
+    {
+        "name": "Javelin Throw",
+        "none260": "Athlete participating in javelin throwing event.",
+        "none261": "Holding a javelin and preparing to throw.",
+        "none262": "Dynamic motion involving run-up and release.",
+        "none263": "Throwing area or track and field setting."
+    },
+    {
+        "name": "Nunchucks",
+        "none264": "Person skilled in using nunchaku (nunchucks).",
+        "none265": "Swinging and manipulating the nunchaku with both hands.",
+        "none266": "Martial arts practice and demonstration.",
+        "none267": "Distinctive nunchaku design."
+    },
+    {
+        "name": "Handstand Pushups",
+        "none268": "Person performing pushup exercises in a handstand position.",
+        "none269": "Upside-down posture with hands on the ground.",
+        "none270": "Dynamic and challenging upper body movement.",
+        "none271": "Gym or fitness setting."
+    },
+    {
+        "name": "Playing Dhol",
+        "none272": "Person playing a traditional Indian drum (dhol).",
+        "none273": "Striking the drum with sticks to produce rhythmic beats.",
+        "none274": "Energetic and lively performance.",
+        "none275": "Cultural attire and setting."
+    },
+    {
+        "name": "Soccer Penalty",
+        "none276": "Soccer player taking a penalty kick.",
+        "none277": "Ball placed on a penalty spot, ready to be kicked.",
+        "none278": "Player aiming to score a goal against the goalkeeper.",
+        "none279": "Soccer field and goalposts visible."
+    },
+    {
+        "name": "Biking",
+        "none280": "Person riding a bicycle.",
+        "none281": "Pedaling and propelling the bike forward.",
+        "none282": "Outdoor setting, often on roads or trails.",
+        "none283": "Distinctive bicycle design and helmet."
+    },
+    {
+        "name": "Floor Gymnastics",
+        "none284": "Gymnast performing routines on the floor exercise mat.",
+        "none285": "Acrobatic and tumbling movements.",
+        "none286": "Expressive dance-like motions.",
+        "none287": "Gymnastics equipment and mat visible."
+    },
+    {
+        "name": "Pull Ups",
+        "none288": "Person performing pull-up exercises.",
+        "none289": "Gripping a horizontal bar and lifting the body upwards.",
+        "none290": "Engaging the upper body muscles.",
+        "none291": "Fitness setting, often using a pull-up bar."
+    },
+    {
+        "name": "Writing on Board",
+        "none292": "Person using a writing instrument to write on a board.",
+        "none293": "Marking or drawing content on a chalkboard or whiteboard.",
+        "none294": "Concentration on the writing task.",
+        "none295": "Educational or presentation setting."
+    },
+    {
+        "name": "Yo Yo",
+        "none296": "Person playing with a yo-yo.",
+        "none297": "Executing tricks involving the spinning toy.",
+        "none298": "Up-and-down motion of the yo-yo's string.",
+        "none299": "Playful and skillful activity."
+    },
+    {
+        "name": "Surfing",
+        "none300": "Person riding a surfboard on ocean waves.",
+        "none301": "Balancing and navigating through the water.",
+        "none302": "Dynamic and exhilarating motion.",
+        "none303": "Ocean environment, often with waves visible."
+    },
+    {
+        "name": "Playing Daf",
+        "none304": "Person playing a traditional Persian drum (daf).",
+        "none305": "Striking the drum's surface with hands or fingers.",
+        "none306": "Rhythmic and melodic beats.",
+        "none307": "Cultural attire and setting."
+    },
+    {
+        "name": "Juggling Balls",
+        "none308": "Person juggling multiple balls in the air.",
+        "none309": "Continuous throwing and catching of balls.",
+        "none310": "Coordinated hand-eye movements.",
+        "none311": "Playful and entertaining skill."
+    },
+    {
+        "name": "Playing Flute",
+        "none312": "Musician playing a flute.",
+        "none313": "Fingers covering holes to create different notes.",
+        "none314": "Soft and melodious music performance.",
+        "none315": "Musical instrument and musician's posture visible."
+    },
+    {
+        "name": "Blow Dry Hair",
+        "none316": "Person using a blow dryer to dry their hair.",
+        "none317": "Airflow directed toward the hair to dry and style it.",
+        "none318": "Movement of the hair due to the airflow.",
+        "none319": "Bathroom or salon setting with mirror and hair products."
+    },
+    {
+        "name": "Bench Press",
+        "none320": "Person lifting weights while lying on a bench.",
+        "none321": "Barbell or dumbbells lifted upward and lowered.",
+        "none322": "Engaging chest and arm muscles.",
+        "none323": "Gym setting with workout equipment."
+    },
+    {
+        "name": "Archery",
+        "none324": "Archer aiming and shooting a bow and arrow.",
+        "none325": "Focused and steady posture during aiming.",
+        "none326": "Dynamic release of the arrow.",
+        "none327": "Archery range or natural environment visible."
+    },
+    {
+        "name": "Military Parade",
+        "none328": "Soldiers marching in formation.",
+        "none329": "Display of military discipline and precision.",
+        "none330": "Uniforms, flags, and banners.",
+        "none331": "Parade ground or ceremonial setting."
+    },
+    {
+        "name": "Cutting in Kitchen",
+        "none332": "Person using a knife to cut food in a kitchen.",
+        "none333": "Chopping, slicing, or dicing ingredients.",
+        "none334": "Cutting board, knife, and food items visible.",
+        "none335": "Cooking and culinary environment."
+    },
+    {
+        "name": "Pole Vault",
+        "none336": "Athlete performing the pole vault event.",
+        "none337": "Running with a pole, planting it into the ground, and propelling themselves over a bar.",
+        "none338": "Dynamic jumping motion involving height and skill.",
+        "none339": "Track and field setting with landing pit."
+    },
+    {
+        "name": "Playing Cello",
+        "none340": "Cellist playing a cello, a large stringed instrument.",
+        "none341": "Bow moving across the strings to produce music.",
+        "none342": "Concentration on playing technique and notes.",
+        "none343": "Musical instrument and musician's posture visible."
+    },
+    {
+        "name": "Balance Beam",
+        "none344": "Gymnast performing on a balance beam.",
+        "none345": "Executing flips, spins, and poses on a narrow beam.",
+        "none346": "Focus on balance, precision, and flexibility.",
+        "none347": "Gymnastics equipment and mat visible."
+    },
+    {
+        "name": "Tai Chi",
+        "none348": "Person practicing tai chi, a martial art.",
+        "none349": "Slow and flowing movements, often in a sequence.",
+        "none350": "Focus on balance, relaxation, and mindfulness.",
+        "none351": "Outdoor or serene setting."
+    },
+    {
+        "name": "Sky Diving",
+        "none352": "Person free-falling through the sky during a parachute jump.",
+        "none353": "Parachute visible and canopy might be deployed.",
+        "none354": "Extreme sport activity with breathtaking aerial views.",
+        "none355": "Safety gear and parachuting equipment present."
+    },
+    {
+        "name": "High Jump",
+        "none356": "Athlete performing a high jump.",
+        "none357": "Sprinting and leaping over a bar set at a height.",
+        "none358": "Arched back and clearance of the bar.",
+        "none359": "Track and field event with landing pit."
+    },
+    {
+        "name": "Horse Riding",
+        "none360": "Person riding a horse, often in an equestrian setting.",
+        "none361": "Control and coordination of the horse's movements.",
+        "none362": "Rider's posture and horse's gaits.",
+        "none363": "Equestrian attire and equipment visible."
+    },
+    {
+        "name": "Pommel Horse",
+        "none364": "Gymnast performing routines on the pommel horse.",
+        "none365": "Swinging and circling movements on the apparatus.",
+        "none366": "Focus on balance and strength.",
+        "none367": "Gymnastics equipment and mat visible."
+    },
+    {
+        "name": "Drumming",
+        "none368": "Person playing drums, often part of a musical band.",
+        "none369": "Striking drumheads and cymbals with drumsticks.",
+        "none370": "Energetic and rhythmic motion.",
+        "none371": "Musical instruments and musician's posture visible."
+    },
+    {
+        "name": "Cricket Bowling",
+        "none372": "Cricketer in a match, preparing to bowl.",
+        "none373": "Holding the cricket ball and getting ready to deliver it.",
+        "none374": "Bowling action with the focus on accuracy and speed.",
+        "none375": "Cricket pitch, wickets, and fielders visible."
+    },
+    {
+        "name": "Rope Climbing",
+        "none376": "Person ascending a rope using hand and leg coordination.",
+        "none377": "Dynamic motion involving grip strength.",
+        "none378": "Climbing up a vertical rope or obstacle.",
+        "none379": "Fitness setting or adventure sport environment."
+    },
+    {
+        "name": "Basketball Dunk",
+        "none380": "Basketball player leaping to dunk the ball through the hoop.",
+        "none381": "Powerful upward jump with the ball in hand.",
+        "none382": "Ball goes through the hoop for a score.",
+        "none383": "Basketball court, hoop, and spectators visible."
+    },
+    {
+        "name": "Push Ups",
+        "none384": "Person performing push-up exercises.",
+        "none385": "Hands on the ground, body raised and lowered.",
+        "none386": "Engaging the upper body and core muscles.",
+        "none387": "Fitness setting, often using a mat."
+    },
+    {
+        "name": "Hammer Throw",
+        "none388": "Athlete participating in the hammer throw event.",
+        "none389": "Swinging and spinning motion to throw a heavy hammer.",
+        "none390": "Release of the hammer for distance.",
+        "none391": "Track and field setting with throwing circle."
+    },
+    {
+        "name": "Playing Piano",
+        "none392": "Musician playing the piano.",
+        "none393": "Fingers pressing piano keys to create music.",
+        "none394": "Concentration on playing technique and notes.",
+        "none395": "Musical instrument and pianist's posture visible."
+    },
+    {
+        "name": "Still Rings",
+        "none396": "Gymnast performing on still rings apparatus.",
+        "none397": "Holding onto the rings, executing static and dynamic movements.",
+        "none398": "Focus on strength, balance, and control.",
+        "none399": "Gymnastics equipment and athlete's posture visible."
+    },
+    {
+        "name": "Mixing",
+        "none400": "Person mixing ingredients or substances.",
+        "none401": "Stirring or blending motion with a utensil.",
+        "none402": "Mixing bowl or container with ingredients visible.",
+        "none403": "Cooking or food preparation setting."
+    },
+    {
+        "name": "Uneven Bars",
+        "none404": "Gymnast performing on uneven bars.",
+        "none405": "Swinging and transitioning between the bars.",
+        "none406": "Combining dynamic and graceful movements.",
+        "none407": "Gymnastics apparatus and athlete's posture visible."
+    },
+    {
+        "name": "Tennis Swing",
+        "none408": "Tennis player executing a forehand or backhand swing.",
+        "none409": "Racket in motion, striking the ball.",
+        "none410": "Concentration on timing and technique.",
+        "none411": "Tennis court, net, and ball visible."
+    },
+    {
+        "name": "Punch",
+        "none412": "Person throwing a punch with their fist.",
+        "none413": "Dynamic and forceful arm movement.",
+        "none414": "Commonly seen in martial arts or boxing.",
+        "none415": "Athletic posture and motion visible."
+    },
+    {
+        "name": "Billiards",
+        "none416": "Person playing billiards or pool.",
+        "none417": "Striking the cue ball with a cue stick.",
+        "none418": "Skillful aiming and pocketing balls into pockets.",
+        "none419": "Billiard table, balls, and cues visible."
+    },
+    {
+        "name": "Pizza Tossing",
+        "none420": "Chef tossing pizza dough in the air.",
+        "none421": "Skillful flipping and stretching of the dough.",
+        "none422": "Creating a circular pizza base.",
+        "none423": "Cooking or pizza-making environment."
+    }
+]

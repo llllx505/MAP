@@ -1,0 +1,208 @@
+{
+    "egyptian mau": [
+        "egyptian maus have a distinctive coat with randomly occurring spots that are slightly darker than the base color.",
+        "they have a slightly rounded head with almond-shaped eyes that give them an alert expression.",
+        "they often have a pale background color with spots that can range from dark brown to black."
+    ],
+    "staffordshire bull terrier": [
+        "staffies have a muscular and compact body with a sturdy build.",
+        "they have a distinctive broad head with a short muzzle and strong jaws.",
+        "their ears are rose-shaped, meaning they fold over and back to reveal the inner ear."
+    ],
+    "ragdoll": [
+        "ragdolls have semi-long fur that is soft and silky to the touch. they come in various color patterns, but the classic coloration includes lighter bodies with darker points (ears, face, paws, and tail).",
+        "they are typically large and heavy cats with a somewhat relaxed posture, hence the name \"ragdoll.\"",
+        "many ragdolls have striking blue eyes that contribute to their distinctive appearance."
+    ],
+    "shiba inu": [
+        "shiba inus are small to medium-sized dogs with a compact and well-muscled build.",
+        "they have a double coat with a thick, straight outer coat and a soft undercoat. common coat colors include red, sesame, black and tan, and cream.",
+        "shiba inus have a curled tail that is carried high over their back.",
+        "their face often resembles that of a fox, with a pointed snout and small, triangular eyes."
+    ],
+    "yorkshire terrier": [
+        "yorkies have a long, fine, silky coat that is typically a combination of blue and tan colors.",
+        "they are small dogs with a compact build.",
+        "they have a small, doll-like face with bright, expressive eyes and erect ears."
+    ],
+    "boxer": [
+        "boxers are medium to large dogs with a strong and muscular body.",
+        "they have a distinctive broad, square-shaped head with a short muzzle and a strong jaw.",
+        "their coat is short and smooth, and their coat color can vary but often includes fawn or brindle patterns."
+    ],
+    "bombay": [
+        "bombays have a short, sleek, and glossy black coat that resembles that of a panther.",
+        "their eyes are large, round, and copper or gold in color.",
+        "they have a medium-sized, muscular body and a graceful yet sturdy appearance."
+    ],
+    "wheaten terrier": [
+        "wheaten terriers have a soft, silky, and wavy coat that comes in a pale wheaten color, ranging from light beige to a slightly darker gold.",
+        "they have small, floppy ears that hang close to the head.",
+        "they are medium-sized dogs with a square-proportioned body."
+    ],
+    "german shorthaired": [
+        "these dogs have a short, dense, and water-resistant coat that is usually liver or liver and white in color.",
+        "they have large, floppy ears that hang down close to the head.",
+        "german shorthaired pointers have a well-muscled body with a sleek, athletic build, indicating their hunting and sporting abilities."
+    ],
+    "russian blue": [
+        "russian blues have a short, dense, and plush coat that is bluish-gray in color. the coat is known for its silvery appearance and soft texture.",
+        "they have large, vivid green eyes that contrast beautifully with their coat.",
+        "they have a slender and elegant build, with a graceful posture."
+    ],
+    "havanese": [
+        "havanese dogs have a long, silky, and wavy coat that comes in a variety of colors. coat patterns include solid, parti-color, and tricolor.",
+        "they are small dogs with a sturdy build and a lively expression.",
+        "their plumed tail is carried over the back and adds to their charm."
+    ],
+    "pug": [
+        "pugs have a distinctive wrinkled face with a short muzzle, large round eyes, and a flat, pushed-in nose.",
+        "they have a compact and muscular body with a square-shaped appearance.",
+        "pugs have a short, smooth coat that can come in various colors, including fawn, black, and silver."
+    ],
+    "birman": [
+        "birmans have a semi-long, silky coat that is pointed, meaning their ears, face, paws, and tail are a darker color than the rest of their body.",
+        "they have striking blue eyes that stand out against their coat color.",
+        "birmans often have white \"gloves\" on their paws, which is a characteristic trait."
+    ],
+    "american bulldog": [
+        "american bulldogs are muscular and athletic dogs with a strong, well-proportioned body.",
+        "they have a large, square-shaped head with a prominent jaw and a distinct stop between the forehead and muzzle.",
+        "their short coat can come in various colors, including white, brindle, and fawn."
+    ],
+    "maine coon": [
+        "maine coons are one of the largest domesticated cat breeds, known for their impressive size and sturdy build.",
+        "they have a long, thick, water-resistant coat that can come in a variety of colors and patterns.",
+        "maine coons have a long, bushy tail with a flowing appearance.",
+        "one of their distinctive features is the tufts of fur on their ears."
+    ],
+    "japanese chin": [
+        "japanese chins have a distinct pushed-in face with large, wide-set, round eyes and a short muzzle.",
+        "their coat is fine and silky, often coming in various color combinations, such as white and black or white and red.",
+        "they are small, toy breed dogs with a dainty build."
+    ],
+    "samoyed": [
+        "samoyeds are known for their luxurious double coat, which is dense, fluffy, and white or cream in color.",
+        "they have a characteristic \"s\"-shaped tail that curls over their back.",
+        "samoyeds are known for their \"smile,\" which is a combination of their upturned mouth corners and bright, expressive eyes.",
+        "they are large dogs with a sturdy build and a strong presence."
+    ],
+    "leonberger": [
+        "leonbergers are large and powerful dogs with a majestic appearance.",
+        "they have a water-resistant double coat that is thick and medium to long in length. their coat comes in various colors, often shades of red, brown, or black.",
+        "male leonbergers often have a distinctive mane around their neck, adding to their regal look."
+    ],
+    "great pyrenees": [
+        "great pyrenees are large, majestic dogs with a powerful build.",
+        "they have a thick, weather-resistant double coat that is predominantly white. their coat can sometimes have markings of gray, tan, or badger.",
+        "they have a plume-like tail that is carried low and may curl over their back.",
+        "their expression is often calm and regal, reflecting their guardian nature."
+    ],
+    "newfoundland": [
+        "newfoundlands have a thick, water-resistant double coat that is usually black, brown, gray, or landseer (white with black markings).",
+        "they are large dogs with a robust build and a strong, bear-like appearance.",
+        "newfoundlands have webbed feet, which contributes to their excellent swimming abilities.",
+        "they are known for their gentle and friendly demeanor."
+    ],
+    "chihuahua": [
+        "chihuahuas are one of the smallest dog breeds, known for their diminutive size.",
+        "their coat can be either short or long, and it comes in various colors and patterns.",
+        "chihuahuas have a distinctive apple-shaped head with large, round eyes and erect ears.",
+        "they are often lively and energetic dogs despite their size."
+    ],
+    "persian": [
+        "persian cats have long, luxurious coats that come in a wide range of colors and patterns.",
+        "they have a flat, round face with a short muzzle and large, round eyes.",
+        "persian cats often have a short nose that can contribute to their distinctive appearance.",
+        "they are known for their calm and laid-back personality."
+    ],
+    "american pit bull terrier": [
+        "pit bull terriers have a strong and muscular body with a sturdy build.",
+        "they have a broad head, strong jaw, and a short muzzle.",
+        "their coat is short and can come in various colors, including brindle, blue, fawn, and more.",
+        "they typically have ears that are set high and may be cropped or left natural."
+    ],
+    "bengal": [
+        "bengal cats have a distinctive spotted or marbled coat that resembles that of a wild leopard or jaguar.",
+        "their coat comes in various colors, including brown, snow (pale with darker markings), and silver.",
+        "the coat pattern can include rosettes (spots with a darker outline) or marbling (swirling patterns).",
+        "their sleek and athletic build reflects their active and playful nature."
+    ],
+    "british shorthair": [
+        "british shorthairs have a dense, plush coat with a wide range of colors and patterns.",
+        "they are known for their round face, round eyes, and chubby cheeks, giving them an adorable appearance.",
+        "they have a compact and muscular body, contributing to their solid and chunky look."
+    ],
+    "abyssinian": [
+        "abyssinians have a short, ticked coat that is agouti, meaning each hair has multiple bands of color.",
+        "the coat appears to shimmer due to the ticking pattern, where the individual hairs have bands of light and dark color.",
+        "abyssinians have large, almond-shaped eyes and an alert, curious expression.",
+        "they have a slender and athletic build, reflecting their active and agile nature."
+    ],
+    "english setter": [
+        "english setters have a silky, medium-length coat that comes in various color combinations, often with speckles or patches.",
+        "they have feathering (longer hair) on their ears, legs, and tail.",
+        "they have long, pendant ears that hang close to the head.",
+        "english setters have a slim and athletic build, indicative of their hunting background."
+    ],
+    "basset hound": [
+        "basset hounds have a distinctive low-slung and elongated body with short legs.",
+        "they have long, droopy ears that hang down past their jawline.",
+        "basset hounds have a wrinkled forehead and a mournful expression.",
+        "their short coat comes in various colors, including tri-color (black, white, and brown) and lemon (pale yellow and white)."
+    ],
+    "beagle": [
+        "beagles are small to medium-sized dogs with a compact and sturdy build.",
+        "they have a short, dense coat that comes in a variety of colors, often including the classic tri-color pattern.",
+        "beagles have a distinctively upright, slightly curved tail.",
+        "they have long, drooping ears that are an essential feature for tracking scents."
+    ],
+    "scottish terrier": [
+        "scottish terriers have a dense, wiry coat that can be black, wheaten, or brindle in color.",
+        "they have a distinctive beard and eyebrows, giving them a dignified and alert expression.",
+        "scottish terriers are compact and sturdy dogs with a strong build.",
+        "their tail is typically short and carried upright."
+    ],
+    "sphynx": [
+        "sphynx cats are hairless or have a very fine layer of downy fuzz on their skin, giving them a unique appearance.",
+        "sphynx cats often have wrinkled skin, particularly around the face.",
+        "they have large ears that can appear more prominent due to their hairlessness.",
+        "despite their lack of fur, sphynx cats have a muscular and well-defined body."
+    ],
+    "english cocker spaniel": [
+        "english cocker spaniels have a medium-length, silky coat that comes in a variety of solid colors or with white markings.",
+        "they have long, pendant ears that are well-feathered.",
+        "their tail is often docked (shortened) and carried in line with their back.",
+        "they typically have a gentle and friendly expression."
+    ],
+    "siamese": [
+        "siamese cats have a short, sleek coat with a color-point pattern. their body is lighter in color while their extremities (ears, face, paws, and tail) are darker.",
+        "they have striking blue almond-shaped eyes that stand out against their coat.",
+        "siamese cats are known for their graceful and slender build.",
+        "siamese cats are often known for their talkative and social behavior."
+    ],
+    "keeshond": [
+        "keeshonds have a thick, double coat that is predominantly gray or silver with darker markings and a distinctive \"spectacles\" pattern around their eyes.",
+        "their tail is plumed and carried over their back.",
+        "they have a ruff of fur around their neck that adds to their fluffy appearance.",
+        "keeshonds have a fox-like expression and an alert, intelligent demeanor."
+    ],
+    "miniature pinscher": [
+        "miniature pinschers are small dogs with a compact and well-muscled body.",
+        "they have a short, smooth coat that comes in various colors, including black and tan, chocolate, and red.",
+        "miniature pinschers often have erect ears and a tail that is typically docked to a short length.",
+        "they are lively and energetic dogs with a confident personality."
+    ],
+    "pomeranian": [
+        "pomeranians are small dogs with a compact, fluffy appearance.",
+        "they have a double coat with a dense undercoat and a fluffy outer coat that comes in a wide range of colors.",
+        "pomeranians often have a plumed tail that is carried high over their back.",
+        "they have a fox-like expression with a short muzzle, erect ears, and bright, almond-shaped eyes."
+    ],
+    "saint bernard": [
+        "saint bernards are large, powerful dogs with a massive build.",
+        "they have a thick, dense, and water-resistant coat that comes in various color combinations, often with white and reddish-brown or mahogany.",
+        "saint bernards have a gentle and kind expression, reflecting their friendly and hospitable nature.",
+        "they have medium-sized, droopy ears that hang close to their head."
+    ]
+}

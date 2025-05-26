@@ -1,0 +1,620 @@
+{
+    "french onion soup": [
+        "a bowl of french onion soup typically has a rich and slightly translucent liquid base.",
+        "visible slices of caramelized onions floating in the soup.",
+        "melted cheese on top of the soup, often with strands extending from the spoon.",
+        "pieces of toasted bread or croutons partially submerged in the soup."
+    ],
+    "deviled eggs": [
+        "deviled eggs are typically presented as halved boiled eggs.",
+        "the creamy and seasoned filling is often piped into the egg halves.",
+        "a sprinkle of paprika on top adds color and flavor.",
+        "chopped herbs or other small garnishes can be seen on top."
+    ],
+    "prime rib": [
+        "a large, well-cooked piece of prime rib with a crusty outer layer.",
+        "the meat is usually cooked to medium-rare or medium, resulting in a pink interior.",
+        "juices may be visible on the surface or on the plate.",
+        "depending on the presentation, a bone may be attached to the meat."
+    ],
+    "mussels": [
+        "closed or slightly open mussel shells arranged in a dish.",
+        "the distinctive look of the mussels' soft interior and orange flesh.",
+        "mussels are often served in a flavorful broth or sauce.",
+        "chopped herbs or other garnishes can be added for color and freshness."
+    ],
+    "french fries": [
+        "straight-cut or crinkle-cut potato fries, often golden brown in color.",
+        "the crispy exterior and soft interior of the fries.",
+        "fries are usually piled together or placed in a container.",
+        "visible salt crystals or seasoning on the surface."
+    ],
+    "tacos": [
+        "folded or rolled tortilla shells containing fillings.",
+        "various ingredients such as meat, beans, lettuce, cheese, and salsa visible within the shell.",
+        "sour cream, guacamole, and other toppings on top of the fillings.",
+        "tacos are often visually vibrant due to the mix of ingredients."
+    ],
+    "hummus": [
+        "hummus typically has a smooth and creamy texture.",
+        "hummus is usually beige or light tan in color.",
+        "a drizzle of olive oil and sprinkling of paprika or herbs on top.",
+        "slices of pita bread or vegetables arranged around the hummus."
+    ],
+    "lobster roll sandwich": [
+        "chunks of lobster meat, often mixed with a dressing, and stuffed into a roll.",
+        "a split-top roll or bun used to hold the lobster filling.",
+        "the roll is often buttered and toasted for added flavor and texture.",
+        "chopped herbs or lettuce might be used for garnish."
+    ],
+    "caprese salad": [
+        "slices of ripe tomatoes, often alternating with mozzarella slices.",
+        "slices of fresh mozzarella cheese.",
+        "fresh basil leaves placed between the tomato and cheese slices.",
+        "a drizzle of balsamic reduction for flavor and presentation."
+    ],
+    "seaweed salad": [
+        "seaweed salad is usually a bright green color due to the seaweed used.",
+        "strands or pieces of seaweed arranged in a bowl.",
+        "white or black sesame seeds sprinkled on top for texture and taste.",
+        "a light and tangy dressing that coats the seaweed."
+    ],
+    "ice cream": [
+        "ice cream is often presented as scoops in a bowl or on a cone.",
+        "different colors and textures for various ice cream flavors.",
+        "melting ice cream can have a creamy texture that drips down the sides.",
+        "sprinkles, chocolate chips, whipped cream, and sauces are common toppings."
+    ],
+    "beef carpaccio": [
+        "beef carpaccio features very thin slices of raw or thinly seared beef.",
+        "the beef slices often have a reddish hue due to their raw or rare preparation.",
+        "capers, arugula, shaved parmesan, and a drizzle of olive oil are common toppings.",
+        "the beef slices are usually arranged in a flat layer on the plate."
+    ],
+    "french toast": [
+        "slices of bread dipped in an egg mixture and cooked until golden brown.",
+        "french toast often has slightly crispy and browned edges.",
+        "maple syrup, powdered sugar, berries, and whipped cream are common toppings.",
+        "slices of french toast are often stacked on a plate."
+    ],
+    "bread pudding": [
+        "bread pudding consists of bread pieces soaked in a custard-like mixture.",
+        "the pudding has a soft and moist texture due to the custard.",
+        "raisins, nuts, or chocolate chips might be mixed in.",
+        "the top might have a slightly browned and textured appearance."
+    ],
+    "lasagna": [
+        "lasagna consists of alternating layers of pasta, sauce, cheese, and often meat.",
+        "red tomato sauce is a prominent visual feature between the layers.",
+        "melted and golden-brown cheese on top or within the layers.",
+        "the layered structure is often visible when sliced."
+    ],
+    "carrot cake": [
+        "carrot cake layers are typically moist and slightly dense.",
+        "visible shreds of carrots throughout the cake layers.",
+        "a thick layer of cream cheese frosting on top and between the layers.",
+        "chopped walnuts might be sprinkled on top or incorporated into the cake."
+    ],
+    "pork chop": [
+        "a well-cooked and often seared pork chop, usually bone-in.",
+        "the pork chop's surface is often browned and might have grill marks.",
+        "the bone within the chop is a distinctive feature.",
+        "a sprig of herbs or a drizzle of sauce might be added for presentation."
+    ],
+    "grilled salmon": [
+        "the salmon fillet typically has grill marks and a slightly charred appearance.",
+        "the interior of the salmon is pink or orange, depending on the type.",
+        "cooked salmon easily flakes apart into distinct pieces.",
+        "a lemon wedge might be included as a garnish."
+    ],
+    "onion rings": [
+        "onion rings are characterized by their circular shape.",
+        "the rings have a crispy and golden-brown breaded coating.",
+        "the distinct layers of the onion are visible within the rings.",
+        "onion rings are often served as a side dish or starter."
+    ],
+    "baklava": [
+        "baklava consists of layers of phyllo dough with nut and honey filling.",
+        "a glossy honey glaze covers the top layers.",
+        "chopped nuts, often pistachios or walnuts, are visible between the layers.",
+        "baklava is typically cut into diamond or square shapes."
+    ],
+    "chicken wings": [
+        "chicken wings are characterized by their distinct drumette and wingette shapes.",
+        "the exterior is often crispy due to frying or baking.",
+        "chicken wings are typically coated in a variety of sauces, which can vary in color and sheen.",
+        "celery sticks and a side of blue cheese or ranch dressing are common accompaniments."
+    ],
+    "crab cakes": [
+        "crab cakes are usually molded into round patties.",
+        "the outer layer is fried or baked to a golden-brown color.",
+        "chunks of crab meat are visible within the cake.",
+        "a drizzle of sauce, lemon wedge, and a sprig of parsley might be added."
+    ],
+    "oysters": [
+        "oysters are often served in their shells, which can vary in size and color.",
+        "the oyster itself has a distinctive, glistening appearance.",
+        "a lemon wedge might be included for squeezing over the oysters.",
+        "cocktail sauce, horseradish, and crackers can be served alongside."
+    ],
+    "sashimi": [
+        "sashimi consists of thinly sliced, raw fish or seafood.",
+        "different types of fish and seafood have distinct colors and textures.",
+        "sashimi is often presented with minimal garnish to highlight the fish itself.",
+        "small portions of wasabi and soy sauce might be served for dipping."
+    ],
+    "spring rolls": [
+        "spring rolls are wrapped in a translucent rice paper wrapper.",
+        "visible vegetables, herbs, and often shrimp or pork inside the rolls.",
+        "the transparent wrapper showcases the colorful fillings.",
+        "peanut sauce, sweet chili sauce, or hoisin sauce is commonly served."
+    ],
+    "pulled pork sandwich": [
+        "pulled pork is characterized by its shredded texture.",
+        "the shredded pork is often sandwiched between a bun.",
+        "the pork might be coated in barbecue sauce or other flavorful sauces.",
+        "a side of coleslaw might be served atop the pork or on the side."
+    ],
+    "shrimp and grits": [
+        "grits are typically a creamy and smooth base for the dish.",
+        "the shrimp can be saut\u00e9ed or cooked in various ways.",
+        "a flavorful sauce or gravy often accompanies the dish.",
+        "chopped green onions might be sprinkled on top."
+    ],
+    "fried calamari": [
+        "fried calamari features both rings and tentacle pieces.",
+        "the squid pieces are coated in a crispy, seasoned batter.",
+        "a lemon wedge might be included for squeezing over the calamari.",
+        "marinara sauce is commonly served as a dipping sauce."
+    ],
+    "risotto": [
+        "risotto is known for its creamy consistency.",
+        "the distinctive short-grain rice used for risotto is visible.",
+        "ingredients like mushrooms, seafood, or vegetables might be mixed in.",
+        "grated parmesan cheese is often sprinkled on top."
+    ],
+    "fried rice": [
+        "individual grains of rice are visible, often with a slightly glossy appearance.",
+        "vegetables, meat, and often egg pieces are mixed throughout.",
+        "the dish has a light brown color from soy sauce seasoning.",
+        "chopped green onions and sometimes a fried egg on top."
+    ],
+    "takoyaki": [
+        "takoyaki are small, round balls typically cooked in a special pan.",
+        "the outer layer is crispy and often has a slightly charred appearance.",
+        "each takoyaki ball usually contains a piece of octopus.",
+        "bonito flakes, takoyaki sauce, and mayonnaise are common toppings."
+    ],
+    "omelette": [
+        "omelettes are cooked and folded over fillings.",
+        "the omelette is typically light and fluffy.",
+        "the fillings, such as vegetables, cheese, and meat, are often visible.",
+        "chopped herbs or additional toppings might be added."
+    ],
+    "beet salad": [
+        "slices of cooked or raw beets are a central element.",
+        "the vibrant red or golden colors of the beets.",
+        "crumbled goat cheese or feta and nuts like walnuts or pecans might be added.",
+        "mixed greens like arugula or spinach can be used as a base."
+    ],
+    "scallops": [
+        "scallops are recognizable by their scallop shell shape.",
+        "scallops are often seared, resulting in a caramelized outer layer.",
+        "cooked scallops have a tender and slightly translucent interior.",
+        "lemon wedges and a drizzle of sauce might be included."
+    ],
+    "paella": [
+        "paella is often cooked and served in a wide, shallow pan.",
+        "the rice is often colored with saffron, giving it a distinct yellow hue.",
+        "ingredients like chicken, seafood, chorizo, and vegetables are visible.",
+        "the crispy and slightly caramelized layer of rice at the bottom of the pan."
+    ],
+    "apple pie": [
+        "the pie features a golden-brown, flaky crust.",
+        "the cooked apple filling has a soft and sometimes chunky texture.",
+        "the aroma of cinnamon and spices is often associated with apple pie.",
+        "the top might be covered with a lattice pattern or a full crust."
+    ],
+    "escargots": [
+        "escargots are served in their shells or a specialized dish.",
+        "the snails are often cooked with garlic butter for flavor.",
+        "chopped parsley is a common garnish for escargots.",
+        "specialized forks are used to extract the snails from their shells."
+    ],
+    "pancakes": [
+        "pancakes are typically round and cooked on a griddle.",
+        "pancakes are thick and fluffy with a slightly crispy exterior.",
+        "pancakes are often stacked on a plate.",
+        "maple syrup and butter are common toppings."
+    ],
+    "filet mignon": [
+        "filet mignon is a small, tender steak.",
+        "the steak is usually thick and cooked to preference (e.g., medium-rare).",
+        "grill marks might be visible on the surface.",
+        "a sauce, such as peppercorn or mushroom, might be drizzled on top."
+    ],
+    "tiramisu": [
+        "tiramisu features layers of coffee-soaked ladyfingers and mascarpone cheese.",
+        "a dusting of cocoa powder on top of the layers.",
+        "the creamy and soft layers of mascarpone cheese.",
+        "the coffee flavor is a key characteristic of tiramisu."
+    ],
+    "edamame": [
+        "edamame are served in their pods.",
+        "the vibrant green color of the edamame pods.",
+        "edamame pods are often sprinkled with coarse salt.",
+        "a small bowl is provided for discarding the pods."
+    ],
+    "waffles": [
+        "waffles are characterized by their grid-like pattern.",
+        "the waffles are cooked to a crispy, golden-brown hue.",
+        "syrup, butter, whipped cream, and fruits are common toppings.",
+        "waffles are often stacked on a plate."
+    ],
+    "donuts": [
+        "donuts are typically ring-shaped.",
+        "the surface is coated in various glazes, frostings, or toppings.",
+        "colorful sprinkles are often added for decoration.",
+        "traditional donuts have a hole in the middle."
+    ],
+    "ceviche": [
+        "ceviche features raw fish or seafood that is \"cooked\" in citrus juices.",
+        "the fish becomes opaque and firm due to the citric acid.",
+        "ceviche is often colorful with diced vegetables and herbs.",
+        "ceviche might be served on a crispy tostada or with tortilla chips."
+    ],
+    "caesar salad": [
+        "chopped or whole leaves of romaine lettuce.",
+        "crunchy croutons for texture.",
+        "shaved or grated parmesan cheese is sprinkled on top.",
+        "the salad is coated in caesar dressing, often creamy and tangy."
+    ],
+    "miso soup": [
+        "miso soup has a clear broth with floating ingredients.",
+        "cubes of tofu are often found in the soup.",
+        "thin strips of wakame seaweed add flavor and color.",
+        "chopped green onions are a common garnish."
+    ],
+    "tuna tartare": [
+        "tuna tartare features raw, finely diced tuna.",
+        "the bright red color of the tuna stands out.",
+        "tuna is often marinated with ingredients like soy sauce and sesame oil.",
+        "diced avocado is a common addition."
+    ],
+    "garlic bread": [
+        "slices of bread, often baguette or italian bread.",
+        "the bread is spread with garlic-infused butter.",
+        "the bread is toasted until crispy and golden.",
+        "chopped parsley is often sprinkled on top."
+    ],
+    "foie gras": [
+        "foie gras has a smooth and rich texture.",
+        "the outer layer is often seared to create a crispy crust.",
+        "foie gras is typically served as a portion on a plate.",
+        "fruits, sauces, and brioche might accompany the dish."
+    ],
+    "pad thai": [
+        "pad thai features stir-fried rice noodles.",
+        "ingredients like shrimp, tofu, peanuts, and vegetables are mixed in.",
+        "the dish is flavored with a sweet and tangy tamarind-based sauce.",
+        "a lime wedge might be provided for squeezing over the dish."
+    ],
+    "guacamole": [
+        "guacamole has a chunky texture due to mashed avocado.",
+        "the vibrant green color of the avocado is a key feature.",
+        "diced tomatoes and onions are often mixed in.",
+        "lime or lemon juice adds flavor and prevents browning."
+    ],
+    "sushi": [
+        "sushi can be presented as rolled maki or sliced nigiri.",
+        "vinegared rice is a common base for sushi.",
+        "the fish or seafood topping is a central feature.",
+        "in maki rolls, the nori seaweed wraps the ingredients."
+    ],
+    "huevos rancheros": [
+        "fried eggs, often sunny-side up, are a prominent element.",
+        "the eggs are often served on top of corn tortillas.",
+        "a flavorful tomato-based sauce is poured over the dish.",
+        "refried beans and toppings like avocado and cheese are common."
+    ],
+    "beignets": [
+        "beignets are generously dusted with powdered sugar.",
+        "the dough is deep-fried to a puffy and airy texture.",
+        "beignets are often cut into squares or rectangles.",
+        "beignets are typically served piled on a plate."
+    ],
+    "cheese plate": [
+        "a variety of cheeses with distinct colors and textures.",
+        "crackers, bread, or baguette slices are served alongside.",
+        "grapes, figs, nuts, and jams might accompany the cheese.",
+        "the cheeses are arranged attractively on a plate."
+    ],
+    "hamburger": [
+        "a bun holds a beef patty at the center.",
+        "lettuce, tomato slices, and onion rings are common toppings.",
+        "cheese, ketchup, mustard, and mayo might be added.",
+        "pickles and a side of fries often accompany the burger."
+    ],
+    "falafel": [
+        "falafel are typically round and fried to a crispy exterior.",
+        "the inside is a flavorful blend of chickpeas and spices.",
+        "falafel are often served in pita bread or flatbread.",
+        "toppings like tahini, tomatoes, and cucumbers are added."
+    ],
+    "eggs benedict": [
+        "poached eggs are a central element of eggs benedict.",
+        "the eggs are placed on top of halves of an english muffin.",
+        "a slice of canadian bacon or ham is placed on the muffin.",
+        "the dish is covered with rich and creamy hollandaise sauce."
+    ],
+    "panna cotta": [
+        "panna cotta has a smooth and creamy texture.",
+        "the dessert is often molded into small cups.",
+        "a fruity sauce or coulis is drizzled over the panna cotta.",
+        "mint leaves or berries might be used for garnish."
+    ],
+    "spaghetti bolognese": [
+        "spaghetti strands coated in sauce.",
+        "a hearty meat and tomato sauce covers the pasta.",
+        "grated parmesan or pecorino cheese is often sprinkled on top.",
+        "chopped fresh basil leaves might be used for garnish."
+    ],
+    "gyoza": [
+        "gyoza are typically folded and pleated dumplings.",
+        "the dumplings are often pan-fried, resulting in a crispy bottom.",
+        "the filling, often a mixture of meat and vegetables, is visible through the thin wrapper.",
+        "a soy-based dipping sauce is commonly served alongside gyoza."
+    ],
+    "bruschetta": [
+        "slices of toasted baguette or italian bread are the base.",
+        "diced tomatoes, garlic, basil, and olive oil are commonly piled on top.",
+        "chopped basil or parsley might be used for garnish.",
+        "a drizzle of balsamic reduction is often added."
+    ],
+    "frozen yogurt": [
+        "frozen yogurt is often dispensed in a swirled pattern.",
+        "the yogurt has a smooth and creamy consistency.",
+        "a variety of toppings such as fruit, nuts, and syrups can be added.",
+        "self-serve frozen yogurt machines are commonly used."
+    ],
+    "fish and chips": [
+        "the dish features battered and fried fish fillets.",
+        "thick-cut potato fries are often served alongside the fish.",
+        "both the fish and fries are fried to a crispy, golden-brown color.",
+        "malt vinegar is a traditional condiment for fish and chips."
+    ],
+    "samosa": [
+        "samosas are typically triangular pastries.",
+        "the pastry is fried to a golden-brown color.",
+        "the spiced filling, often potatoes and peas, is visible through the pastry.",
+        "tamarind or mint chutney is a common dipping sauce."
+    ],
+    "chicken quesadilla": [
+        "a tortilla is folded over a filling of chicken and cheese.",
+        "the cheese inside is melted and gooey.",
+        "the tortilla might have grill marks from cooking.",
+        "salsa, guacamole, and sour cream are common sides."
+    ],
+    "hot dog": [
+        "a sausage is placed in a bun.",
+        "mustard, ketchup, onions, and relish are common toppings.",
+        "the sausage might have grill marks.",
+        "hot dogs are often eaten by hand."
+    ],
+    "cheesecake": [
+        "cheesecake has a creamy and smooth texture.",
+        "the cheesecake is often set atop a graham cracker crust.",
+        "fruit compote, chocolate drizzle, or whipped cream can be added.",
+        "the cheesecake is sliced into portions."
+    ],
+    "ravioli": [
+        "ravioli features pasta pockets filled with various fillings.",
+        "ravioli can be square or round.",
+        "the pasta is cooked to a tender texture.",
+        "the ravioli is often served with sauce and grated cheese."
+    ],
+    "baby back ribs": [
+        "baby back ribs are smaller, tender ribs.",
+        "the ribs are often grilled or smoked for flavor.",
+        "the ribs might be coated in barbecue sauce.",
+        "ribs are typically eaten by hand."
+    ],
+    "macaroni and cheese": [
+        "the dish features cooked elbow macaroni as the base.",
+        "the macaroni is coated in a creamy cheese sauce.",
+        "some versions are baked with a breadcrumb topping.",
+        "the dish has a cheesy and gooey texture."
+    ],
+    "clam chowder": [
+        "clam chowder features a creamy soup base.",
+        "chopped or minced clams are a central element.",
+        "diced potatoes are often mixed into the chowder.",
+        "chopped parsley might be used for garnish."
+    ],
+    "poutine": [
+        "the dish starts with a base of crispy french fries.",
+        "fresh cheese curds are layered over the fries.",
+        "the dish is smothered in hot gravy that melts the cheese curds.",
+        "poutine is a popular dish in canada."
+    ],
+    "strawberry shortcake": [
+        "shortcake consists of soft and crumbly sponge cake.",
+        "sliced or whole strawberries are a key element.",
+        "whipped cream is layered over the cake and strawberries.",
+        "the dessert is often assembled in layers."
+    ],
+    "croque madame": [
+        "croque madame is a grilled ham and cheese sandwich.",
+        "the sandwich is topped with a fried or poached egg.",
+        "a creamy b\u00e9chamel sauce often covers the sandwich.",
+        "croque madame is a popular french dish."
+    ],
+    "nachos": [
+        "nachos start with a base of tortilla chips.",
+        "the chips are often topped with melted cheese.",
+        "ingredients like jalape\u00f1os, sour cream, guacamole, and salsa are added.",
+        "nachos are often served as a shared appetizer."
+    ],
+    "bibimbap": [
+        "bibimbap features a bed of cooked rice.",
+        "a variety of colorful vegetables are arranged on top.",
+        "cooked meat or tofu is often added as a protein.",
+        "the dish is served with spicy gochujang sauce."
+    ],
+    "beef tartare": [
+        "beef tartare features finely chopped raw beef.",
+        "ingredients like capers, onions, and mustard are mixed in.",
+        "a raw egg yolk might be placed on top.",
+        "toasted bread points are served alongside."
+    ],
+    "chocolate cake": [
+        "chocolate cake has a moist and tender texture.",
+        "the cake consists of layers of chocolate cake.",
+        "the cake is often covered with chocolate frosting.",
+        "chocolate shavings or sprinkles might be used for decoration."
+    ],
+    "pho": [
+        "pho features a clear and flavorful broth.",
+        "thin rice noodles are a key component.",
+        "slices of meat or tofu are often added.",
+        "bean sprouts, basil, and lime are common garnishes."
+    ],
+    "club sandwich": [
+        "club sandwiches are layered with multiple fillings.",
+        "the bread is usually toasted and layered with ingredients.",
+        "slices of bacon and turkey are common fillings.",
+        "the sandwich might be held together with toothpicks."
+    ],
+    "dumplings": [
+        "dumplings come in various shapes, such as crescent or folded.",
+        "the filling, often meat or vegetables, is visible through the wrapper.",
+        "dumplings can be steamed or fried.",
+        "a dipping sauce like soy-based sauce is common."
+    ],
+    "chocolate mousse": [
+        "chocolate mousse has a light and airy texture.",
+        "the dessert is rich in chocolate flavor.",
+        "whipped cream is often folded into the mousse.",
+        "chocolate mousse is often served in small cups."
+    ],
+    "cr\u00e8me br\u00fbl\u00e9e": [
+        "cr\u00e8me br\u00fbl\u00e9e features a creamy custard base.",
+        "the top is torched to create a crispy caramelized layer.",
+        "the dessert is often served in individual ramekins.",
+        "cr\u00e8me br\u00fbl\u00e9e is often flavored with vanilla."
+    ],
+    "gnocchi": [
+        "gnocchi are small, dumpling-like pasta.",
+        "the dough is often made with potatoes, giving it a soft texture.",
+        "gnocchi are typically shaped with ridges to hold sauce.",
+        "gnocchi are often coated in sauce, such as pesto or marinara."
+    ],
+    "cannoli": [
+        "cannoli are tube-shaped pastry shells.",
+        "the shells are filled with sweet ricotta cheese filling.",
+        "the ends are often dusted with powdered sugar.",
+        "the ends might be dipped in chocolate chips or pistachios."
+    ],
+    "pizza": [
+        "traditional pizza is often round.",
+        "the base is made from pizza dough that's baked.",
+        "ingredients like tomato sauce, cheese, and various toppings cover the pizza.",
+        "pizza is typically served in triangular slices."
+    ],
+    "steak": [
+        "a well-cooked piece of steak, often seared.",
+        "different cuts have distinct appearances, such as ribeye or filet mignon.",
+        "the steak might have grill marks.",
+        "the interior color varies depending on the desired doneness."
+    ],
+    "hot and sour soup": [
+        "hot and sour soup has a flavorful broth.",
+        "the soup is often flavored with vinegar, pepper, and other spices.",
+        "cubes of tofu and sliced mushrooms are common ingredients.",
+        "whisked eggs create thin ribbons in the soup."
+    ],
+    "cupcakes": [
+        "cupcakes are small, individual cakes.",
+        "the top is often covered with a swirl of frosting.",
+        "sprinkles, edible flowers, or small toppers might be added.",
+        "cupcakes are typically baked in paper or foil liners."
+    ],
+    "spaghetti carbonara": [
+        "spaghetti strands are a key feature.",
+        "the pasta is coated in a creamy sauce made from eggs, cheese, and pancetta.",
+        "the sauce contains grated cheese and raw eggs.",
+        "black pepper is often used for seasoning."
+    ],
+    "ramen": [
+        "ramen features a flavorful soup broth.",
+        "long, thin ramen noodles are immersed in the broth.",
+        "ingredients like sliced pork, green onions, seaweed, and egg are added.",
+        "ramen is a popular japanese noodle dish."
+    ],
+    "breakfast burrito": [
+        "a tortilla is filled and rolled around the ingredients.",
+        "scrambled eggs are a common filling.",
+        "ingredients like bacon, sausage, cheese, and vegetables are added.",
+        "breakfast burritos are often eaten on the go."
+    ],
+    "greek salad": [
+        "greek salad features vibrant and colorful vegetables like tomatoes, cucumbers, and bell peppers.",
+        "chunks of feta cheese are often scattered over the salad.",
+        "whole or sliced olives are a key ingredient.",
+        "the salad is dressed with olive oil and sprinkled with oregano."
+    ],
+    "red velvet cake": [
+        "red velvet cake has a distinctive reddish color.",
+        "the cake is often covered in cream cheese frosting.",
+        "red velvet cake is typically presented as layered slices.",
+        "the cake has a subtle cocoa flavor."
+    ],
+    "lobster bisque": [
+        "lobster bisque features a creamy and rich soup base.",
+        "chunks of lobster meat are often visible in the soup.",
+        "chopped chives or parsley might be used for garnish.",
+        "the soup has a distinct seafood flavor."
+    ],
+    "chicken curry": [
+        "chicken curry is served with a flavorful sauce.",
+        "tender pieces of chicken are immersed in the sauce.",
+        "a variety of spices and herbs flavor the dish.",
+        "rice or bread is often served with chicken curry."
+    ],
+    "churros": [
+        "churros are long, stick-like fried pastries.",
+        "the churros are coated in cinnamon and sugar.",
+        "churros have a crispy and crunchy exterior.",
+        "chocolate sauce or caramel sauce is often served for dipping."
+    ],
+    "grilled cheese sandwich": [
+        "grilled cheese sandwiches consist of toasted bread with melted cheese in the middle.",
+        "the cheese inside the sandwich is melted and gooey.",
+        "the outer crust of the bread is often buttered and toasted.",
+        "some may serve the sandwich with tomato soup for dipping."
+    ],
+    "peking duck": [
+        "peking duck is known for its crispy roasted skin.",
+        "the duck is often served with thin pancakes for wrapping.",
+        "the duck is commonly served with hoisin sauce.",
+        "slices of scallions and cucumbers are added to the wrap."
+    ],
+    "macarons": [
+        "macarons are delicate almond meringue cookies.",
+        "two cookies are sandwiched with a filling, often ganache or buttercream.",
+        "macarons come in a variety of vibrant colors.",
+        "the outer shell is smooth and slightly crispy."
+    ],
+    "creme brulee": [
+        "cr\u00e8me br\u00fbl\u00e9e features a creamy custard base.",
+        "the top is torched to create a crispy caramelized layer.",
+        "the dessert is often served in individual ramekins.",
+        "cr\u00e8me br\u00fbl\u00e9e is often flavored with vanilla."
+    ],
+    "cup cakes": [
+        "cupcakes are small, individual cakes.",
+        "the top is often covered with a swirl of frosting.",
+        "sprinkles, edible flowers, or small toppers might be added.",
+        "cupcakes are typically baked in paper or foil liners."
+    ]
+}

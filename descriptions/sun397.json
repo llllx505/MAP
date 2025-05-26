@@ -1,0 +1,2584 @@
+[
+    {
+        "name": "Dam",
+        "none1": "Straight and massive concrete structures with water flowing through.",
+        "none2": "Regular geometric shapes, such as a rectangular or trapezoidal form.",
+        "none3": "Presence of water reservoirs or lakes on one side of the structure."
+    },
+    {
+        "name": "Outdoor Market",
+        "none4": "Crowded scene with people, vendors, and stalls selling various goods.",
+        "none5": "Bright and diverse colors due to the variety of products.",
+        "none6": "Canopy structures or umbrellas to protect from sun or rain.",
+        "none7": "Tables or display stands with merchandise."
+    },
+    {
+        "name": "Rainforest",
+        "none8": "Dense vegetation with a mix of trees, bushes, and plants.",
+        "none9": "Varied and vibrant green color tones.",
+        "none10": "Presence of wildlife such as birds, monkeys, or insects.",
+        "none11": "Moist and humid environment."
+    },
+    {
+        "name": "Raft",
+        "none12": "Floating platform or structure on water.",
+        "none13": "Typically made of wood or other buoyant materials.",
+        "none14": "May have people on board, using paddles or oars to navigate."
+    },
+    {
+        "name": "Windmill",
+        "none15": "Tall structure with rotating blades to harness wind energy.",
+        "none16": "Circular or polygonal shape with a tower and rotating blades on top.",
+        "none17": "Often found in open landscapes or fields."
+    },
+    {
+        "name": "Indoor Bow Window",
+        "none18": "A protruding window structure that creates a curved or polygonal shape inside a building.",
+        "none19": "Offers a wide view and allows more natural light into the room.",
+        "none20": "Often decorated with curtains or plants."
+    },
+    {
+        "name": "Home Office",
+        "none21": "Indoors with a desk or workspace setup.",
+        "none22": "May contain a computer, office supplies, and books.",
+        "none23": "Chairs, tables, and shelves are common features.",
+        "none24": "Personal items or decorations may be present."
+    },
+    {
+        "name": "Pantry",
+        "none25": "Indoor area typically found in kitchens or storage rooms.",
+        "none26": "Contains shelves or cabinets for storing food and kitchen supplies.",
+        "none27": "May have food items, dishes, or utensils visible.",
+        "none28": "Often organized and well-lit."
+    },
+    {
+        "name": "Heliport",
+        "none29": "Flat, open area designed for helicopters to take off and land.",
+        "none30": "Helipad marked with a distinct 'H' symbol.",
+        "none31": "Surroundings may include landing lights, fencing, or support structures."
+    },
+    {
+        "name": "Indoor Tennis Court",
+        "none32": "Enclosed area with high ceilings and a net dividing the court.",
+        "none33": "Distinctive court lines and markings for tennis games.",
+        "none34": "May have spectators or players on the court."
+    },
+    {
+        "name": "Office Cubicle",
+        "none35": "Small, partitioned workspace typically found in office environments.",
+        "none36": "Often has a desk, computer, chair, and office supplies.",
+        "none37": "Walls or dividers separating adjacent cubicles."
+    },
+    {
+        "name": "Fishpond",
+        "none38": "A small body of water, often in a garden or outdoor area.",
+        "none39": "Contains fish and aquatic plants.",
+        "none40": "May have decorative features like rocks, waterfalls, or fountains."
+    },
+    {
+        "name": "Hayfield",
+        "none41": "Open field with tall grass or crops, such as hay.",
+        "none42": "Golden or light green color tones depending on the season.",
+        "none43": "May have bales of hay or farming equipment present."
+    },
+    {
+        "name": "Ski Slope",
+        "none44": "Steep, snow-covered terrain used for skiing or snowboarding.",
+        "none45": "Can have ski lifts or cable cars transporting people to the top.",
+        "none46": "Ski tracks or marks from skiers and snowboarders."
+    },
+    {
+        "name": "Computer Room",
+        "none47": "Usually an indoor space with computer equipment and servers.",
+        "none48": "Racks or cabinets housing multiple computers or network devices.",
+        "none49": "Cables and wires organized neatly.",
+        "none50": "Computer monitors, keyboards, and other peripherals visible."
+    },
+    {
+        "name": "Restaurant",
+        "none51": "Indoor dining area with tables and chairs for customers.",
+        "none52": "Counter or bar where food is served or displayed.",
+        "none53": "Kitchen area or visible kitchen equipment.",
+        "none54": "Decorative elements, such as paintings or plants, may be present."
+    },
+    {
+        "name": "Outdoor Tennis Court",
+        "none55": "Open-air sports court with a net dividing the playing area.",
+        "none56": "Distinctive court lines and markings for tennis games.",
+        "none57": "Surfaces may vary, such as clay, grass, or hard court."
+    },
+    {
+        "name": "Door Elevator",
+        "none58": "Elevator doors in an indoor setting, indicating the presence of an elevator.",
+        "none59": "May have floor indicators or buttons next to the doors.",
+        "none60": "Visible elevator shaft or lobby area."
+    },
+    {
+        "name": "Botanical Garden",
+        "none61": "Outdoor area with a wide variety of plants and flowers.",
+        "none62": "Organized pathways and garden beds.",
+        "none63": "Benches, statues, or other decorative elements may be present.",
+        "none64": "Greenery and a peaceful atmosphere."
+    },
+    {
+        "name": "Toyshop",
+        "none65": "Indoor retail space selling toys and children's products.",
+        "none66": "Shelves or display racks with various toys.",
+        "none67": "Bright and colorful decorations.",
+        "none68": "May have playful signage or themed areas."
+    },
+    {
+        "name": "Wind Farm",
+        "none69": "Large area with multiple wind turbines.",
+        "none70": "Tall towers with rotating blades on top.",
+        "none71": "Often situated in open, windy locations like hills or coastal areas."
+    },
+    {
+        "name": "Restaurant Kitchen",
+        "none72": "Commercial kitchen space in a restaurant.",
+        "none73": "Stainless steel countertops and equipment, such as stoves, ovens, and grills.",
+        "none74": "Chefs or kitchen staff in their culinary attire.",
+        "none75": "Cooking utensils and ingredients visible."
+    },
+    {
+        "name": "Bamboo Forest",
+        "none76": "Outdoor area densely populated with bamboo plants.",
+        "none77": "Tall, slender green bamboo shoots.",
+        "none78": "Natural lighting and shadows created by bamboo foliage.",
+        "none79": "Peaceful and serene environment."
+    },
+    {
+        "name": "Racecourse",
+        "none80": "Outdoor track or field for horse racing or other sporting events.",
+        "none81": "Oval or circular shape with marked lanes or tracks.",
+        "none82": "Grandstands or seating areas for spectators.",
+        "none83": "May have horses, jockeys, or racing equipment visible."
+    },
+    {
+        "name": "Control Room",
+        "none84": "Indoor space with monitoring and control equipment.",
+        "none85": "Multiple screens or displays showing various data or video feeds.",
+        "none86": "Operators or technicians managing the equipment.",
+        "none87": "Panels, buttons, and switches for controlling systems."
+    },
+    {
+        "name": "Ocean",
+        "none88": "Vast body of saltwater with blue color tones.",
+        "none89": "Waves and ripples on the water's surface.",
+        "none90": "Possible presence of boats, ships, or marine life.",
+        "none91": "May have coastal features like cliffs or beaches."
+    },
+    {
+        "name": "Clothing Store",
+        "none92": "Indoor retail space selling clothing and apparel.",
+        "none93": "Clothes displayed on racks, shelves, or mannequins.",
+        "none94": "Mirrors and fitting rooms for trying on clothes.",
+        "none95": "Bright and stylish interior design."
+    },
+    {
+        "name": "Barrel Storage Wine Cellar",
+        "none96": "Indoor space used for storing wine barrels or aging wine.",
+        "none97": "Rows of wooden barrels stacked together.",
+        "none98": "Low light conditions with a rustic ambiance.",
+        "none99": "Bottles of wine or wine-related equipment may be visible."
+    },
+    {
+        "name": "Dining Car",
+        "none100": "Interior of a train carriage designed for dining during travel.",
+        "none101": "Tables and seats arranged for passengers to eat.",
+        "none102": "Buffet counters or food service areas.",
+        "none103": "Windows on the sides for viewing scenery."
+    },
+    {
+        "name": "Van Interior",
+        "none104": "Interior of a van or minivan used for transportation.",
+        "none105": "Seats for passengers, typically with seatbelts.",
+        "none106": "Dashboard with controls and instruments.",
+        "none107": "Windows for natural light and views outside."
+    },
+    {
+        "name": "Indoor Church",
+        "none108": "Interior of a religious building used for worship services.",
+        "none109": "Pews or benches for congregation seating.",
+        "none110": "Altar or podium at the front of the church.",
+        "none111": "Stained glass windows or religious artwork."
+    },
+    {
+        "name": "Water Moat",
+        "none112": "A narrow, deep channel of water surrounding a building or structure.",
+        "none113": "Typically part of a fortification or historical architecture.",
+        "none114": "Water may be still or flowing."
+    },
+    {
+        "name": "Wave",
+        "none115": "Formed by the motion of water in oceans or seas.",
+        "none116": "Typically has a curved, cresting shape.",
+        "none117": "Can vary in size and intensity."
+    },
+    {
+        "name": "Runway",
+        "none118": "Long, straight path for aircraft takeoffs and landings.",
+        "none119": "Usually located at airports.",
+        "none120": "Often marked with runway numbers and centerlines."
+    },
+    {
+        "name": "Broadleaf Forest",
+        "none121": "Dense woodland with trees having broad leaves (not needles).",
+        "none122": "Trees may shed leaves in colder seasons.",
+        "none123": "Rich and varied foliage, often with vibrant colors in autumn."
+    },
+    {
+        "name": "Mountain Snowy",
+        "none124": "Large natural landform with high elevation and covered in snow.",
+        "none125": "Steep slopes and rugged terrain.",
+        "none126": "Snow-capped peaks and icy surfaces.",
+        "none127": "May have trees or other vegetation at lower elevations."
+    },
+    {
+        "name": "Playground",
+        "none128": "Outdoor area designed for children to play and have fun.",
+        "none129": "Play structures like swings, slides, and climbing frames.",
+        "none130": "Colorful and child-friendly equipment.",
+        "none131": "Soft ground surfaces, such as sand or rubber."
+    },
+    {
+        "name": "Amusement Arcade",
+        "none132": "Indoor entertainment venue with arcade games and machines.",
+        "none133": "Rows of gaming machines, pinball, and video games.",
+        "none134": "Flashing lights and vibrant colors.",
+        "none135": "May have prize redemption counters or ticket machines."
+    },
+    {
+        "name": "Gas Station",
+        "none136": "Service station for refueling vehicles with fuel pumps.",
+        "none137": "Canopy or awning over the fueling area.",
+        "none138": "Convenience store or shop selling snacks and other items.",
+        "none139": "Parking spaces for vehicles."
+    },
+    {
+        "name": "Building Facade",
+        "none140": "Exterior front wall of a building.",
+        "none141": "May have windows, doors, or architectural details.",
+        "none142": "Often shows the main entrance to the building.",
+        "none143": "May have signs or banners indicating the purpose of the building."
+    },
+    {
+        "name": "Picnic Area",
+        "none144": "Outdoor space designated for picnics and outdoor dining.",
+        "none145": "May have picnic tables, benches, or blankets spread out on the grass.",
+        "none146": "Trees or shade structures for shelter.",
+        "none147": "People enjoying meals or recreational activities."
+    },
+    {
+        "name": "Music Studio",
+        "none148": "Indoor space designed for music recording or production.",
+        "none149": "Soundproofing materials on the walls and ceilings.",
+        "none150": "Audio equipment such as microphones, mixers, and speakers.",
+        "none151": "Instruments and musical accessories visible."
+    },
+    {
+        "name": "Hot Spring",
+        "none152": "Natural or constructed pool of geothermally heated water.",
+        "none153": "Steam rising from the water due to the temperature difference.",
+        "none154": "Surrounded by rocks or other natural elements.",
+        "none155": "Often located in scenic and tranquil areas."
+    },
+    {
+        "name": "Veranda",
+        "none156": "Outdoor, roofed platform attached to a building's exterior.",
+        "none157": "Often used as an open-air sitting or dining area.",
+        "none158": "May have railings, columns, or decorative elements.",
+        "none159": "Provides a view of the surrounding environment."
+    },
+    {
+        "name": "Baseball Stadium",
+        "none160": "Large sports arena for baseball games.",
+        "none161": "Seating stands or bleachers for spectators.",
+        "none162": "Baseball field with bases, pitcher's mound, and outfield.",
+        "none163": "Scoreboards and floodlights for night games."
+    },
+    {
+        "name": "Indoor Movie Theater",
+        "none164": "Rows of seats facing a large screen or projection area.",
+        "none165": "Dimmed lighting and sound system for optimal movie viewing.",
+        "none166": "Movie posters or promotional displays.",
+        "none167": "Concession stands or snack bars."
+    },
+    {
+        "name": "Lift Bridge",
+        "none168": "A type of movable bridge with a mechanism to lift for passing boats.",
+        "none169": "Often found over bodies of water like rivers or canals.",
+        "none170": "May have counterweights and large supporting structures."
+    },
+    {
+        "name": "Bayou",
+        "none171": "Slow-moving, marshy body of water with dense vegetation.",
+        "none172": "Often characterized by trees, cypress knees, and aquatic plants.",
+        "none173": "Commonly found in the southern United States."
+    },
+    {
+        "name": "Stable",
+        "none174": "A building or structure designed to house and care for horses or other livestock.",
+        "none175": "Stalls or compartments for individual animals.",
+        "none176": "May have hay, feed, and equipment for grooming."
+    },
+    {
+        "name": "Courtroom",
+        "none177": "Indoor space used for legal proceedings and trials.",
+        "none178": "Raised platform for the judge or presiding officer.",
+        "none179": "Benches or seating for lawyers, jury, and spectators.",
+        "none180": "Witness stand and legal desks."
+    },
+    {
+        "name": "Natural Lake",
+        "none181": "A large body of water formed naturally, typically surrounded by land.",
+        "none182": "Calm water surface with reflections of the surroundings.",
+        "none183": "May have boats, wildlife, or vegetation on or around the lake."
+    },
+    {
+        "name": "Platform Train Station",
+        "none184": "A raised flat surface for boarding or disembarking trains.",
+        "none185": "Usually with train tracks on either side.",
+        "none186": "May have seating for waiting passengers.",
+        "none187": "Signage or displays indicating train information."
+    },
+    {
+        "name": "Orchard",
+        "none188": "Outdoor area with rows of fruit-bearing trees.",
+        "none189": "Fruit trees may have blossoms or fruits, depending on the season.",
+        "none190": "Often found in rural or agricultural areas."
+    },
+    {
+        "name": "Wheat Field",
+        "none191": "Large, open field with cultivated wheat crops.",
+        "none192": "Golden or light green color tones of the wheat plants.",
+        "none193": "May have farming equipment, such as tractors."
+    },
+    {
+        "name": "Bathroom",
+        "none194": "Indoor space used for personal hygiene and grooming.",
+        "none195": "May have a bathtub, shower, sink, and toilet.",
+        "none196": "Tiles or waterproof materials on walls and floors."
+    },
+    {
+        "name": "Discotheque",
+        "none197": "Indoor entertainment venue with music and dancing.",
+        "none198": "Colorful lighting and dance floor.",
+        "none199": "DJ booth or stage for performers.",
+        "none200": "Seating areas for guests."
+    },
+    {
+        "name": "Garbage Dump",
+        "none201": "Outdoor area used for waste disposal and landfill.",
+        "none202": "Piles of garbage and waste materials.",
+        "none203": "May have trucks or machinery for waste management."
+    },
+    {
+        "name": "Ice Cream Parlor",
+        "none204": "Indoor space or shop selling ice cream and frozen treats.",
+        "none205": "Display cabinets with various flavors of ice cream.",
+        "none206": "Countertop for serving customers.",
+        "none207": "Colorful and inviting decor."
+    },
+    {
+        "name": "Coral Reef Underwater",
+        "none208": "Underwater ecosystem with colorful corals and marine life.",
+        "none209": "Clear blue water with various shades of coral formations.",
+        "none210": "Fish, sea turtles, and other aquatic creatures may be visible."
+    },
+    {
+        "name": "Aqueduct",
+        "none211": "Man-made structure designed to transport water.",
+        "none212": "Elevated channels or bridges carrying water across valleys or other obstacles.",
+        "none213": "Stone or concrete construction with arches or supports."
+    },
+    {
+        "name": "Ticket Booth",
+        "none214": "Small enclosed structure for selling tickets or entry passes.",
+        "none215": "Typically found at amusement parks, stadiums, or events.",
+        "none216": "May have a window for transactions."
+    },
+    {
+        "name": "Toll Plaza",
+        "none217": "Roadway area with toll booths for collecting fees from vehicles.",
+        "none218": "Lanes for vehicles to pass through and pay tolls.",
+        "none219": "May have gates or barriers."
+    },
+    {
+        "name": "Boxing Ring",
+        "none220": "Raised square or circular platform surrounded by ropes.",
+        "none221": "Found in boxing gyms, arenas, or sports venues.",
+        "none222": "Corners may have stools or equipment for fighters."
+    },
+    {
+        "name": "Kitchen",
+        "none223": "Indoor space for food preparation and cooking.",
+        "none224": "Countertops, stoves, ovens, and kitchen utensils may be visible.",
+        "none225": "Cabinets and shelves for storage."
+    },
+    {
+        "name": "Establishment Poolroom",
+        "none226": "Indoor space dedicated to playing billiards or pool.",
+        "none227": "Pool tables with balls and cues.",
+        "none228": "Often dimly lit with hanging lights above the tables.",
+        "none229": "May have seating and a bar area."
+    },
+    {
+        "name": "Indoor Shopping Mall",
+        "none230": "Large indoor commercial complex with various retail stores.",
+        "none231": "Atriums or common areas with seating.",
+        "none232": "Escalators, elevators, or stairs for moving between floors.",
+        "none233": "Shops with shopfronts and product displays."
+    },
+    {
+        "name": "Shopfront",
+        "none234": "The exterior part of a shop facing the street.",
+        "none235": "May have a large display window showcasing products.",
+        "none236": "Signage, awnings, or canopies with the shop's name or logo."
+    },
+    {
+        "name": "Outdoor Planetarium",
+        "none237": "An open-air facility for stargazing and astronomy education.",
+        "none238": "Often equipped with telescopes and educational displays.",
+        "none239": "Seating or observatory areas for visitors."
+    },
+    {
+        "name": "Outdoor Church",
+        "none240": "A religious building or place of worship located outdoors.",
+        "none241": "Architectural features like steeples, domes, or crosses.",
+        "none242": "Often surrounded by a churchyard or cemetery.",
+        "none243": "May have seating or benches for outdoor services."
+    },
+    {
+        "name": "River",
+        "none244": "A natural flowing body of water with a current.",
+        "none245": "Typically larger than a stream and may have boats or wildlife.",
+        "none246": "Banks or shores on either side."
+    },
+    {
+        "name": "Vegetation Desert",
+        "none247": "A desert landscape with various types of vegetation and plants.",
+        "none248": "May have cacti, shrubs, or other drought-resistant flora.",
+        "none249": "Sand or rocky terrain."
+    },
+    {
+        "name": "Outdoor Swimming Pool",
+        "none250": "An artificial water body designed for swimming and recreation.",
+        "none251": "Often surrounded by a deck or lounge area.",
+        "none252": "May have diving boards, slides, or water features."
+    },
+    {
+        "name": "Clean Room",
+        "none253": "A controlled environment with low levels of pollutants, particles, and contaminants.",
+        "none254": "Specialized equipment and protective clothing may be required.",
+        "none255": "Used in industries like semiconductor manufacturing and scientific research.",
+        "none256": "Large floating mass of ice detached from a glacier or ice shelf.",
+        "none257": "Typically found in polar regions.",
+        "none258": "White or bluish color due to ice density."
+    },
+    {
+        "name": "Fan Waterfall",
+        "none259": "A type of waterfall where water spreads out like a fan as it descends.",
+        "none260": "Water cascades over multiple levels or rock formations.",
+        "none261": "Often found in rocky or mountainous areas."
+    },
+    {
+        "name": "Sauna",
+        "none262": "Small enclosed room used for dry or wet heat sessions.",
+        "none263": "Wooden interior with benches for sitting or reclining.",
+        "none264": "May have stones for heating and a bucket for pouring water."
+    },
+    {
+        "name": "Shed",
+        "none265": "Small, simple building for storage or shelter.",
+        "none266": "Usually made of wood or metal.",
+        "none267": "Can be used for storing tools, equipment, or gardening supplies."
+    },
+    {
+        "name": "Islet",
+        "none268": "A small, isolated landmass surrounded by water.",
+        "none269": "Often found in lakes, rivers, or oceans.",
+        "none270": "Vegetation or wildlife may be present."
+    },
+    {
+        "name": "Outdoor Control Tower",
+        "none271": "A tower structure at airports used for air traffic control.",
+        "none272": "Offers a view of the runway and surrounding airspace.",
+        "none273": "May have radar or communication equipment."
+    },
+    {
+        "name": "Playroom",
+        "none274": "Indoor space designed for children's play and activities.",
+        "none275": "Colorful decor and child-friendly furniture.",
+        "none276": "Toys, games, and educational materials may be present."
+    },
+    {
+        "name": "Hill",
+        "none277": "Natural elevation of land, smaller than a mountain.",
+        "none278": "Sloping terrain with various vegetation or landscapes."
+    },
+    {
+        "name": "Server Room",
+        "none279": "Indoor space with racks of computer servers and networking equipment.",
+        "none280": "Cables and wiring for data connections.",
+        "none281": "Cooling systems to maintain low temperatures.",
+        "none282": "May have security measures like access control and surveillance cameras."
+    },
+    {
+        "name": "Classroom",
+        "none283": "Indoor space in an educational institution for teaching and learning.",
+        "none284": "Desks or tables and chairs arranged for students.",
+        "none285": "Whiteboard or blackboard for teaching materials.",
+        "none286": "May have educational posters or displays."
+    },
+    {
+        "name": "Basement",
+        "none287": "Lower level of a building, partially or entirely below ground level.",
+        "none288": "Often used for storage or utility purposes.",
+        "none289": "May have concrete or stone walls and floors."
+    },
+    {
+        "name": "Shop Bakery",
+        "none290": "Indoor space or shop specialized in baking and selling bakery products.",
+        "none291": "Display cases with various types of bread, cakes, and pastries.",
+        "none292": "Ovens, mixers, and baking equipment may be visible."
+    },
+    {
+        "name": "Kasbah",
+        "none293": "A traditional fortress or citadel in North Africa or the Middle East.",
+        "none294": "Typically made of earthen materials like clay and stone.",
+        "none295": "May have narrow alleys and defensive structures."
+    },
+    {
+        "name": "Television Studio",
+        "none296": "Indoor space equipped for producing television programs.",
+        "none297": "Cameras, lighting equipment, and sound systems.",
+        "none298": "Sets or backdrops for various shows or news broadcasts."
+    },
+    {
+        "name": "Yard",
+        "none299": "Outdoor area adjacent to a building or property.",
+        "none300": "Open space with grass, pavement, or landscaping.",
+        "none301": "May have outdoor furniture or recreational equipment."
+    },
+    {
+        "name": "Youth Hostel",
+        "none302": "Accommodation facility providing affordable lodging for travelers, especially young backpackers.",
+        "none303": "Often has shared dormitory-style rooms or private rooms.",
+        "none304": "Common areas for socializing and cooking facilities.",
+        "none305": "May have a reception area or check-in desk."
+    },
+    {
+        "name": "Outdoor Hunting Lodge",
+        "none306": "A rustic building or cabin used by hunters for accommodation during hunting trips.",
+        "none307": "Typically located in remote areas near hunting grounds or forests.",
+        "none308": "May have hunting gear or trophies displayed."
+    },
+    {
+        "name": "Carrousel",
+        "none309": "Amusement ride with a rotating platform and colorful, decorative horses or other animals.",
+        "none310": "Often found in amusement parks or fairgrounds.",
+        "none311": "May have music and lights during operation."
+    },
+    {
+        "name": "Beauty Salon",
+        "none312": "Establishment providing various beauty and grooming services.",
+        "none313": "May have hairdressing stations, nail care area, and cosmetic products on display.",
+        "none314": "Often features mirrors and comfortable seating for clients."
+    },
+    {
+        "name": "Crosswalk",
+        "none315": "Designated pedestrian crossing area on a road.",
+        "none316": "Often marked with zebra stripes or other patterns.",
+        "none317": "May have pedestrian traffic lights for safety."
+    },
+    {
+        "name": "Conference Center",
+        "none318": "A large indoor facility for hosting conferences, seminars, and events.",
+        "none319": "May have multiple conference rooms or halls with seating arrangements.",
+        "none320": "Audio-visual equipment, podiums, and projectors may be visible."
+    },
+    {
+        "name": "Park",
+        "none321": "An outdoor area designated for recreational activities and relaxation.",
+        "none322": "Grassy lawns, trees, and benches for seating.",
+        "none323": "Playgrounds, walking paths, or sports facilities may be present."
+    },
+    {
+        "name": "Cottage Garden",
+        "none324": "An informal and picturesque garden typically surrounding a cottage or small house.",
+        "none325": "Abundant and colorful flowers, herbs, and shrubs.",
+        "none326": "Often has winding paths and natural arrangements."
+    },
+    {
+        "name": "Outdoor Basketball Court",
+        "none327": "Open-air sports facility designed for playing basketball.",
+        "none328": "Concrete or asphalt surface with marked court lines.",
+        "none329": "Basketball hoops or backboards."
+    },
+    {
+        "name": "Outdoor General Store",
+        "none330": "A small retail shop or store located outdoors in a rural or remote area.",
+        "none331": "May sell basic supplies, groceries, and outdoor equipment.",
+        "none332": "Simple structures with signs or displays."
+    },
+    {
+        "name": "Kindergarden Classroom",
+        "none333": "Indoor space designed for young children's education and activities.",
+        "none334": "Child-sized furniture, such as small tables and chairs.",
+        "none335": "Educational toys, books, and learning materials.",
+        "none336": "Bright and colorful decorations."
+    },
+    {
+        "name": "Boardwalk",
+        "none337": "Elevated pathway typically made of wood or planks.",
+        "none338": "Located along coastal areas or wetlands.",
+        "none339": "May have shops, restaurants, and attractions along the walkway."
+    },
+    {
+        "name": "Candy Store",
+        "none340": "Retail shop selling various types of candies and sweets.",
+        "none341": "Colorful displays of candy jars and packages.",
+        "none342": "A wide variety of candies for sale."
+    },
+    {
+        "name": "Mausoleum",
+        "none343": "A large, stately tomb or burial chamber for the deceased.",
+        "none344": "Often made of stone or marble with elaborate architecture.",
+        "none345": "May have statues, monuments, or inscriptions."
+    },
+    {
+        "name": "Indoor Booth",
+        "none346": "Small enclosed space, often temporary, for conducting specific activities or services.",
+        "none347": "Commonly found at events, trade shows, or exhibitions.",
+        "none348": "Can be used for information, sales, or demonstrations."
+    },
+    {
+        "name": "Ski Lodge",
+        "none349": "A building or facility located near ski slopes or ski areas.",
+        "none350": "Often made of wood and has a cozy and rustic appearance.",
+        "none351": "May have a fireplace, ski equipment rental area, and seating for guests."
+    },
+    {
+        "name": "Canyon",
+        "none352": "A deep, narrow valley with steep sides, often carved by a river or erosion.",
+        "none353": "Typically has rocky cliffs and rugged terrain.",
+        "none354": "Canyons offer scenic and dramatic landscapes."
+    },
+    {
+        "name": "Attic",
+        "none355": "The space directly under the roof of a building, often used for storage or as an extra room.",
+        "none356": "May have sloping ceilings and exposed beams.",
+        "none357": "May contain stored items or be converted into a living space."
+    },
+    {
+        "name": "Game Room",
+        "none358": "Indoor space designed for recreational activities and games.",
+        "none359": "May have pool tables, foosball, arcade machines, or other games.",
+        "none360": "Often decorated with fun and entertaining themes."
+    },
+    {
+        "name": "Indoor Library",
+        "none361": "Indoor space with shelves or bookcases containing books and other reading materials.",
+        "none362": "Seating areas for reading and studying.",
+        "none363": "Quiet and peaceful environment."
+    },
+    {
+        "name": "Home Poolroom",
+        "none364": "An indoor area in a residence dedicated to playing pool or billiards.",
+        "none365": "Often has a pool table and cue racks.",
+        "none366": "May be designed as a recreational space for socializing."
+    },
+    {
+        "name": "Airplane Cabin",
+        "none367": "The interior space of a commercial airplane where passengers are seated.",
+        "none368": "Rows of seats with overhead compartments.",
+        "none369": "Aircraft windows and lighting."
+    },
+    {
+        "name": "Outdoor Hangar",
+        "none370": "Large sheltered structure used for housing and maintaining aircraft.",
+        "none371": "Often located at airports or airfields.",
+        "none372": "May have large doors or openings for aircraft access."
+    },
+    {
+        "name": "Bookstore",
+        "none373": "Indoor retail space selling books and literary material.",
+        "none374": "Shelves or display racks with various books.",
+        "none375": "Seating areas for reading or browsing."
+    },
+    {
+        "name": "Golf Course",
+        "none376": "Outdoor sports venue designed for playing golf.",
+        "none377": "Wide open spaces with manicured grass and fairways.",
+        "none378": "Golf holes or greens with flagsticks."
+    },
+    {
+        "name": "Lobby",
+        "none379": "The entrance or reception area of a building or hotel.",
+        "none380": "Often features seating areas, reception desks, and decorative elements.",
+        "none381": "May have access to elevators or other building amenities."
+    },
+    {
+        "name": "Rock Arch",
+        "none382": "A natural rock formation with an archway or bridge-like structure.",
+        "none383": "Often found in landscapes with eroded rock formations.",
+        "none384": "May be a prominent feature in scenic areas."
+    },
+    {
+        "name": "Indoor Jail",
+        "none385": "A secure indoor facility for holding prisoners or detainees.",
+        "none386": "Cells or holding areas with bars or doors.",
+        "none387": "Security features such as surveillance cameras and access control."
+    },
+    {
+        "name": "Outdoor Kennel",
+        "none388": "An outdoor enclosure or shelter for housing dogs.",
+        "none389": "May have individual dog runs or compartments.",
+        "none390": "Typically made of chain-link fencing or similar materials."
+    },
+    {
+        "name": "Exterior Covered Bridge",
+        "none391": "A bridge with a roof or covering to protect it from the elements.",
+        "none392": "Often made of wood and located over a body of water or ravine.",
+        "none393": "Provides a covered walkway or crossing."
+    },
+    {
+        "name": "Dock",
+        "none394": "A structure extending from the shore into a body of water.",
+        "none395": "Used for boat access, loading/unloading, or recreational activities.",
+        "none396": "May have seating or equipment for water activities."
+    },
+    {
+        "name": "Rice Paddy",
+        "none397": "Agricultural field or terrace flooded with water for growing rice.",
+        "none398": "Typically found in rice-growing regions.",
+        "none399": "May have small mud walls to retain water."
+    },
+    {
+        "name": "Indoor Cathedral",
+        "none400": "A large and grand religious building used for Christian worship.",
+        "none401": "Often characterized by high ceilings, stained glass windows, and ornate architecture.",
+        "none402": "May have pews, altars, and religious artwork."
+    },
+    {
+        "name": "Vineyard",
+        "none403": "Agricultural land where grapevines are cultivated for wine production.",
+        "none404": "Rows of grapevines, often organized in a grid pattern.",
+        "none405": "May have trellises or stakes to support the vines."
+    },
+    {
+        "name": "Indoor Pub",
+        "none406": "Indoor establishment serving alcoholic beverages and often offering food.",
+        "none407": "Bar counter with stools and shelves for drinks.",
+        "none408": "Seating areas with tables and chairs for customers."
+    },
+    {
+        "name": "Ruin",
+        "none409": "A site or structure that is in a state of decay or disrepair.",
+        "none410": "May be the remains of a building or historical site.",
+        "none411": "Often has crumbling walls or architectural features."
+    },
+    {
+        "name": "Boathouse",
+        "none412": "A building or structure used for storing boats and watercraft.",
+        "none413": "Located on or near a body of water like a lake or river.",
+        "none414": "Can have boat ramps or docks."
+    },
+    {
+        "name": "Highway",
+        "none415": "A major road or thoroughfare designed for high-speed traffic.",
+        "none416": "Multiple lanes with dividers or barriers.",
+        "none417": "May have overpasses or exits."
+    },
+    {
+        "name": "Manufactured Home",
+        "none418": "A prefabricated dwelling that is built off-site and transported to its location.",
+        "none419": "Often made in a factory and transported to the home site.",
+        "none420": "Can resemble a traditional house but with a different construction process."
+    },
+    {
+        "name": "Shoe Shop",
+        "none421": "Retail store specializing in selling footwear.",
+        "none422": "Displays with various types of shoes for sale.",
+        "none423": "Customers trying on shoes or getting assistance from staff."
+    },
+    {
+        "name": "Archive",
+        "none424": "A place or facility for storing historical records, documents, or data.",
+        "none425": "May have shelves, cabinets, or archival boxes.",
+        "none426": "Often found in libraries, museums, or government institutions."
+    },
+    {
+        "name": "Industrial Area",
+        "none427": "An area or zone with heavy industrial activities and factories.",
+        "none428": "May have large industrial buildings, warehouses, and storage yards.",
+        "none429": "Industrial equipment, chimneys, and pipes may be visible."
+    },
+    {
+        "name": "South Asia Temple",
+        "none430": "A religious place of worship in the South Asian region.",
+        "none431": "Unique architectural style with intricate carvings and ornamentation.",
+        "none432": "May have a central prayer hall, multiple shrines, and courtyards."
+    },
+    {
+        "name": "Outdoor Observatory",
+        "none433": "A location for observing celestial objects and astronomy.",
+        "none434": "Often equipped with telescopes and observation platforms.",
+        "none435": "Located in areas with minimal light pollution."
+    },
+    {
+        "name": "Indoor Escalator",
+        "none436": "Moving staircase for transporting people between different floors of a building.",
+        "none437": "Indoor structure with handrails and steps moving in a continuous loop.",
+        "none438": "Commonly found in malls, airports, and public buildings."
+    },
+    {
+        "name": "Wet Bar",
+        "none439": "A small bar area typically located in a home or entertainment space.",
+        "none440": "Equipped with a sink, faucet, and countertop for preparing and serving drinks.",
+        "none441": "May have shelves for storing liquor and glassware."
+    },
+    {
+        "name": "Baggage Claim",
+        "none442": "An area in an airport where passengers retrieve their checked luggage.",
+        "none443": "Conveyor belts or carousels for delivering luggage to passengers.",
+        "none444": "Often located near the airport arrivals area."
+    },
+    {
+        "name": "Indoor Pilothouse",
+        "none445": "An enclosed space on a boat or ship from where it is steered and navigated.",
+        "none446": "Contains steering controls, navigation equipment, and communication devices.",
+        "none447": "Provides a clear view of the surroundings through windows."
+    },
+    {
+        "name": "Sandbar",
+        "none448": "A ridge of sand, gravel, or other sediment built up by water currents.",
+        "none449": "Often visible in shallow areas of rivers, lakes, or oceans.",
+        "none450": "May partially or completely emerge above the water's surface."
+    },
+    {
+        "name": "Indoor Hangar",
+        "none451": "An enclosed structure for storing and maintaining aircraft.",
+        "none452": "Often found at airports or military bases.",
+        "none453": "Provides protection from the elements for parked aircraft."
+    },
+    {
+        "name": "Trench",
+        "none454": "A long, narrow excavation in the ground, often used for drainage or utilities.",
+        "none455": "May be dug for construction or military purposes.",
+        "none456": "Can be either natural or man-made."
+    },
+    {
+        "name": "Volcano",
+        "none457": "A mountain or hill with a vent or crater through which lava, rocks, and gases are erupted.",
+        "none458": "May have a cone-shaped appearance.",
+        "none459": "Often found in geologically active regions."
+    },
+    {
+        "name": "Outdoor Doorway",
+        "none460": "An entrance or passageway leading from the exterior to the interior of a building.",
+        "none461": "May have a door, archway, or portal.",
+        "none462": "Surrounding outdoor elements like steps or a porch may be visible."
+    },
+    {
+        "name": "Landfill",
+        "none463": "An area where waste and trash are disposed of and buried in the ground.",
+        "none464": "Often characterized by mounds of waste and heavy machinery for compaction.",
+        "none465": "Environmental management facilities may be present."
+    },
+    {
+        "name": "Indoor Apse",
+        "none466": "A semicircular or polygonal recess at the end of a building, often in religious structures.",
+        "none467": "May contain an altar, religious symbols, or artwork.",
+        "none468": "Commonly found in churches and cathedrals."
+    },
+    {
+        "name": "Riding Arena",
+        "none469": "An enclosed area used for horseback riding and equestrian activities.",
+        "none470": "Often has sand or other footing for horse comfort and traction.",
+        "none471": "May have fences or barriers around the perimeter."
+    },
+    {
+        "name": "Exterior Gazebo",
+        "none472": "A freestanding outdoor structure with a roof and open sides.",
+        "none473": "Often used as a garden or park feature for relaxation or events.",
+        "none474": "Can have decorative elements like columns or lattice."
+    },
+    {
+        "name": "Village",
+        "none475": "A small settlement or community in a rural area.",
+        "none476": "May have a cluster of houses, buildings, and streets.",
+        "none477": "Often surrounded by natural landscapes or farmland."
+    },
+    {
+        "name": "Outdoor Bow Window",
+        "none478": "A curved or semicircular window that projects outward from the building's facade.",
+        "none479": "Typically found in residential homes or historical buildings.",
+        "none480": "Offers a panoramic view and adds architectural charm."
+    },
+    {
+        "name": "Indoor Bistro",
+        "none481": "A small and casual restaurant or cafe, often with a French-inspired ambiance.",
+        "none482": "May have bistro tables and chairs, wooden decor, and chalkboard menus.",
+        "none483": "Usually offers a limited menu and focuses on simple, delicious meals."
+    },
+    {
+        "name": "Outdoor Power Plant",
+        "none484": "A facility that generates electrical power from various sources.",
+        "none485": "Often has large industrial structures, chimneys, and cooling towers.",
+        "none486": "May have transmission lines and substations."
+    },
+    {
+        "name": "Shower",
+        "none487": "An enclosed space or area for taking baths or showers.",
+        "none488": "May have a showerhead, faucets, and tiles or waterproof walls.",
+        "none489": "Often found in bathrooms or gym locker rooms."
+    },
+    {
+        "name": "Forest Road",
+        "none490": "A pathway or track that runs through a forest or wooded area.",
+        "none491": "Often surrounded by trees and vegetation.",
+        "none492": "May be gravel or dirt road with natural surroundings."
+    },
+    {
+        "name": "Outdoor Chicken Coop",
+        "none493": "An enclosed outdoor structure or pen for housing chickens.",
+        "none494": "Typically made of wood and wire mesh.",
+        "none495": "Can have nesting boxes and perches for the chickens."
+    },
+    {
+        "name": "Parlor",
+        "none496": "A formal and elegant sitting room or living room in a house.",
+        "none497": "Often furnished with comfortable seating, tables, and decor.",
+        "none498": "May have a fireplace and decorative elements."
+    },
+    {
+        "name": "Ball Pit",
+        "none499": "A play area or pool filled with colorful plastic balls for children to play in.",
+        "none500": "Often found in amusement centers or indoor play areas.",
+        "none501": "Provides a fun and safe play environment."
+    },
+    {
+        "name": "Lock Chamber",
+        "none502": "Part of a canal or waterway system used for raising or lowering boats between different water levels.",
+        "none503": "May have gates or doors that control the water level.",
+        "none504": "Used in canal systems for navigation."
+    },
+    {
+        "name": "Putting Green",
+        "none505": "A smooth, grassy area used for practicing putting in golf.",
+        "none506": "Often found on golf courses or practice facilities.",
+        "none507": "May have holes or cups for targeting."
+    },
+    {
+        "name": "Sandbox",
+        "none508": "An outdoor play area filled with sand for children to play in.",
+        "none509": "Often has toys and play equipment like shovels and buckets.",
+        "none510": "Can be found in parks, schools, or playgrounds."
+    },
+    {
+        "name": "Indoor Brewery",
+        "none511": "A facility or building where beer or other alcoholic beverages are brewed.",
+        "none512": "May have large brewing tanks, fermentation vessels, and bottling equipment.",
+        "none513": "Often found in craft breweries or beer production facilities."
+    },
+    {
+        "name": "Nursery",
+        "none514": "A place where young plants, trees, or flowers are grown and nurtured.",
+        "none515": "Often used for commercial plant production or gardening purposes.",
+        "none516": "Can be found in gardening centers or horticultural facilities."
+    },
+    {
+        "name": "Elevator Shaft",
+        "none517": "The vertical space or passage within a building where the elevator moves.",
+        "none518": "Typically enclosed by walls or doors.",
+        "none519": "May have elevator doors or control panels."
+    },
+    {
+        "name": "Lighthouse",
+        "none520": "A tall tower or structure with a bright light used to guide ships and sailors at sea.",
+        "none521": "Often located on coastlines or near dangerous waters.",
+        "none522": "Can have distinctive patterns of light for identification."
+    },
+    {
+        "name": "Cafeteria",
+        "none523": "An indoor space in a school, office, or institution where meals are served.",
+        "none524": "May have tables, chairs, and food service counters.",
+        "none525": "Provides a place for eating and socializing."
+    },
+    {
+        "name": "Boat Deck",
+        "none526": "The open, elevated platform on a boat or ship.",
+        "none527": "Can be used for passengers, crew, or cargo.",
+        "none528": "May have seating, railing, and life-saving equipment."
+    },
+    {
+        "name": "Indoor General Store",
+        "none529": "An indoor retail store offering a wide range of general merchandise.",
+        "none530": "May have shelves, display racks, and product aisles.",
+        "none531": "Often found in small towns or rural areas."
+    },
+    {
+        "name": "Subway Interior",
+        "none532": "The interior of a subway train or subway station.",
+        "none533": "May have seating for passengers and handrails for support.",
+        "none534": "Often characterized by subway maps and station signs."
+    },
+    {
+        "name": "Railroad Track",
+        "none535": "The parallel metal tracks on which trains run.",
+        "none536": "May be single or multiple tracks.",
+        "none537": "Often found in railroad yards or along railway lines."
+    },
+    {
+        "name": "Water Tower",
+        "none538": "A tall, elevated structure used to store water for various purposes.",
+        "none539": "May have a large tank at the top and supporting legs or framework.",
+        "none540": "Commonly found in urban and rural areas."
+    },
+    {
+        "name": "Train Railway",
+        "none541": "The entire system of tracks, stations, and infrastructure used for train transportation.",
+        "none542": "Includes railroad tracks, bridges, tunnels, and other railway features.",
+        "none543": "Trains travel along the train railway."
+    },
+    {
+        "name": "Cultivated Field",
+        "none544": "An agricultural field that has been prepared and cultivated for planting crops.",
+        "none545": "Rows or patterns of crops, such as wheat, corn, or vegetables, may be visible.",
+        "none546": "Can be found in rural areas or farmlands."
+    },
+    {
+        "name": "Locker Room",
+        "none547": "An enclosed space typically found in sports facilities or gyms.",
+        "none548": "Contains lockers for storing personal belongings and changing into sports attire.",
+        "none549": "May have benches and shower facilities."
+    },
+    {
+        "name": "Butte",
+        "none550": "An isolated hill or small plateau with steep sides and a flat top.",
+        "none551": "Often found in arid or semi-arid regions.",
+        "none552": "Can have unique geological formations."
+    },
+    {
+        "name": "Indoor Synagogue",
+        "none553": "A place of worship for members of the Jewish faith.",
+        "none554": "Typically has seating areas, an ark for the Torah scrolls, and a raised platform (bimah).",
+        "none555": "May be ornately decorated with religious symbols and artwork."
+    },
+    {
+        "name": "Indoor Jacuzzi",
+        "none556": "An indoor spa or hot tub equipped with jets for hydrotherapy and relaxation.",
+        "none557": "Often located in a bathroom or spa facility.",
+        "none558": "Can have seating areas and controls for adjusting water temperature and jets."
+    },
+    {
+        "name": "Waiting Room",
+        "none559": "An indoor area where people wait, such as in a hospital, airport, or office.",
+        "none560": "May have chairs, benches, and magazines for comfort while waiting.",
+        "none561": "Often has a reception or check-in desk."
+    },
+    {
+        "name": "Outdoor Cabin",
+        "none562": "A small, rustic, and often remote shelter or dwelling in natural surroundings.",
+        "none563": "Typically made of wood and located in wilderness areas.",
+        "none564": "Can be used for camping or as a vacation retreat."
+    },
+    {
+        "name": "Laundromat",
+        "none565": "A self-service facility for washing and drying laundry.",
+        "none566": "Contains rows of washing machines and dryers for public use.",
+        "none567": "Usually equipped with coin-operated machines."
+    },
+    {
+        "name": "Rope Bridge",
+        "none568": "A bridge made of ropes or cables that span a gap, often over water or between cliffs.",
+        "none569": "Typically found in adventurous or mountainous regions.",
+        "none570": "Can have wooden planks or steps for walking."
+    },
+    {
+        "name": "Skyscraper",
+        "none571": "A tall and imposing building with multiple stories, often found in cities.",
+        "none572": "Characterized by its height and modern architecture.",
+        "none573": "May have a glass facade and distinct floors."
+    },
+    {
+        "name": "Recreation Room",
+        "none574": "An indoor space designed for leisure and entertainment activities.",
+        "none575": "May have a pool table, foosball table, gaming consoles, or other recreational equipment.",
+        "none576": "Often used for socializing and relaxation."
+    },
+    {
+        "name": "Outdoor Cathedral",
+        "none577": "A religious building or church with impressive architecture, located outdoors.",
+        "none578": "Often has tall spires, large arches, and decorative elements.",
+        "none579": "Can be found in historical sites or monumental structures."
+    },
+    {
+        "name": "Indoor Garage",
+        "none580": "An enclosed space within a building designed for parking and storing vehicles.",
+        "none581": "May have storage shelves, tools, and equipment for vehicle maintenance.",
+        "none582": "Typically attached to a house or building."
+    },
+    {
+        "name": "Fire Station",
+        "none583": "A building housing firefighting equipment and personnel.",
+        "none584": "May have fire trucks, hoses, and other firefighting gear.",
+        "none585": "Often equipped with living quarters for firefighters on duty."
+    },
+    {
+        "name": "Living Room",
+        "none586": "An indoor space in a house or residential setting used for relaxation and socializing.",
+        "none587": "May have sofas, chairs, coffee tables, and a television.",
+        "none588": "Often decorated with personal items and artwork."
+    },
+    {
+        "name": "Indoor Chicken Coop",
+        "none589": "An enclosed indoor structure for housing and raising chickens.",
+        "none590": "May have nesting boxes, perches, and feeding/watering stations.",
+        "none591": "Typically found on farms or in backyard settings."
+    },
+    {
+        "name": "Herb Garden",
+        "none592": "An outdoor garden area specifically dedicated to growing herbs.",
+        "none593": "Often contains various herbs like basil, mint, thyme, etc.",
+        "none594": "Can be arranged in raised beds or pots."
+    },
+    {
+        "name": "Outdoor Tent",
+        "none595": "A portable shelter made of fabric and supported by poles or frames.",
+        "none596": "Used for camping and outdoor activities.",
+        "none597": "Typically found in nature or recreational areas."
+    },
+    {
+        "name": "Indoor Volleyball Court",
+        "none598": "An indoor sports facility designed for playing volleyball.",
+        "none599": "Has a flat and cushioned floor with boundary lines.",
+        "none600": "May have net and posts for playing the game."
+    },
+    {
+        "name": "Interior Balcony",
+        "none601": "An elevated platform or walkway inside a building with a view to the lower levels.",
+        "none602": "Often found in multi-story buildings or houses with open floor plans.",
+        "none603": "Can be used for decoration and as an observation point."
+    },
+    {
+        "name": "Art Gallery",
+        "none604": "An indoor space used for displaying and exhibiting artworks, such as paintings and sculptures.",
+        "none605": "May have well-lit walls with artwork hanging or displayed on pedestals.",
+        "none606": "Often found in cultural institutions or private galleries."
+    },
+    {
+        "name": "Bedroom",
+        "none607": "An indoor room designed for sleeping and relaxation.",
+        "none608": "Typically contains a bed, bedside tables, and a wardrobe or dresser.",
+        "none609": "Can have decorations and personal items."
+    },
+    {
+        "name": "Outdoor Bazaar",
+        "none610": "An open-air marketplace or street market with stalls or booths.",
+        "none611": "May offer a variety of goods, such as food, clothing, and handicrafts.",
+        "none612": "Often found in bustling urban areas or tourist destinations."
+    },
+    {
+        "name": "Excavation",
+        "none613": "A site where archaeological digging is being conducted to uncover artifacts and historical remains.",
+        "none614": "Can have trenches, pits, and grids.",
+        "none615": "Often found at historical sites and archaeological research areas."
+    },
+    {
+        "name": "Indoor Museum",
+        "none616": "An indoor institution that houses and displays artifacts and exhibits of historical, cultural, or scientific interest.",
+        "none617": "May have different exhibition rooms with various themes.",
+        "none618": "Typically offers educational information and displays."
+    },
+    {
+        "name": "Oast House",
+        "none619": "A traditional building used for drying hops as part of the beer-making process.",
+        "none620": "Often found in regions with a history of hop cultivation and brewing.",
+        "none621": "Has a distinctive conical or pyramidal roof and ventilation openings."
+    },
+    {
+        "name": "Indoor Kennel",
+        "none622": "An indoor enclosure or shelter for housing dogs or other animals.",
+        "none623": "Typically made of metal bars or chain-link fencing.",
+        "none624": "May have individual compartments for each animal."
+    },
+    {
+        "name": "Biology Laboratory",
+        "none625": "An indoor space equipped for conducting experiments and research in the field of biology.",
+        "none626": "Contains lab benches, microscopes, and other scientific equipment.",
+        "none627": "Often used for studying living organisms and biological processes."
+    },
+    {
+        "name": "Bottle Storage Wine Cellar",
+        "none628": "An indoor cellar or storage area specifically designed for aging and storing wine bottles.",
+        "none629": "Can have wooden racks or shelves for organizing the wine bottles.",
+        "none630": "Often found in wineries, restaurants, or wine enthusiasts' homes."
+    },
+    {
+        "name": "Physics Laboratory",
+        "none631": "An indoor space equipped for conducting experiments and research in the field of physics.",
+        "none632": "Contains scientific instruments, measurement tools, and experimental setups.",
+        "none633": "Often used for studying various physical phenomena and principles."
+    },
+    {
+        "name": "Bus Interior",
+        "none634": "The inside of a bus used for public transportation.",
+        "none635": "May have seats, handrails, and windows.",
+        "none636": "Typically designed to accommodate passengers during their journey."
+    },
+    {
+        "name": "Campus",
+        "none637": "The grounds or area of an educational institution such as a university or college.",
+        "none638": "Can include academic buildings, libraries, dormitories, and open spaces.",
+        "none639": "Often has a central green or quad area."
+    },
+    {
+        "name": "Creek",
+        "none640": "A small stream or brook of water flowing through natural terrain.",
+        "none641": "Often found in forested or rural areas.",
+        "none642": "Can have rocks, vegetation, and small waterfalls."
+    },
+    {
+        "name": "Outdoor Outhouse",
+        "none643": "An outdoor toilet facility typically located in rural or camping areas.",
+        "none644": "Often made of wood or other simple materials.",
+        "none645": "Provides basic restroom amenities in outdoor settings."
+    },
+    {
+        "name": "Outdoor Athletic Field",
+        "none646": "An open-air area designed for sports and physical activities.",
+        "none647": "Can be a soccer field, football field, baseball field, etc.",
+        "none648": "Often equipped with markings, goals, and spectator seating."
+    },
+    {
+        "name": "Wild Field",
+        "none649": "A natural and untamed open area with wild vegetation and plants.",
+        "none650": "Typically not cultivated or managed for agriculture.",
+        "none651": "Can be found in natural landscapes and rural regions."
+    },
+    {
+        "name": "Staircase",
+        "none652": "A set of steps or stairs connecting different levels of a building or structure.",
+        "none653": "May have handrails and balustrades for support and safety.",
+        "none654": "Commonly found in residential homes, offices, and public buildings."
+    },
+    {
+        "name": "FastFood Restaurant",
+        "none655": "An eatery or food establishment that serves quick and convenient meals.",
+        "none656": "Often characterized by a counter for ordering and self-service.",
+        "none657": "Can have seating areas for customers."
+    },
+    {
+        "name": "Pavilion",
+        "none658": "An open, free-standing structure typically found in parks or gardens.",
+        "none659": "Often used as a shelter or gathering place for recreational activities.",
+        "none660": "Can have a roof and columns or posts."
+    },
+    {
+        "name": "Ballroom",
+        "none661": "A large room used for formal dances, receptions, and events.",
+        "none662": "Typically has a smooth floor for dancing and may have chandeliers and ornate decor.",
+        "none663": "Found in hotels, event venues, and ballroom dance studios."
+    },
+    {
+        "name": "Dentists Office",
+        "none664": "A medical office or clinic where dental services are provided.",
+        "none665": "May have dental chairs, examination equipment, and dental instruments.",
+        "none666": "Often has a reception area and waiting room."
+    },
+    {
+        "name": "Chemistry Lab",
+        "none667": "An indoor laboratory used for scientific experiments and research in chemistry.",
+        "none668": "Contains lab benches, fume hoods, and various glassware and equipment.",
+        "none669": "Often used for chemical analysis and synthesis."
+    },
+    {
+        "name": "Forest Path",
+        "none670": "A trail or pathway through a forested area.",
+        "none671": "Surrounded by trees, vegetation, and natural elements.",
+        "none672": "Often used for hiking, walking, or exploring nature."
+    },
+    {
+        "name": "Plunge Waterfall",
+        "none673": "A type of waterfall where water drops vertically without cascading.",
+        "none674": "Usually results in a deep pool at the base of the waterfall.",
+        "none675": "Found in natural landscapes and can be quite picturesque."
+    },
+    {
+        "name": "Outdoor Library",
+        "none676": "An open-air or outdoor space designed for reading and studying.",
+        "none677": "May have bookshelves, seating areas, and reading materials.",
+        "none678": "Typically found in public parks or educational institutions."
+    },
+    {
+        "name": "Landing Deck",
+        "none679": "An elevated platform or area for landing aircraft or helicopters.",
+        "none680": "Often found on ships, aircraft carriers, or helipads.",
+        "none681": "Provides a safe place for takeoff and landing."
+    },
+    {
+        "name": "Closet",
+        "none682": "A small, enclosed space for storing clothes and personal items.",
+        "none683": "Typically found in bedrooms or entryways.",
+        "none684": "Can have shelves, hanging rods, and doors."
+    },
+    {
+        "name": "Mansion",
+        "none685": "A large and luxurious residential building or estate.",
+        "none686": "Typically has multiple rooms and extensive grounds.",
+        "none687": "Often associated with wealth and grandeur."
+    },
+    {
+        "name": "Badlands",
+        "none688": "A type of arid and eroded landscape with rugged terrain, often characterized by deep ravines, canyons, and unique rock formations.",
+        "none689": "Usually found in dry and semi-arid regions.",
+        "none690": "Has distinctive geological features."
+    },
+    {
+        "name": "Music Store",
+        "none691": "An indoor retail store specializing in musical instruments, equipment, and accessories.",
+        "none692": "Can have displays of guitars, keyboards, drums, and other musical items.",
+        "none693": "Often offers a variety of sheet music and audio recordings."
+    },
+    {
+        "name": "Arch",
+        "none694": "A curved or semicircular structure that spans an opening or passage.",
+        "none695": "Can be natural, such as a rock arch, or man-made, such as architectural arches in buildings.",
+        "none696": "Often considered as architectural or geological landmarks."
+    },
+    {
+        "name": "Art School",
+        "none697": "An educational institution dedicated to teaching various forms of art, including painting, drawing, sculpture, and other visual arts.",
+        "none698": "May have studios, classrooms, and exhibition spaces for students' work.",
+        "none699": "Offers art instruction and training."
+    },
+    {
+        "name": "Sea Cliff",
+        "none700": "A high and steep cliff that overlooks a body of water, such as an ocean or sea.",
+        "none701": "Often formed by erosion or geological processes near coastlines.",
+        "none702": "Provides scenic views of the sea."
+    },
+    {
+        "name": "Indoor Firing Range",
+        "none703": "An indoor facility designed for shooting firearms at targets.",
+        "none704": "Often used for training, practice, or recreational shooting.",
+        "none705": "Has safe shooting lanes and backstops."
+    },
+    {
+        "name": "Pulpit",
+        "none706": "A raised platform or lectern in a place of worship, such as a church or synagogue, from which religious sermons or speeches are delivered.",
+        "none707": "Often adorned with decorative elements and may have steps leading up to it.",
+        "none708": "Used by religious leaders during ceremonies."
+    },
+    {
+        "name": "Fairway",
+        "none709": "A well-maintained and manicured section of a golf course.",
+        "none710": "Typically a long strip of grass leading from the tee to the green.",
+        "none711": "Often surrounded by hazards like sand bunkers and water bodies."
+    },
+    {
+        "name": "Vegetable Garden",
+        "none712": "An outdoor space or plot where vegetables are grown.",
+        "none713": "May have rows or raised beds for planting and cultivation.",
+        "none714": "Often found in residential backyards, community gardens, or farms."
+    },
+    {
+        "name": "Indoor Greenhouse",
+        "none715": "An enclosed indoor structure or room used for growing plants, especially in controlled conditions.",
+        "none716": "Typically equipped with temperature and humidity control systems.",
+        "none717": "Often used for cultivating plants year-round or in colder climates."
+    },
+    {
+        "name": "Public Atrium",
+        "none718": "An open and spacious interior area within a building, often with natural light.",
+        "none719": "Typically located at the entrance or center of a public building.",
+        "none720": "Can have seating areas, greenery, and artistic features."
+    },
+    {
+        "name": "Exterior Balcony",
+        "none721": "An outdoor platform or space attached to a building, usually at an upper level.",
+        "none722": "Provides outdoor access and a view of the surrounding area.",
+        "none723": "Often used for relaxation and recreation."
+    },
+    {
+        "name": "Burial Chamber",
+        "none724": "An enclosed space or room where human remains or burial artifacts are placed.",
+        "none725": "Often found in ancient tombs or historical sites.",
+        "none726": "Can have intricate decorations or inscriptions."
+    },
+    {
+        "name": "Delicatessen",
+        "none727": "A specialty food store or shop that sells high-quality and often exotic or gourmet foods.",
+        "none728": "Offers a variety of deli meats, cheeses, salads, and other prepared foods.",
+        "none729": "Often found in urban areas and known for its selection and quality."
+    },
+    {
+        "name": "Schoolhouse",
+        "none730": "A building used as a school or educational institution.",
+        "none731": "Can have classrooms, administrative offices, and playgrounds.",
+        "none732": "Often found in residential neighborhoods or communities."
+    },
+    {
+        "name": "BarnDoor",
+        "none733": "A large door or pair of doors used on barns or agricultural buildings.",
+        "none734": "Typically made of wood and may have distinct patterns or hardware.",
+        "none735": "Often used for access to storage areas for farming equipment and animals."
+    },
+    {
+        "name": "Berth",
+        "none736": "A designated sleeping or resting area on a ship, train, or other transport vehicle.",
+        "none737": "Can be a bunk or sleeping compartment for passengers or crew.",
+        "none738": "Provides individual sleeping spaces in a shared transportation environment."
+    },
+    {
+        "name": "Coffee Shop",
+        "none739": "An establishment that serves coffee, tea, and light snacks.",
+        "none740": "Often offers a relaxed and cozy atmosphere for customers to socialize or work.",
+        "none741": "Can have tables, chairs, and a counter for ordering."
+    },
+    {
+        "name": "Indoor Casino",
+        "none742": "An indoor facility dedicated to gambling and gaming activities.",
+        "none743": "Often has slot machines, card tables, and other casino games.",
+        "none744": "Found in entertainment complexes or resort hotels."
+    },
+    {
+        "name": "OilRig",
+        "none745": "A large offshore or onshore structure used for drilling and extracting oil and gas.",
+        "none746": "Typically has a tall platform and various machinery for oil exploration.",
+        "none747": "Often located in the sea or remote areas."
+    },
+    {
+        "name": "Medina",
+        "none748": "A historic or old town area in an Islamic city, often enclosed by walls.",
+        "none749": "Characterized by narrow streets, traditional buildings, and a central mosque.",
+        "none750": "Often found in cities with a rich Islamic heritage."
+    },
+    {
+        "name": "Conference Room",
+        "none751": "An indoor meeting space designed for hosting conferences, presentations, and discussions.",
+        "none752": "Typically has a large table and chairs for attendees, along with presentation equipment.",
+        "none753": "Often found in offices, hotels, and convention centers."
+    },
+    {
+        "name": "Operating Room",
+        "none754": "An indoor facility in a hospital or medical center where surgical procedures are performed.",
+        "none755": "Equipped with surgical tables, medical instruments, and monitoring equipment.",
+        "none756": "Maintained under sterile conditions to prevent infections."
+    },
+    {
+        "name": "Indoor Market",
+        "none757": "An enclosed space or building where various goods and products are sold by different vendors.",
+        "none758": "Can have stalls, shops, and food courts for different types of merchandise.",
+        "none759": "Often found in urban areas and shopping centers."
+    },
+    {
+        "name": "Ski Resort",
+        "none760": "A recreational facility in a mountainous area that offers skiing and snow-related activities.",
+        "none761": "Typically has ski slopes, ski lifts, and amenities for skiers and snowboarders.",
+        "none762": "Often visited during the winter season for snow sports."
+    },
+    {
+        "name": "Crevasse",
+        "none763": "A deep crack or fissure in a glacier, ice sheet, or snowfield.",
+        "none764": "Can be dangerous and difficult to navigate.",
+        "none765": "Often found in polar or mountainous regions."
+    },
+    {
+        "name": "Phone Booth",
+        "none766": "An enclosed structure or booth with a telephone for public use.",
+        "none767": "Often seen on streets or in public places.",
+        "none768": "May have glass windows and a door."
+    },
+    {
+        "name": "Tree Farm",
+        "none769": "An area of land where trees are grown and harvested for commercial purposes, such as lumber or Christmas trees.",
+        "none770": "Trees are often planted in organized rows or patterns.",
+        "none771": "Found in rural areas or designated forestry regions."
+    },
+    {
+        "name": "Residential Neighborhood",
+        "none772": "A community of houses and homes where people live.",
+        "none773": "Typically has a mix of single-family homes, townhouses, or apartments.",
+        "none774": "Often has sidewalks, streets, and parks."
+    },
+    {
+        "name": "Ice Floe",
+        "none775": "A large, flat piece of floating ice on a body of water, such as an ocean or sea.",
+        "none776": "Can be found in polar regions and during colder seasons.",
+        "none777": "Often formed from broken icebergs or frozen sea ice."
+    },
+    {
+        "name": "Outdoor Greenhouse",
+        "none778": "A structure made of transparent materials, such as glass or plastic, used for growing plants and crops in an outdoor environment.",
+        "none779": "Provides a controlled and protected environment for plants.",
+        "none780": "Often found in gardens or agricultural settings."
+    },
+    {
+        "name": "pagoda",
+        "none781": "A tiered tower or temple with multiple eaves, often associated with Asian architecture.",
+        "none782": "Typically has a curved roof and intricate decorative elements.",
+        "none783": "Often found in Buddhist and other East Asian religious settings."
+    },
+    {
+        "name": "Needleleaf Forest",
+        "none784": "A type of forest dominated by coniferous trees with needle-like leaves, such as pine, fir, or spruce.",
+        "none785": "Often found in colder or mountainous regions.",
+        "none786": "Can have tall, straight trees with little undergrowth."
+    },
+    {
+        "name": "Backseat Car Interior",
+        "none787": "The interior of the backseat area of a car or vehicle.",
+        "none788": "Can have seats, headrests, seat belts, and other interior features.",
+        "none789": "Typically found in automobiles and used for passengers."
+    },
+    {
+        "name": "Cliff",
+        "none790": "A steep and vertical rock face or slope.",
+        "none791": "Often found along coastlines, canyons, or mountainous areas.",
+        "none792": "Can offer dramatic views and geological features."
+    },
+    {
+        "name": "Outdoor Apartment Building",
+        "none793": "A multi-story building with residential units or apartments.",
+        "none794": "Located outdoors and often found in urban areas.",
+        "none795": "Can have balconies, windows, and shared outdoor spaces."
+    },
+    {
+        "name": "Driveway",
+        "none796": "A private road or path leading from the street to a house or garage.",
+        "none797": "Typically made of concrete, asphalt, or gravel.",
+        "none798": "Often used for parking vehicles."
+    },
+    {
+        "name": "Office",
+        "none799": "A workplace or commercial building where business activities and administrative tasks are conducted.",
+        "none800": "Can have cubicles, desks, computers, and office equipment.",
+        "none801": "Often found in business districts and office complexes."
+    },
+    {
+        "name": "Batters Box",
+        "none802": "A designated area on a baseball or softball field where the batter stands during their turn to hit.",
+        "none803": "Marked by lines and often made of dirt or chalk.",
+        "none804": "Located adjacent to home plate."
+    },
+    {
+        "name": "Natural Canal",
+        "none805": "A waterway that occurs naturally and is not artificially constructed.",
+        "none806": "Often formed by rivers, streams, or erosion processes.",
+        "none807": "Can have vegetation and wildlife along its banks."
+    },
+    {
+        "name": "House",
+        "none808": "A residential building where people live.",
+        "none809": "Typically has one or more floors, rooms, and living spaces.",
+        "none810": "Often has a front door, windows, and a roof."
+    },
+    {
+        "name": "Indoor Diner",
+        "none811": "A restaurant or eatery with a casual dining atmosphere.",
+        "none812": "Typically has booths, tables, and a counter for ordering.",
+        "none813": "Offers a menu of meals and beverages."
+    },
+    {
+        "name": "Alley",
+        "none814": "A narrow passageway or lane between buildings or structures.",
+        "none815": "Often found in urban areas and can be used for pedestrians or vehicles."
+    },
+    {
+        "name": "Corridor",
+        "none816": "A long and narrow passage or hallway connecting different rooms or areas in a building.",
+        "none817": "Can have doors, windows, and lighting fixtures."
+    },
+    {
+        "name": "Airport Terminal",
+        "none818": "A building or area within an airport where passengers check-in, board, and disembark from flights.",
+        "none819": "Often has departure and arrival gates, waiting areas, and airline counters.",
+        "none820": "Can have shops, restaurants, and other amenities."
+    },
+    {
+        "name": "Indoor Podium",
+        "none821": "A raised platform or stage used for public speaking, presentations, or performances indoors.",
+        "none822": "Typically found in conference rooms, auditoriums, or event venues.",
+        "none823": "Often equipped with a microphone and podium."
+    },
+    {
+        "name": "Watering Hole",
+        "none824": "A location, such as a bar or pub, where people gather for socializing and drinking.",
+        "none825": "Can have seating areas, a counter, and shelves with beverages.",
+        "none826": "Often found in entertainment districts or near recreational areas."
+    },
+    {
+        "name": "Indoor Stage",
+        "none827": "A raised platform used for performances, plays, concerts, or events indoors.",
+        "none828": "Can have lighting, sound equipment, and props.",
+        "none829": "Often found in theaters, concert halls, or event venues."
+    },
+    {
+        "name": "Indoor Mosque",
+        "none830": "A place of worship for followers of Islam, located indoors.",
+        "none831": "Typically has a prayer hall, minbar (pulpit), and mihrab (prayer niche).",
+        "none832": "May have Islamic calligraphy and decorations."
+    },
+    {
+        "name": "Snowfield",
+        "none833": "An open area covered in snow, typically found in cold and snowy regions.",
+        "none834": "Can have a smooth, snowy surface with little vegetation or obstacles.",
+        "none835": "Often associated with winter landscapes."
+    },
+    {
+        "name": "Sand Desert",
+        "none836": "A vast and arid area covered in sand, such as a desert.",
+        "none837": "Typically has sand dunes or sandy terrain with little vegetation.",
+        "none838": "Found in hot and dry regions."
+    },
+    {
+        "name": "Fire Escape",
+        "none839": "An exterior stairway or metal structure attached to a building for emergency evacuation during fires.",
+        "none840": "Often located on the outside of buildings and accessible from higher floors.",
+        "none841": "Provides a safe route to ground level during emergencies."
+    },
+    {
+        "name": "Slum",
+        "none842": "A densely populated and impoverished area within a city or urban region.",
+        "none843": "Often characterized by substandard housing, poor living conditions, and limited access to basic amenities.",
+        "none844": "Typically lacks proper infrastructure and sanitation facilities."
+    },
+    {
+        "name": "Bowling Alley",
+        "none845": "An indoor facility for playing the sport of bowling.",
+        "none846": "Has lanes for bowling, pins, and seating areas for spectators.",
+        "none847": "Often found in entertainment complexes and recreational centers."
+    },
+    {
+        "name": "Butchers Shop",
+        "none848": "A retail establishment where meat and poultry products are sold and prepared for customers.",
+        "none849": "Can have display cases with various cuts of meat and refrigeration facilities.",
+        "none850": "Often found in markets or food retail areas."
+    },
+    {
+        "name": "Outdoor Hot Tub",
+        "none851": "An outdoor bathtub or pool with heated water, typically used for relaxation and soaking.",
+        "none852": "Often located in private residences, spas, or resorts.",
+        "none853": "Provides a warm and comfortable experience in an outdoor setting."
+    },
+    {
+        "name": "Supermarket",
+        "none854": "An indoor retail store where a wide variety of food, groceries, and household products are sold.",
+        "none855": "Often has aisles, shelves, and refrigerated sections.",
+        "none856": "Typically found in urban and suburban areas."
+    },
+    {
+        "name": "Courthouse",
+        "none857": "A building where legal proceedings and court trials are conducted.",
+        "none858": "Often has courtrooms, offices for judges and lawyers, and public waiting areas.",
+        "none859": "Can be found in city centers or government districts."
+    },
+    {
+        "name": "Indoor Wrestling Ring",
+        "none860": "A raised platform or enclosure used for wrestling matches and events indoors.",
+        "none861": "Often surrounded by ropes or barriers.",
+        "none862": "Found in wrestling arenas or sports complexes."
+    },
+    {
+        "name": "VideoStore",
+        "none863": "An indoor retail store that rents or sells movies and videos.",
+        "none864": "Can have shelves with movie titles, rental counters, and display areas.",
+        "none865": "Less common in the age of digital streaming services."
+    },
+    {
+        "name": "Outdoor Diner",
+        "none866": "An eatery or restaurant with seating areas outdoors.",
+        "none867": "Often has tables, chairs, and umbrellas or awnings for shade.",
+        "none868": "Provides a dining experience in an outdoor setting."
+    },
+    {
+        "name": "Igloo",
+        "none869": "A small, dome-shaped shelter made of blocks of compacted snow or ice.",
+        "none870": "Traditionally used by Inuit and other indigenous peoples in polar regions.",
+        "none871": "Provides insulation and protection from cold weather."
+    },
+    {
+        "name": "Sky",
+        "none872": "The atmosphere above the Earth's surface, typically characterized by the blue color during the day and dark at night.",
+        "none873": "Can have clouds, sun, moon, stars, or other atmospheric phenomena.",
+        "none874": "Acts as a backdrop to outdoor scenes."
+    },
+    {
+        "name": "Outdoor Synagogue",
+        "none875": "An open-air religious place of worship for Jewish communities.",
+        "none876": "Can have seating areas, prayer areas, and symbolic architectural elements.",
+        "none877": "Typically located in outdoor settings or in courtyards of religious institutions."
+    },
+    {
+        "name": "Street",
+        "none878": "A public road or thoroughfare in a city or town, typically with buildings on both sides.",
+        "none879": "Used for vehicular and pedestrian traffic.",
+        "none880": "Often lined with sidewalks, streetlights, and traffic signs."
+    },
+    {
+        "name": "Skatepark",
+        "none881": "An outdoor recreational area designed for skateboarding, BMX biking, or inline skating.",
+        "none882": "Can have ramps, rails, bowls, and other features for tricks and stunts.",
+        "none883": "Often frequented by skateboarders and extreme sports enthusiasts."
+    },
+    {
+        "name": "Ice Shelf",
+        "none884": "A floating platform of ice attached to a coastline or ice sheet.",
+        "none885": "Often found in polar regions and can extend over water bodies.",
+        "none886": "Part of the polar ice cap."
+    },
+    {
+        "name": "Bridge",
+        "none887": "A structure built to span obstacles, such as rivers, canals, or valleys, allowing people and vehicles to cross over.",
+        "none888": "Can be made of various materials, including concrete, steel, or wood.",
+        "none889": "Often an important landmark in urban landscapes."
+    },
+    {
+        "name": "Urban Canal",
+        "none890": "A man-made waterway or channel that runs through an urban area.",
+        "none891": "Often used for transportation, drainage, or aesthetics.",
+        "none892": "Can be lined with pathways and surrounded by buildings."
+    },
+    {
+        "name": "Bar",
+        "none893": "A place of social gathering where alcoholic beverages are served.",
+        "none894": "Can have a counter for ordering drinks and seating areas for customers.",
+        "none895": "Often found in entertainment districts and nightlife areas."
+    },
+    {
+        "name": "Electrical Substation",
+        "none896": "A facility that houses equipment to control and distribute electrical power.",
+        "none897": "Often has transformers, circuit breakers, and control panels.",
+        "none898": "Typically enclosed in a fenced area."
+    },
+    {
+        "name": "Castle",
+        "none899": "A large fortified building, typically with towers and battlements, that served as a residence for royalty or nobility in medieval times.",
+        "none900": "Often has stone walls and historical architectural features.",
+        "none901": "Can be found in historical sites or tourist attractions."
+    },
+    {
+        "name": "Outdoor Hotel",
+        "none902": "A hotel or resort located outdoors, often in scenic or natural settings.",
+        "none903": "Can have cabins, cottages, or tents for accommodation.",
+        "none904": "Provides lodging and amenities for travelers."
+    },
+    {
+        "name": "Outdoor Monastery",
+        "none905": "A religious place of worship and residence for monks or nuns, located outdoors or in a rural setting.",
+        "none906": "Often has a chapel, living quarters, and other buildings for spiritual activities.",
+        "none907": "Found in secluded and peaceful environments."
+    },
+    {
+        "name": "Outdoor Parking Garage",
+        "none908": "A multi-story building or structure for parking vehicles, located outdoors.",
+        "none909": "Can have ramps or elevators for accessing different levels.",
+        "none910": "Provides parking space for cars and other vehicles."
+    },
+    {
+        "name": "Electrical Substation",
+        "none911": "A facility that houses equipment to control and distribute electrical power.",
+        "none912": "Often has transformers, circuit breakers, and control panels.",
+        "none913": "Typically enclosed in a fenced area."
+    },
+    {
+        "name": "Castle",
+        "none914": "A large fortified building, typically with towers and battlements, that served as a residence for royalty or nobility in medieval times.",
+        "none915": "Often has stone walls and historical architectural features.",
+        "none916": "Can be found in historical sites or tourist attractions."
+    },
+    {
+        "name": "Outdoor Hotel",
+        "none917": "A hotel or resort located outdoors, often in scenic or natural settings.",
+        "none918": "Can have cabins, cottages, or tents for accommodation.",
+        "none919": "Provides lodging and amenities for travelers."
+    },
+    {
+        "name": "Outdoor Monastery",
+        "none920": "A religious place of worship and residence for monks or nuns, located outdoors or in a rural setting.",
+        "none921": "Often has a chapel, living quarters, and other buildings for spiritual activities.",
+        "none922": "Found in secluded and peaceful environments."
+    },
+    {
+        "name": "Outdoor Parking Garage",
+        "none923": "A multi-story building or structure for parking vehicles, located outdoors.",
+        "none924": "Can have ramps or elevators for accessing different levels.",
+        "none925": "Provides parking space for cars and other vehicles."
+    },
+    {
+        "name": "Construction Site",
+        "none926": "A location where building or infrastructure construction is taking place.",
+        "none927": "Often has heavy machinery, construction materials, and workers in safety gear.",
+        "none928": "Can have scaffolding, cranes, and temporary structures."
+    },
+    {
+        "name": "Amusement Park",
+        "none929": "A recreational facility with various rides, attractions, and entertainment for visitors.",
+        "none930": "Can have roller coasters, carousels, ferris wheels, and other thrill rides.",
+        "none931": "Often has colorful decorations and themed areas."
+    },
+    {
+        "name": "Tree House",
+        "none932": "A small structure built in or on the branches of a tree, typically used as a playhouse or a retreat.",
+        "none933": "Can have a wooden platform, walls, and a roof.",
+        "none934": "Often found in backyard gardens or wooded areas."
+    },
+    {
+        "name": "Indoor Gymnasium",
+        "none935": "An indoor facility for sports and physical exercise.",
+        "none936": "Can have basketball courts, gymnastics equipment, and fitness machines.",
+        "none937": "Often used for sports training and fitness activities."
+    },
+    {
+        "name": "Motel",
+        "none938": "A lodging establishment with individual rooms and parking spaces for guests' vehicles.",
+        "none939": "Typically located along highways or roads for convenient short-term stays.",
+        "none940": "Offers basic accommodations and services."
+    },
+    {
+        "name": "Outdoor Podium",
+        "none941": "A raised platform or stage located outdoors for public speaking, presentations, or performances.",
+        "none942": "Typically found in outdoor events, rallies, or ceremonies.",
+        "none943": "Can have a microphone and lectern."
+    },
+    {
+        "name": "Hotel Room",
+        "none944": "A private room in a hotel or lodging establishment where guests stay during their travels.",
+        "none945": "Typically has a bed, bathroom, and amenities for comfort and convenience.",
+        "none946": "Offers temporary accommodations for travelers."
+    },
+    {
+        "name": "Platform Subway Station",
+        "none947": "An elevated or ground-level area in a subway station where passengers wait for trains.",
+        "none948": "Often has seating, signage, and access to different train lines.",
+        "none949": "Allows passengers to board and disembark from trains."
+    },
+    {
+        "name": "Raceway",
+        "none950": "A specially designed track or circuit for racing events, such as car racing or horse racing.",
+        "none951": "Can have banked turns, straight stretches, and safety barriers.",
+        "none952": "Provides a controlled environment for competitive races."
+    },
+    {
+        "name": "Amphitheater",
+        "none953": "An open-air venue with a semicircular or circular arrangement of seats for spectators, often on a slope or hillside.",
+        "none954": "Used for concerts, performances, and events.",
+        "none955": "Offers a natural acoustic setting and excellent views for audiences."
+    },
+    {
+        "name": "Fountain",
+        "none956": "A decorative water feature that sprays or flows water in an aesthetically pleasing way.",
+        "none957": "Can have a central basin, jets, and sculptures.",
+        "none958": "Often found in parks, gardens, and public squares."
+    },
+    {
+        "name": "Outdoor Lido Deck",
+        "none959": "An outdoor area of a pool or resort where sunbathing and relaxation take place.",
+        "none960": "Can have lounge chairs, umbrellas, and recreational amenities.",
+        "none961": "Typically found in hotels and leisure facilities."
+    },
+    {
+        "name": "Gift Shop",
+        "none962": "A retail store that sells souvenirs, gifts, and memorabilia.",
+        "none963": "Can have shelves with merchandise, cashier counters, and displays.",
+        "none964": "Often located in tourist attractions or places of interest."
+    },
+    {
+        "name": "Corral",
+        "none965": "An enclosed area used for confining and managing livestock, such as horses, cattle, or sheep.",
+        "none966": "Typically surrounded by fencing or walls.",
+        "none967": "Found in rural and agricultural areas."
+    },
+    {
+        "name": "Plaza",
+        "none968": "A public square or open area in a city or town, often surrounded by buildings or landmarks.",
+        "none969": "Can have benches, statues, fountains, and pedestrian pathways.",
+        "none970": "Used as a gathering place and for community events."
+    },
+    {
+        "name": "Block Waterfall",
+        "none971": "A type of waterfall characterized by a series of cascades and drops.",
+        "none972": "Can occur along a stream or river with a steep descent.",
+        "none973": "Creates an impressive visual display of water flowing down."
+    },
+    {
+        "name": "Promenade Deck",
+        "none974": "An outdoor deck or walkway on a ship or cruise liner where passengers can stroll, relax, and enjoy the view.",
+        "none975": "Can have seating areas, railings, and panoramic views of the ocean or surroundings."
+    },
+    {
+        "name": "Martial Arts Gym",
+        "none976": "An indoor facility dedicated to training and practicing various martial arts disciplines, such as karate, judo, or taekwondo.",
+        "none977": "Can have training mats, punching bags, and equipment for workouts.",
+        "none978": "Often used for martial arts classes and competitions."
+    },
+    {
+        "name": "Hospital",
+        "none979": "A medical facility where patients receive medical treatment, surgeries, and healthcare services.",
+        "none980": "Can have wards, examination rooms, operating theaters, and medical equipment.",
+        "none981": "Provides medical care and services to the public."
+    },
+    {
+        "name": "Palace",
+        "none982": "A grand and luxurious residence, typically the official residence of a monarch or royal family.",
+        "none983": "Often has ornate architecture, large courtyards, and expansive grounds.",
+        "none984": "Found in historical and cultural landmarks."
+    },
+    {
+        "name": "Cemetery",
+        "none985": "A place where deceased people are buried or interred.",
+        "none986": "Can have tombstones, grave markers, and mausoleums.",
+        "none987": "Provides a final resting place for the deceased."
+    },
+    {
+        "name": "Engine Room",
+        "none988": "A compartment or area in a ship, aircraft, or machinery where engines and mechanical systems are located and operated.",
+        "none989": "Can have engines, turbines, pumps, and control panels.",
+        "none990": "Used to power and control the vehicle or equipment."
+    },
+    {
+        "name": "Promenade Deck",
+        "none991": "An outdoor deck or walkway on a ship or cruise liner where passengers can stroll, relax, and enjoy the view.",
+        "none992": "Can have seating areas, railings, and panoramic views of the ocean or surroundings."
+    },
+    {
+        "name": "Martial Arts Gym",
+        "none993": "An indoor facility dedicated to training and practicing various martial arts disciplines, such as karate, judo, or taekwondo.",
+        "none994": "Can have training mats, punching bags, and equipment for workouts.",
+        "none995": "Often used for martial arts classes and competitions."
+    },
+    {
+        "name": "Hospital",
+        "none996": "A medical facility where patients receive medical treatment, surgeries, and healthcare services.",
+        "none997": "Can have wards, examination rooms, operating theaters, and medical equipment.",
+        "none998": "Provides medical care and services to the public."
+    },
+    {
+        "name": "Palace",
+        "none999": "A grand and luxurious residence, typically the official residence of a monarch or royal family.",
+        "none1000": "Often has ornate architecture, large courtyards, and expansive grounds.",
+        "none1001": "Found in historical and cultural landmarks."
+    },
+    {
+        "name": "Cemetery",
+        "none1002": "A place where deceased people are buried or interred.",
+        "none1003": "Can have tombstones, grave markers, and mausoleums.",
+        "none1004": "Provides a final resting place for the deceased."
+    },
+    {
+        "name": "Hospital Room",
+        "none1005": "An interior space within a hospital where patients receive medical care and treatment.",
+        "none1006": "Can have hospital beds, medical equipment, and monitoring devices.",
+        "none1007": "Used for medical treatment and recovery."
+    },
+    {
+        "name": "Squash Court",
+        "none1008": "An indoor sports facility used for playing squash, a racket sport.",
+        "none1009": "Can have a net, court markings, and spectator seating.",
+        "none1010": "Used for playing squash and other indoor sports."
+    },
+    {
+        "name": "Auditorium",
+        "none1011": "A large room or hall designed for public gatherings, lectures, concerts, or performances.",
+        "none1012": "Can have tiered seating, a stage, and audio-visual equipment.",
+        "none1013": "Used for hosting events and performances."
+    },
+    {
+        "name": "Marsh",
+        "none1014": "A wetland area with shallow water, grasses, and aquatic plants.",
+        "none1015": "Can have tall vegetation and areas of open water.",
+        "none1016": "Provides habitat for various wildlife and birds."
+    },
+    {
+        "name": "Lecture Room",
+        "none1017": "An indoor space within an educational institution or conference facility where lectures and presentations are held.",
+        "none1018": "Can have seating for students or attendees and presentation equipment.",
+        "none1019": "Used for educational and informational purposes."
+    },
+    {
+        "name": "Patio",
+        "none1020": "An outdoor space attached to a building, typically used for relaxation and outdoor dining.",
+        "none1021": "Can have furniture, plants, and an open layout.",
+        "none1022": "Used for outdoor socializing and leisure activities."
+    },
+    {
+        "name": "Indoor Swimming Pool",
+        "none1023": "An enclosed facility with a pool for swimming and water-related activities.",
+        "none1024": "Can have a pool, changing rooms, and seating areas.",
+        "none1025": "Used for swimming and recreational purposes."
+    },
+    {
+        "name": "Engine Room",
+        "none1026": "A compartment or area in a ship, aircraft, or machinery where engines and mechanical systems are located and operated.",
+        "none1027": "Can have engines, turbines, pumps, and control panels.",
+        "none1028": "Used to power and control the vehicle or equipment."
+    },
+    {
+        "name": "Auditorium",
+        "none1029": "A large room or hall designed for public gatherings, lectures, concerts, or performances.",
+        "none1030": "Often has tiered seating, a stage, and audio-visual equipment.",
+        "none1031": "Used for hosting events and presentations."
+    },
+    {
+        "name": "Marsh",
+        "none1032": "A wetland area with shallow water, grasses, and aquatic plants.",
+        "none1033": "Can have tall vegetation and areas of open water.",
+        "none1034": "Provides habitat for various wildlife and birds."
+    },
+    {
+        "name": "Lecture Room",
+        "none1035": "A classroom or space in an educational institution where lectures and academic presentations are conducted.",
+        "none1036": "Can have seating, desks, and audio-visual equipment.",
+        "none1037": "Used for educational purposes."
+    },
+    {
+        "name": "Patio",
+        "none1038": "An outdoor area adjacent to a building, typically used for dining, relaxation, or entertainment.",
+        "none1039": "Can have tables, chairs, and outdoor furniture.",
+        "none1040": "Often found in residential properties and restaurants."
+    },
+    {
+        "name": "Indoor Swimming Pool",
+        "none1041": "A facility with an enclosed pool designed for swimming and water activities indoors.",
+        "none1042": "Can have lanes, diving boards, and temperature-controlled water.",
+        "none1043": "Used for exercise and recreational swimming."
+    },
+    {
+        "name": "Beach",
+        "none1044": "A sandy or pebbly area by the seashore or lake where the land meets the water.",
+        "none1045": "Can have waves, surf, and beachgoers.",
+        "none1046": "Offers recreational opportunities and coastal views."
+    },
+    {
+        "name": "Barn",
+        "none1047": "A building used for housing livestock, storing agricultural equipment, or storing hay and grain.",
+        "none1048": "Can have large doors for access and space for animals or farming activities.",
+        "none1049": "Found in rural and agricultural areas."
+    },
+    {
+        "name": "Outdoor Ice Skating Rink",
+        "none1050": "An open-air area with a frozen surface for ice skating and winter sports.",
+        "none1051": "Can have markings for ice hockey or figure skating.",
+        "none1052": "Typically found in cold climates during winter months."
+    },
+    {
+        "name": "Football Stadium",
+        "none1053": "An outdoor sports venue designed for playing American football or soccer.",
+        "none1054": "Can have a large field, seating for spectators, and facilities for players and officials.",
+        "none1055": "Often used for sporting events and entertainment."
+    },
+    {
+        "name": "Interior Elevator",
+        "none1056": "A vertical transportation device inside a building for moving between different floors.",
+        "none1057": "Can have doors, buttons, and displays indicating the floor number.",
+        "none1058": "Provides easy access to different levels within a building."
+    },
+    {
+        "name": "Veterinarians Office",
+        "none1059": "A medical facility for the treatment and care of animals by veterinarians.",
+        "none1060": "Can have examination rooms, medical equipment, and animal kennels.",
+        "none1061": "Offers medical services for pets and other animals."
+    },
+    {
+        "name": "Baseball Field",
+        "none1062": "A sports field used for playing baseball or softball.",
+        "none1063": "Can have a diamond-shaped infield, outfield, bases, and a pitcher's mound.",
+        "none1064": "Often has bleachers or stands for spectators."
+    },
+    {
+        "name": "ThriftShop",
+        "none1065": "A retail store that sells second-hand or used items, such as clothing, furniture, and household goods.",
+        "none1066": "Can have racks or shelves with a variety of items for sale.",
+        "none1067": "Offers affordable and pre-owned goods."
+    },
+    {
+        "name": "Anechoic Chamber",
+        "none1068": "A specialized room designed to absorb sound and electromagnetic waves, creating a reflection-free environment.",
+        "none1069": "Often used for acoustic or electromagnetic testing and research.",
+        "none1070": "Has pyramid-shaped foam or other sound-absorbing materials on the walls and ceiling."
+    },
+    {
+        "name": "Throne Room",
+        "none1071": "A lavishly decorated room in a palace or royal residence where a throne is located.",
+        "none1072": "Often used for ceremonial and official purposes.",
+        "none1073": "Can have ornate decorations, high ceilings, and grand furniture."
+    },
+    {
+        "name": "Cheese Factory",
+        "none1074": "A facility where cheese is produced, processed, and packaged.",
+        "none1075": "Can have vats for milk processing, aging rooms, and storage areas for cheese wheels.",
+        "none1076": "Used for cheese production and distribution."
+    },
+    {
+        "name": "Outdoor Mosque",
+        "none1077": "An Islamic place of worship located outdoors, typically with a dome and minarets.",
+        "none1078": "Can have an open courtyard for prayer and gatherings.",
+        "none1079": "Often found in urban areas or as part of historical landmarks."
+    },
+    {
+        "name": "Outdoor Track",
+        "none1080": "A sports facility with a marked running or athletic track for races and training.",
+        "none1081": "Can have lanes, starting blocks, and field areas for jumping and throwing events.",
+        "none1082": "Used for track and field competitions."
+    },
+    {
+        "name": "Campsite",
+        "none1083": "An outdoor area where tents or camping equipment are set up for temporary shelter and recreation.",
+        "none1084": "Can have campfires, picnic tables, and natural surroundings.",
+        "none1085": "Used for camping and outdoor activities."
+    },
+    {
+        "name": "Dining Room",
+        "none1086": "An interior space in a house, restaurant, or hotel used for dining and meals.",
+        "none1087": "Can have tables, chairs, and decorations.",
+        "none1088": "Used for eating and social gatherings."
+    },
+    {
+        "name": "Outdoor Arrival Gate",
+        "none1089": "An area at an airport or transport terminal where passengers disembark from planes or vehicles.",
+        "none1090": "Can have walkways, waiting areas, and signs indicating arrival times.",
+        "none1091": "Used for passenger arrivals and baggage claim."
+    },
+    {
+        "name": "Pasture",
+        "none1092": "An area of land covered with grass or other vegetation, often used for grazing livestock.",
+        "none1093": "Can have open fields, fences, and farm animals such as cows or sheep.",
+        "none1094": "Found in rural and agricultural areas."
+    },
+    {
+        "name": "Banquet Hall",
+        "none1095": "An indoor space designed for large gatherings, events, and banquets.",
+        "none1096": "Can have tables, chairs, and a stage for performances or presentations.",
+        "none1097": "Used for weddings, receptions, and other social functions."
+    },
+    {
+        "name": "Chalet",
+        "none1098": "A small, cozy, and often rustic cottage or house, typically located in mountainous or snowy regions.",
+        "none1099": "Can have wooden exteriors, sloping roofs, and a warm and welcoming interior.",
+        "none1100": "Often used as vacation homes or lodges."
+    },
+    {
+        "name": "Viaduct",
+        "none1101": "A bridge-like structure, typically made of arches or spans, designed to carry a road or railway over a valley or other obstacles.",
+        "none1102": "Often has multiple arches or piers supporting the structure.",
+        "none1103": "Found in hilly or mountainous terrains for transportation."
+    },
+    {
+        "name": "Outdoor Driving Range",
+        "none1104": "An outdoor facility for practicing golf swings and shots.",
+        "none1105": "Can have teeing areas, targets, and a large open space for driving practice.",
+        "none1106": "Used for golf training and practice."
+    },
+    {
+        "name": "Kitchenette",
+        "none1107": "A small kitchen or kitchen area equipped with basic appliances and amenities.",
+        "none1108": "Can have a sink, microwave, mini-fridge, and sometimes a stovetop.",
+        "none1109": "Often found in hotel rooms or small living spaces for basic cooking needs."
+    },
+    {
+        "name": "Aquarium",
+        "none1110": "A transparent tank or enclosure filled with water, often used to house and display aquatic plants and animals.",
+        "none1111": "Can have fish, corals, and other marine life.",
+        "none1112": "Typically found in aquariums and marine parks."
+    },
+    {
+        "name": "Pond",
+        "none1113": "A small body of still water, often surrounded by vegetation.",
+        "none1114": "Can have fish, frogs, and other aquatic creatures.",
+        "none1115": "Often found in parks, gardens, or natural landscapes."
+    },
+    {
+        "name": "Auto Factory",
+        "none1116": "A manufacturing facility where automobiles or vehicles are assembled and produced.",
+        "none1117": "Can have assembly lines, robotic arms, and conveyor belts.",
+        "none1118": "Used for mass production of vehicles."
+    },
+    {
+        "name": "Parking Lot",
+        "none1119": "An outdoor area or facility with designated spaces for parking vehicles.",
+        "none1120": "Can have marked parking spaces, aisles, and entry/exit points.",
+        "none1121": "Used for vehicle parking and storage."
+    },
+    {
+        "name": "Galley",
+        "none1122": "The kitchen area of a ship, airplane, or large restaurant.",
+        "none1123": "Can have cooking equipment, food preparation stations, and storage.",
+        "none1124": "Used for preparing meals on ships and aircraft."
+    },
+    {
+        "name": "Indoor Warehouse",
+        "none1125": "A large enclosed building used for the storage and distribution of goods and products.",
+        "none1126": "Can have shelves, pallet racks, and loading docks.",
+        "none1127": "Used for inventory management and logistics."
+    },
+    {
+        "name": "Indoor Procenium Theater",
+        "none1128": "A type of theater with a stage framed by a proscenium arch, separating the stage from the audience.",
+        "none1129": "Can have curtains, stage lighting, and seating facing the stage.",
+        "none1130": "Often used for theatrical performances, plays, and concerts."
+    },
+    {
+        "name": "Indoor Seats Theater",
+        "none1131": "A general term for a theater with seating areas for the audience indoors.",
+        "none1132": "Can have different seating arrangements such as rows, balconies, and aisles.",
+        "none1133": "Used for various performing arts events."
+    },
+    {
+        "name": "Tower",
+        "none1134": "A tall, vertical structure or building that is taller than its diameter or footprint.",
+        "none1135": "Can have multiple floors or levels and can serve various purposes such as observation, communication, or defense.",
+        "none1136": "Found in urban skylines and historical sites."
+    },
+    {
+        "name": "Drugstore",
+        "none1137": "A retail store that sells pharmaceuticals, over-the-counter medications, and other health-related products.",
+        "none1138": "Can have shelves with medicines, health and beauty products, and a pharmacy counter.",
+        "none1139": "Offers medication and health-related services."
+    },
+    {
+        "name": "Outdoor Volleyball Court",
+        "none1140": "An outdoor area with a marked court and net for playing volleyball.",
+        "none1141": "Can have sand or hard surface.",
+        "none1142": "Used for recreational volleyball games and sports events."
+    },
+    {
+        "name": "Vehicle Dinette",
+        "none1143": "An interior area in a recreational vehicle (RV) or camper where dining and seating are provided.",
+        "none1144": "Can have a table, benches, and seating that can often be converted into sleeping areas.",
+        "none1145": "Used for dining and relaxation during travel."
+    },
+    {
+        "name": "Cockpit",
+        "none1146": "The enclosed area in an aircraft, spacecraft, or boat where the pilot or driver operates the controls.",
+        "none1147": "Can have control panels, seats, and windows for visibility.",
+        "none1148": "Used for piloting and operating the vehicle."
+    },
+    {
+        "name": "Dorm Room",
+        "none1149": "A small living space in a college or university dormitory where students reside.",
+        "none1150": "Can have beds, desks, and storage for personal belongings.",
+        "none1151": "Used for student accommodation and study."
+    },
+    {
+        "name": "Assembly Line",
+        "none1152": "A manufacturing process where a product is assembled step by step in a linear fashion.",
+        "none1153": "Can have conveyor belts, workstations, and automated machinery.",
+        "none1154": "Used for mass production and assembly of products."
+    },
+    {
+        "name": "Outdoor Inn",
+        "none1155": "An accommodation facility located in a natural setting or outdoor environment.",
+        "none1156": "Can have cabins, tents, or lodges for guests.",
+        "none1157": "Offers lodging and services in outdoor or rural areas."
+    },
+    {
+        "name": "Harbor",
+        "none1158": "A sheltered area of water where ships and boats can anchor or dock.",
+        "none1159": "Can have piers, docks, and facilities for loading and unloading cargo.",
+        "none1160": "Used for maritime activities and transportation."
+    },
+    {
+        "name": "Bullring",
+        "none1161": "A circular or oval-shaped arena used for bullfighting or other events involving bulls.",
+        "none1162": "Can have seating for spectators around the central arena.",
+        "none1163": "Used for bullfighting events and entertainment."
+    },
+    {
+        "name": "Restaurant Patio",
+        "none1164": "An outdoor area of a restaurant, typically located adjacent to the main dining area.",
+        "none1165": "Can have tables, chairs, and umbrellas for al fresco dining.",
+        "none1166": "Used for outdoor dining and relaxation."
+    },
+    {
+        "name": "Topiary Garden",
+        "none1167": "A garden with ornamental plants that are pruned and shaped into various decorative forms, often resembling animals or objects.",
+        "none1168": "Can have trimmed hedges, sculptures, and well-maintained vegetation.",
+        "none1169": "Used for aesthetic and artistic purposes."
+    },
+    {
+        "name": "Valley",
+        "none1170": "A low-lying area of land between hills or mountains, often with a river or stream running through it.",
+        "none1171": "Can have lush vegetation, meadows, and natural scenery.",
+        "none1172": "Found in various landscapes and terrains."
+    },
+    {
+        "name": "Jewelry Shop",
+        "none1173": "A retail store specializing in selling jewelry and precious stones.",
+        "none1174": "Can have display cases, counters, and lighting to showcase the jewelry.",
+        "none1175": "Offers a variety of jewelry items for sale."
+    },
+    {
+        "name": "Limousine Interior",
+        "none1176": "The luxurious interior of a limousine or luxury car.",
+        "none1177": "Can have plush seats, entertainment systems, and amenities for comfort.",
+        "none1178": "Used for upscale transportation and events."
+    },
+    {
+        "name": "Indoor Ice Skating Rink",
+        "none1179": "An enclosed facility with a frozen surface for ice skating and winter sports.",
+        "none1180": "Can have ice skaters, rink markings, and seating for spectators.",
+        "none1181": "Used for ice skating and ice-related events."
+    },
+    {
+        "name": "Art Studio",
+        "none1182": "An indoor space where artists create and work on their artistic projects.",
+        "none1183": "Can have easels, art supplies, and finished artworks or works in progress.",
+        "none1184": "Used for painting, drawing, sculpting, and other artistic endeavors."
+    },
+    {
+        "name": "Indoor Factory",
+        "none1185": "An industrial facility where products are manufactured and assembled indoors.",
+        "none1186": "Can have assembly lines, machinery, and workers.",
+        "none1187": "Used for mass production and manufacturing."
+    },
+    {
+        "name": "Food Court",
+        "none1188": "An indoor area in a shopping mall or commercial building with multiple food stalls or vendors.",
+        "none1189": "Can have tables, seating areas, and various food options.",
+        "none1190": "Used for dining and food shopping."
+    },
+    {
+        "name": "Reception",
+        "none1191": "An area in a building or office where visitors are received and greeted.",
+        "none1192": "Can have a front desk, seating, and waiting areas.",
+        "none1193": "Used for welcoming guests and providing information."
+    },
+    {
+        "name": "Pharmacy",
+        "none1194": "A retail store or area in a medical facility where prescription and over-the-counter medications are dispensed.",
+        "none1195": "Can have shelves with medicines, a pharmacy counter, and health products.",
+        "none1196": "Used for filling prescriptions and providing health-related products."
+    },
+    {
+        "name": "Outdoor Nuclear Power Plant",
+        "none1197": "An industrial facility located outdoors where nuclear energy is generated.",
+        "none1198": "Can have large reactor buildings, cooling towers, and security fencing.",
+        "none1199": "Used for electricity generation through nuclear reactions."
+    },
+    {
+        "name": "Indoor Parking Garage",
+        "none1200": "An enclosed facility designed for parking vehicles.",
+        "none1201": "Can have parking spaces, ramps, and lighting for visibility.",
+        "none1202": "Used for parking and storing vehicles indoors."
+    },
+    {
+        "name": "Sushi Bar",
+        "none1203": "A restaurant or bar where sushi and other Japanese dishes are served.",
+        "none1204": "Can have a sushi counter, bar stools, and chefs preparing sushi.",
+        "none1205": "Used for dining and enjoying Japanese cuisine."
+    },
+    {
+        "name": "Basilica",
+        "none1206": "A large and grand church, often characterized by its architecture and historical significance.",
+        "none1207": "Can have high ceilings, ornate decorations, and religious artifacts.",
+        "none1208": "Often associated with significant religious events."
+    },
+    {
+        "name": "Childs Room",
+        "none1209": "An interior space in a house or nursery designed for children's play and rest.",
+        "none1210": "Can have beds, toys, and child-friendly decorations.",
+        "none1211": "Used as a bedroom and play area for children."
+    },
+    {
+        "name": "Catacomb",
+        "none1212": "An underground burial place with chambers and passages for tombs and graves.",
+        "none1213": "Can have stone walls, niches for burial, and historical significance.",
+        "none1214": "Often used for burial and memorial purposes."
+    },
+    {
+        "name": "Indoor Bazaar",
+        "none1215": "An enclosed market or shopping area with various stalls and vendors.",
+        "none1216": "Can have shops, displays of merchandise, and people shopping.",
+        "none1217": "Used for selling goods and commodities."
+    },
+    {
+        "name": "Corn Field",
+        "none1218": "An agricultural area with rows of corn plants.",
+        "none1219": "Can have tall corn stalks, open fields, and agricultural equipment.",
+        "none1220": "Used for growing corn and other crops."
+    },
+    {
+        "name": "Home Dinette",
+        "none1221": "An interior area in a house used for dining.",
+        "none1222": "Can have a table, chairs, and dining utensils.",
+        "none1223": "Used for family meals and dining activities."
+    },
+    {
+        "name": "Mountain",
+        "none1224": "A large natural elevation with steep slopes and significant height above sea level.",
+        "none1225": "Can have rocky terrain, snow-capped peaks, and diverse vegetation.",
+        "none1226": "Found in various landscapes and regions."
+    },
+    {
+        "name": "Jail Cell",
+        "none1227": "A small, secure room in a prison where inmates are confined.",
+        "none1228": "Can have a bed, metal bars, and minimal furnishings.",
+        "none1229": "Used for holding prisoners."
+    },
+    {
+        "name": "East Asia Temple",
+        "none1230": "A religious building or temple found in East Asian countries, such as China, Japan, or Korea.",
+        "none1231": "Can have traditional architectural features, such as pagodas and wooden structures.",
+        "none1232": "Used for religious and spiritual practices."
+    },
+    {
+        "name": "Indoor Cloister",
+        "none1233": "An enclosed area, often found in monasteries or religious buildings, with covered walkways surrounding a courtyard.",
+        "none1234": "Can have arches, columns, and religious symbols.",
+        "none1235": "Used for meditation and contemplation."
+    },
+    {
+        "name": "Outdoor Oil Refinery",
+        "none1236": "An industrial facility for processing crude oil into various petroleum products.",
+        "none1237": "Can have tall structures, pipes, and storage tanks.",
+        "none1238": "Used for oil refining and production."
+    },
+    {
+        "name": "Formal Garden",
+        "none1239": "A carefully designed garden with structured patterns, hedges, and well-maintained landscaping.",
+        "none1240": "Can have fountains, statues, and symmetrical arrangements.",
+        "none1241": "Used for ornamental and aesthetic purposes."
+    },
+    {
+        "name": "Abbey",
+        "none1242": "A building or complex used as a religious residence or place of worship for monks or nuns.",
+        "none1243": "Can have religious symbols, architectural features like arches and stained glass windows, and a tranquil setting.",
+        "none1244": "Often found in a peaceful and scenic location."
+    },
+    {
+        "name": "Indoor Badminton Court",
+        "none1245": "An enclosed sports facility for playing badminton.",
+        "none1246": "Can have a net, court markings, and spectator seating.",
+        "none1247": "Used for playing badminton and other indoor sports."
+    },
+    {
+        "name": "Indoor Cavern",
+        "none1248": "An enclosed space or chamber within a natural cave system or constructed to resemble a cave.",
+        "none1249": "Can have stalactites, stalagmites, and a cave-like environment.",
+        "none1250": "Often used for tourism and exploration."
+    },
+    {
+        "name": "Outdoor Labyrinth",
+        "none1251": "An intricate and maze-like structure, often constructed in gardens or parks for meditative or recreational purposes.",
+        "none1252": "Can have winding pathways and tall hedges or walls that create a maze-like design.",
+        "none1253": "Used for walking and contemplation."
+    },
+    {
+        "name": "FrontSeat Car Interior",
+        "none1254": "The interior space of a car's front seat area where the driver and front passenger sit.",
+        "none1255": "Can have a steering wheel, dashboard, seats, and car controls.",
+        "none1256": "Used for driving and transportation."
+    },
+    {
+        "name": "Utility Room",
+        "none1257": "A small room in a house or building used for housing utility systems and equipment.",
+        "none1258": "Can have water heaters, electrical panels, and storage for household supplies.",
+        "none1259": "Used for housing and maintaining utilities."
+    },
+    {
+        "name": "Swamp",
+        "none1260": "A wetland area with standing water, vegetation like reeds and cattails, and muddy ground.",
+        "none1261": "Can have a murky appearance and be home to various wildlife, including birds and amphibians.",
+        "none1262": "Provides habitat for unique ecosystems."
+    },
+    {
+        "name": "Courtyard",
+        "none1263": "An open area enclosed by walls or buildings, often located within a residential or public space.",
+        "none1264": "Can have pathways, landscaping, and seating areas.",
+        "none1265": "Used for socializing and relaxation."
+    },
+    {
+        "name": "Construction Site",
+        "none1266": "An area where construction work is in progress, typically with heavy machinery, building materials, and workers.",
+        "none1267": "Can have construction vehicles, scaffolding, and building structures under construction.",
+        "none1268": "Used for building and infrastructure development."
+    },
+    {
+        "name": "Palace",
+        "none1269": "A large and grand residence, often associated with royalty or significant historical figures.",
+        "none1270": "Can have elaborate architectural details, grand halls, and extensive gardens.",
+        "none1271": "Used as a residence or seat of government."
+    },
+    {
+        "name": "Cemetery",
+        "none1272": "An area used for burying the dead, often with gravestones or markers.",
+        "none1273": "Can have rows of graves, monuments, and paths for visitors.",
+        "none1274": "Used for burial and remembrance."
+    },
+    {
+        "name": "Engine Room",
+        "none1275": "An enclosed space on a ship, aircraft, or industrial facility where engines and machinery are located and operated.",
+        "none1276": "Can have engines, turbines, and control panels.",
+        "none1277": "Used for propulsion or power generation."
+    },
+    {
+        "name": "Office Building",
+        "none1278": "A commercial building used for various offices and businesses.",
+        "none1279": "Can have multiple floors, office spaces, and common areas like lobbies and elevators.",
+        "none1280": "Used for business operations and administration."
+    },
+    {
+        "name": "Coast",
+        "none1281": "The area where land meets the sea or ocean.",
+        "none1282": "Can have beaches, cliffs, rocks, and coastal vegetation.",
+        "none1283": "Often associated with recreational activities and scenic views."
+    },
+    {
+        "name": "Indoor Florist Shop",
+        "none1284": "A retail store specializing in selling flowers, plants, and floral arrangements.",
+        "none1285": "Can have displays of flowers, floral decorations, and a counter for transactions.",
+        "none1286": "Used for selling flowers and providing floral services."
+    },
+    {
+        "name": "Clean Room",
+        "none1287": "A controlled environment with low levels of airborne particles, used in manufacturing or scientific research.",
+        "none1288": "Can have air filtration systems, sealed walls, and protective clothing for personnel.",
+        "none1289": "Used to prevent contamination and maintain product quality."
+    },
+    {
+        "name": "Iceberg",
+        "none1290": "A large floating mass of ice that has broken off a glacier or ice shelf.",
+        "none1291": "Can have a white or bluish appearance with distinct shapes.",
+        "none1292": "Found in polar regions and cold climates."
+    },
+    {
+        "name": "Fan Waterfall",
+        "none1293": "A type of waterfall where the water spreads out like a fan as it cascades down.",
+        "none1294": "Can have multiple streams of water forming a fan shape.",
+        "none1295": "Found in various natural settings."
+    },
+    {
+        "name": "Sauna",
+        "none1296": "A small room or enclosure designed to produce dry heat, typically with heated rocks or coals.",
+        "none1297": "Can have wooden benches and high temperatures for relaxation and sweating.",
+        "none1298": "Used for relaxation and health benefits."
+    },
+    {
+        "name": "Shed",
+        "none1299": "A small, simple building used for storage or as a workshop.",
+        "none1300": "Can have a single roof and open sides or minimal windows.",
+        "none1301": "Used for storing tools, equipment, or gardening supplies."
+    },
+    {
+        "name": "Islet",
+        "none1302": "A small, isolated landmass surrounded by water.",
+        "none1303": "Can have vegetation, rocks, and sandy shores.",
+        "none1304": "Found in lakes, rivers, and oceans."
+    },
+    {
+        "name": "Outdoor Control Tower",
+        "none1305": "A tower structure used for monitoring and controlling traffic at airports or other facilities.",
+        "none1306": "Can have windows for visibility and communication equipment.",
+        "none1307": "Used for air traffic control and coordination."
+    },
+    {
+        "name": "Playroom",
+        "none1308": "An interior space in a house or facility designed for children to play and have fun.",
+        "none1309": "Can have toys, games, and child-friendly decorations.",
+        "none1310": "Used as a designated play area for children."
+    }
+]
