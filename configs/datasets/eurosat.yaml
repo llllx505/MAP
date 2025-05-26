@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "EuroSAT"
+  FLAG: True
+  TACT: False
+  

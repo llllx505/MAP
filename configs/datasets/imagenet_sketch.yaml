@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "ImageNetSketch"
+  FLAG: False
+  TACT: True

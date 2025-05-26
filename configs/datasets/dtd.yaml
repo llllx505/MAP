@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "DescribableTextures"
+  FLAG: True
+  TACT: False

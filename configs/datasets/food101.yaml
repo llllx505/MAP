@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "Food101"
+  FLAG: False
+  TACT: True

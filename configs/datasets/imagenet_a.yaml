@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "ImageNetA"
+  FLAG: False
+  TACT: True
+  

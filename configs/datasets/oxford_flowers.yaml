@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "OxfordFlowers"
+  FLAG: False
+  TACT: True

@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "Caltech101"
+  FLAG: False
+  TACT: True

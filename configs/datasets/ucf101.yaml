@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "UCF101"
+  FLAG: False
+  TACT: True

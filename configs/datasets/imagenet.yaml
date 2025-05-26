@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "ImageNet"
+  FLAG: False
+  TACT: True
